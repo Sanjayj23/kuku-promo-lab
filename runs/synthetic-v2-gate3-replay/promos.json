@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "run_id": "run-v2-20261108T201642-20410513",
+  "pack_hash": "0561467ea63a4b30fa4524ecda1ada0d8970f67f6d1b7881f3b0dbdc7ff3fe6b",
+  "run_status": "partial",
+  "coverage": {
+    "files_discovered": 2,
+    "episodes_parsed": 2,
+    "episodes_analyzed": 2,
+    "episodes_failed": 0,
+    "episodes": [
+      {
+        "episode_id": "ep-001",
+        "source_name": "orbit-1.txt",
+        "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-002",
+        "source_name": "orbit-2.txt",
+        "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      }
+    ]
+  },
+  "recommendations": []
+}

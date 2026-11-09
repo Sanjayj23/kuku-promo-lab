@@ -1,0 +1,259 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Kuku Promo Lab — Untitled show</title><style>
+:root {
+  --bg: #F5F5F7;
+  --card: #FFFFFF;
+  --ink: #1D1D1F;
+  --sub: #6E6E73;
+  --muted: #86868B;
+  --line: rgba(0,0,0,0.07);
+  --blue: #0071E3;
+  --green-bg: #E8F8EE;
+  --green-fg: #146C2E;
+  --blue-bg: #EEF5FF;
+  --blue-fg: #0058B9;
+  --amber-bg: #FFF6E5;
+  --amber-fg: #9A5B00;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", Inter, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  background: rgba(245, 245, 247, 0.82);
+  border-bottom: 1px solid var(--line);
+}
+.nav-inner {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.brand {
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: -0.015em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--blue);
+}
+.wrap {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 36px 24px 72px;
+}
+.hero h1 {
+  font-size: 40px;
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+.hero p {
+  font-size: 18px;
+  color: var(--sub);
+  margin: 0 0 28px;
+  max-width: 680px;
+}
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+  margin-bottom: 28px;
+}
+.stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 18px 20px;
+}
+.stat-val {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+.stat-lbl {
+  font-size: 13px;
+  color: var(--sub);
+  margin-top: 2px;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.pill-btn {
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  padding: 7px 15px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.pill-btn.active {
+  background: var(--ink);
+  color: #fff;
+  border-color: var(--ink);
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 22px 24px;
+  margin-bottom: 14px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.card:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.04);
+}
+.card-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.rank {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ink);
+  background: #F0F0F3;
+  border-radius: 10px;
+  padding: 4px 10px;
+}
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+.badge {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+.badge.post_first { background: var(--green-bg); color: var(--green-fg); }
+.badge.good { background: var(--blue-bg); color: var(--blue-fg); }
+.badge.weak { background: var(--amber-bg); color: var(--amber-fg); }
+.meta {
+  font-size: 13px;
+  color: var(--sub);
+  font-variant-numeric: tabular-nums;
+}
+.score-box {
+  margin-left: auto;
+  text-align: right;
+}
+.score-num {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.score-sub {
+  font-size: 11px;
+  color: var(--muted);
+}
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+}
+@media (max-width: 680px) { .cols { grid-template-columns: 1fr; } }
+.lbl {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+.quote {
+  margin-top: 6px;
+  font-size: 13.5px;
+  color: var(--sub);
+  font-style: italic;
+}
+.why-bar {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 13.5px;
+  color: var(--sub);
+}
+.dots {
+  display: flex;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink);
+}
+.dot-pill {
+  background: #F5F5F7;
+  padding: 3px 9px;
+  border-radius: 8px;
+}
+details {
+  margin-top: 10px;
+}
+details summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--blue);
+  user-select: none;
+}
+pre {
+  white-space: pre-wrap;
+  background: #F8F8FA;
+  border: 1px solid var(--line);
+  padding: 14px;
+  border-radius: 12px;
+  font: 12.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
+  max-height: 280px;
+  overflow: auto;
+  margin-top: 10px;
+}
+</style></head><body><nav class='nav'><div class='nav-inner'><div class='brand'><span class='dot'></span>Kuku Promo Lab</div><div class='meta'>2 episodes · 2 ranked promos</div></div></nav><main class='wrap'><section class='hero'><h1>Untitled show</h1><p>Ranked 20–60 second promo cuts with exact timestamps, 3-second opening hooks, unresolved cliffhangers, and blind cold-viewer scores.</p></section><section class='stats'><div class='stat'><div class='stat-val'>2</div><div class='stat-lbl'>Ranked Promos (1 Post First · 1 Good)</div></div><div class='stat'><div class='stat-val'>65.6 <span style='font-size:16px;font-weight:500;color:#6E6E73'>vs 43.8</span></div><div class='stat-lbl'>Blind Cold-Viewer Score vs Episode Endings (2W–0T–0L)</div></div><div class='stat'><div class='stat-val'>20–60s</div><div class='stat-lbl'>100% Rule-Checked · Speech-Safe Cuts</div></div><div class='stat'><div class='stat-val'>0</div><div class='stat-lbl'>Rejected by Hard Rules · 0 Alternates</div></div></section><div class='filters'><button class='pill-btn active' onclick="filterTier('all', this)">All (2)</button><button class='pill-btn' onclick="filterTier('post_first', this)">Post First (1)</button><button class='pill-btn' onclick="filterTier('good', this)">Good (1)</button><button class='pill-btn' onclick="filterTier('weak', this)">Needs Review (0)</button></div><section id='cards'><article class='card' data-tier='post_first'><div class='card-head'><span class='rank'>#1</span><span class='title'>One Cable Left</span><span class='badge post_first'>Post First</span><span class='meta'>E01 00:00.0–00:37.0 · 37.0s</span><div class='score-box'><div class='score-num'>75.0</div><div class='score-sub'>/ 100</div></div></div><div class='cols'><div><div class='lbl'>Opening Hook (0–3s)</div><div>An urgent warning about an opening airlock immediately creates high-stakes spatial danger.</div><div class='quote'>“The airlock is opening!”</div></div><div><div class='lbl'>Unresolved Cliffhanger</div><div>The captain orders the single cable given to his daughter, raising the personal stakes before the outcome is revealed.</div><div class='quote'>“Give the cable to my daughter first.”</div></div></div><div class='why-bar'><div><strong style='color:#1D1D1F'>Why it works:</strong> The escalating dilemma from a failing airlock to a single rescue cable creates immediate, life-or-death tension that holds attention.</div><div class='dots'><span class='dot-pill'>Hook 4/5</span><span class='dot-pill'>Cliff 4/5</span><span class='dot-pill'>Clear 4/5</span><span class='dot-pill'>Tap 4/5</span></div></div><details><summary>View transcript clip &amp; cold-viewer notes</summary><div style='margin-top:8px;font-size:13px;color:#6E6E73'><strong>Cold viewer understood:</strong> An airlock is opening while crew members are trapped outside, but there is only one rescue cable for two people. · <strong>Note:</strong> Relies heavily on text and voice lines</div><pre>[0.0-2.0] ENGINEER (Urgent): &quot;The airlock is opening!&quot;
+[3.0-5.0] CAPTAIN (Calm): &quot;Our crew is still outside.&quot;
+[6.0-9.0] ENGINEER (Focused): &quot;If I seal it, they cannot get back in.&quot;
+[10.0-12.0] CAPTAIN (Determined): &quot;We have one rescue cable.&quot;
+[13.0-16.0] ENGINEER (Alarmed): &quot;The cable can hold only one person.&quot;
+[18.0-20.0] PILOT (Urgent): &quot;Two of us are out here!&quot;
+[21.0-23.0] CAPTAIN (Resolute): &quot;Tell me who has oxygen left.&quot;
+[24.0-27.0] PILOT (Afraid): &quot;My partner has stopped answering.&quot;
+[29.0-31.0] ENGINEER (Frightened): &quot;Captain, who should I pull in?&quot;
+[34.0-37.0] CAPTAIN (Tense): &quot;Give the cable to my daughter first.&quot;</pre></details></article><article class='card' data-tier='good'><div class='card-head'><span class='rank'>#2</span><span class='title'>Sold Out Into Space</span><span class='badge good'>Good</span><span class='meta'>E02 00:00.0–00:40.0 · 40.0s</span><div class='score-box'><div class='score-num'>56.2</div><div class='score-sub'>/ 100</div></div></div><div class='cols'><div><div class='lbl'>Opening Hook (0–3s)</div><div>An alarmed radio operator drops the devastating news that their space station has just been sold, instantly establishing high stakes for the trapped crew.</div><div class='quote'>“Our station has been sold!”</div></div><div><div class='lbl'>Unresolved Cliffhanger</div><div>The transmission cuts abruptly to static right after the realization that no rescue ship is coming for the thirty people aboard.</div><div class='quote'>“”</div></div></div><div class='why-bar'><div><strong style='color:#1D1D1F'>Why it works:</strong> It starts immediately with a shocking betrayal and escalates tension through a ticking clock until the chilling cut to static.</div><div class='dots'><span class='dot-pill'>Hook 3/5</span><span class='dot-pill'>Cliff 3/5</span><span class='dot-pill'>Clear 4/5</span><span class='dot-pill'>Tap 3/5</span></div></div><details><summary>View transcript clip &amp; cold-viewer notes</summary><div style='margin-top:8px;font-size:13px;color:#6E6E73'><strong>Cold viewer understood:</strong> A station crew is left stranded after a sale, ending in radio static. · <strong>Note:</strong> Slow pacing</div><pre>[0.0-2.0] RADIO OPERATOR (Alarmed): &quot;Our station has been sold!&quot;
+[6.0-9.0] TECHNICIAN (Worried): &quot;We still have thirty people aboard.&quot;
+[13.0-16.0] RADIO OPERATOR (Firm): &quot;The buyer wants everyone off before dawn.&quot;
+[20.0-22.0] TECHNICIAN (Determined): &quot;Then who is coming to get us?&quot;
+[26.0-29.0] RADIO OPERATOR (Quiet): &quot;No rescue ship is on the schedule.&quot;
+[33.0-36.0] TECHNICIAN (Uneasy): &quot;What did the buyer plan for the people?&quot;
+[37.0-40.0] SOUND_FX: Static replaces the transmission.</pre></details></article></section><script>function filterTier(tier, btn){document.querySelectorAll('.pill-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');document.querySelectorAll('#cards .card').forEach(c=>{c.style.display=(tier==='all'||c.dataset.tier===tier)?'block':'none';});}</script></main></body></html>

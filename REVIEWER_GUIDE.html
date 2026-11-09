@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kuku Promo Lab (V8) — Submission Files</title>
+</head>
+<body style="max-width:780px;margin:48px auto;padding:24px;font:17px/1.6 system-ui,-apple-system,sans-serif;color:#111827">
+<h1>Kuku Promo Lab (V8)</h1>
+<p><strong>Problem 1 — Find the Promos (Ads):</strong> Story-aware promo discovery with deterministic line-ID boundary resolution, speech-safe snapping, 1-round rule repair, and blind cold-viewer evaluation across all 50 episodes.</p>
+<ul>
+  <li><a href="./FINAL_SOLUTION.pdf"><strong>Read the Two-Page Solution PDF (FINAL_SOLUTION.pdf)</strong></a></li>
+  <li><a href="./v8-synthetic-report.html"><strong>Open the V8 Interactive Promo Report (Synthetic Demo)</strong></a></li>
+  <li><a href="./runs/v8-50ep-structural-summary/promos_structural_50ep.json"><strong>View 50-Episode Structural Summary (52 Ranked Promos, Confidentiality-Safe)</strong></a></li>
+  <li><a href="./index.html"><strong>Open Kuku Promo Lab Studio (Cut Inspector)</strong></a></li>
+  <li><a href="./PUBLIC_SOURCE.zip"><strong>Download Complete Runnable Source (PUBLIC_SOURCE.zip)</strong></a></li>
+</ul>
+<h2>50-Episode V8 Run Summary</h2>
+<ul>
+  <li><strong>52 ranked promos</strong> across all 50 episodes: <strong>15 Tier-1 (<code>post_first</code>)</strong>, <strong>21 Tier-2 (<code>good</code>)</strong>, and <strong>16 Tier-3 (<code>weak</code>)</strong>, plus 5 alternates and 8 hard-rule rejections after 1 repair pass.</li>
+  <li><strong>Blind Cold-Viewer Evaluation:</strong> Best cut per episode averages <strong>62.0 / 100</strong> vs <strong>49.1</strong> for 40 s episode endings (<strong>31W–7T–5L</strong> head-to-head) and <strong>46.4</strong> for random 40 s windows.</li>
+  <li><strong>Confidentiality:</strong> Full unedited 50-episode outputs with verbatim screenplay quotes and raw model call logs are provided in the private reviewer package (<code>RAW_OUTPUTS_V8_50_EPISODES.zip</code>) and excluded from public hosting.</li>
+</ul>
+<h2>Run Locally on Any New Screenplay Pack</h2>
+<pre style="background:#f3f4f6;padding:14px;border-radius:8px;overflow:auto;font-size:14px">unzip PUBLIC_SOURCE.zip &amp;&amp; cd kuku-promo-lab
+python3 -m venv .venv &amp;&amp; source .venv/bin/activate
+pip install -r requirements.lock &amp;&amp; pip install --no-deps -e .
+export GEMINI_API_KEY=your_key_here
+kuku promos --input tests/fixtures/synthetic --out private/runs/demo --config config/promos.gemini.json</pre>
+</body>
+</html>

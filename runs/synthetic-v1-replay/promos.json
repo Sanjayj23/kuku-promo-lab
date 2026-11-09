@@ -1,0 +1,333 @@
+{
+  "schema_version": "1.0",
+  "run_id": "run-20261108T201642-89027493",
+  "pack_hash": "0561467ea63a4b30fa4524ecda1ada0d8970f67f6d1b7881f3b0dbdc7ff3fe6b",
+  "run_status": "complete",
+  "coverage": {
+    "files_discovered": 2,
+    "episodes_parsed": 2,
+    "episodes_analyzed": 2,
+    "episodes_failed": 0,
+    "episodes": [
+      {
+        "episode_id": "ep-001",
+        "source_name": "orbit-1.txt",
+        "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-002",
+        "source_name": "orbit-2.txt",
+        "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "promo_id": "cut-b9c0fc18a5e22581421d",
+      "rank": 1,
+      "family_id": "family-8eafb187844c9ee9",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-002",
+          "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+          "start_boundary_id": "ep-002:t000006000",
+          "end_boundary_id": "ep-002:t000036000",
+          "start_ms": 6000,
+          "end_ms": 36000,
+          "duration_ms": 30000,
+          "start_timecode": "00:00:06.000",
+          "end_timecode": "00:00:36.000"
+        }
+      ],
+      "duration_ms": 30000,
+      "hook": {
+        "text": "The opener provides a specific situation with a clear problem: thirty people are stranded.",
+        "evidence_ids": [
+          "ep-002:b0002"
+        ]
+      },
+      "cliffhanger": {
+        "text": "What did the buyer plan for the people?",
+        "evidence_ids": [
+          "ep-002:b0006"
+        ]
+      },
+      "why_it_works": "Opens on The opener provides a specific situation with a clear problem: thirty people are stranded and leaves What did the buyer plan for the people.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-002:b0002",
+          "source_episode": "ep-002",
+          "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+          "block_id": "ep-002:b0002",
+          "line_start": 16,
+          "line_end": 18
+        },
+        {
+          "evidence_id": "ep-002:b0003",
+          "source_episode": "ep-002",
+          "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+          "block_id": "ep-002:b0003",
+          "line_start": 20,
+          "line_end": 22
+        },
+        {
+          "evidence_id": "ep-002:b0004",
+          "source_episode": "ep-002",
+          "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+          "block_id": "ep-002:b0004",
+          "line_start": 24,
+          "line_end": 26
+        },
+        {
+          "evidence_id": "ep-002:b0005",
+          "source_episode": "ep-002",
+          "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+          "block_id": "ep-002:b0005",
+          "line_start": 28,
+          "line_end": 30
+        },
+        {
+          "evidence_id": "ep-002:b0006",
+          "source_episode": "ep-002",
+          "source_sha256": "9fbd374da0d39903b4d9b03de3c1ca5282324802198feabc52da3e6844da74b7",
+          "block_id": "ep-002:b0006",
+          "line_start": 32,
+          "line_end": 34
+        }
+      ],
+      "ranking": {
+        "score": 72.5,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-002:b0002"
+            ],
+            "reason": "The opener provides a specific situation with a clear problem: thirty people are stranded."
+          },
+          "cliffhanger": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-002:b0006"
+            ],
+            "reason": "The closing question raises an unresolved concern about the buyer's plan for the people."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-002:b0002",
+              "ep-002:b0003",
+              "ep-002:b0004",
+              "ep-002:b0005"
+            ],
+            "reason": "The dialogue establishes roles (buyer, stranded people), an immediate obstacle (no rescue ship), and a stated consequence (people must leave before dawn)."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-002:b0004",
+              "ep-002:b0006"
+            ],
+            "reason": "There is recognizable personal stakes as the stranded people are concerned about their fate."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-002:b0002",
+              "ep-002:b0003",
+              "ep-002:b0004",
+              "ep-002:b0005"
+            ],
+            "reason": "The dialogue has a clear cause/reaction progression, with each exchange building on the previous one."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-002:b0002",
+              "ep-002:b0006"
+            ],
+            "reason": "The dialogue has a complete start and end with an intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-0bb16dffd40ca80ea772",
+      "rank": 2,
+      "family_id": "family-c8af047352eb21b6",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "start_boundary_id": "ep-001:t000021000",
+          "end_boundary_id": "ep-001:t000052000",
+          "start_ms": 21000,
+          "end_ms": 52000,
+          "duration_ms": 31000,
+          "start_timecode": "00:00:21.000",
+          "end_timecode": "00:00:52.000"
+        }
+      ],
+      "duration_ms": 31000,
+      "hook": {
+        "text": "The opener establishes a critical situation with a direct question about oxygen availability.",
+        "evidence_ids": [
+          "ep-001:b0007"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Who gave the rescue code to the unknown person on the channel?",
+        "evidence_ids": [
+          "ep-001:b0013"
+        ]
+      },
+      "why_it_works": "Opens on The opener establishes a critical situation with a direct question about oxygen availability and leaves Who gave the rescue code to the unknown person on the channel.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-001:b0007",
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "block_id": "ep-001:b0007",
+          "line_start": 38,
+          "line_end": 40
+        },
+        {
+          "evidence_id": "ep-001:b0008",
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "block_id": "ep-001:b0008",
+          "line_start": 42,
+          "line_end": 44
+        },
+        {
+          "evidence_id": "ep-001:b0009",
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "block_id": "ep-001:b0009",
+          "line_start": 46,
+          "line_end": 48
+        },
+        {
+          "evidence_id": "ep-001:b0010",
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "block_id": "ep-001:b0010",
+          "line_start": 57,
+          "line_end": 59
+        },
+        {
+          "evidence_id": "ep-001:b0011",
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "block_id": "ep-001:b0011",
+          "line_start": 61,
+          "line_end": 63
+        },
+        {
+          "evidence_id": "ep-001:b0013",
+          "source_episode": "ep-001",
+          "source_sha256": "9774f00df447631cc59fbead3b454be44f8425d0283f8139c52bca67d339c4bd",
+          "block_id": "ep-001:b0013",
+          "line_start": 69,
+          "line_end": 71
+        }
+      ],
+      "ranking": {
+        "score": 66.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-001:b0007"
+            ],
+            "reason": "The opener establishes a critical situation with a direct question about oxygen availability."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-001:b0013"
+            ],
+            "reason": "The final question remains unanswered, indicating an unresolved conflict."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-001:b0007",
+              "ep-001:b0008",
+              "ep-001:b0009",
+              "ep-001:b0010"
+            ],
+            "reason": "Roles (rescuer, crew member, captain) and stakes (oxygen allocation, crew list) are clearly established."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-001:b0010",
+              "ep-001:b0011"
+            ],
+            "reason": "Personal stakes are evident with the mention of a daughter and a conflict over her status."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-001:b0007",
+              "ep-001:b0008",
+              "ep-001:b0009",
+              "ep-001:b0010"
+            ],
+            "reason": "The dialogue shows a clear progression of conflict and decision-making."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-001:b0007",
+              "ep-001:b0013"
+            ],
+            "reason": "The clip has a clear beginning and end with an unresolved question."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "near_tie",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    }
+  ]
+}

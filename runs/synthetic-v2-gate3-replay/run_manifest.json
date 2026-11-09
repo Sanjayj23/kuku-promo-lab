@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "run_id": "run-v2-20261108T201642-20410513",
+  "run_status": "partial",
+  "mode": "proposed",
+  "execution": "replay",
+  "started_utc": "2026-11-08T20:16:42.654528+00:00",
+  "finished_utc": "2026-11-08T20:16:42.691587+00:00",
+  "elapsed_s": 0.0371,
+  "pack_hash": "0561467ea63a4b30fa4524ecda1ada0d8970f67f6d1b7881f3b0dbdc7ff3fe6b",
+  "input_path": "/Users/sanjayjangir/Documents/ChatGPT/KUKU/submission_release_v6_20261109/KUKU_PROMO_LAB_FINAL_V6/01_PRODUCT/source/tests/fixtures/synthetic",
+  "config": {
+    "editorial_version": 2,
+    "minimum_hook_specificity": 1,
+    "schema_version": "1.0",
+    "min_duration_ms": 20000,
+    "max_duration_ms": 60000,
+    "hook_window_ms": 3000,
+    "max_proposals_per_episode": 1,
+    "max_families": 2,
+    "max_variants": 3,
+    "neighbor_radius_ms": 10000,
+    "top_k": 10,
+    "seed": 20261105,
+    "provider": "local",
+    "endpoint": "http://127.0.0.1:8080/v1",
+    "model": "qwen3-4b",
+    "model_sha256": "7485fe6f11af29433bc51cab58009521f205840f5b4ae3a32fa7f92e8534fdf5",
+    "runtime_identity": "llama.cpp b12114 b393d73bb, Darwin arm64, Metal, ctx=16384, q8_0 KV, reasoning off, no context shift",
+    "runtime_cache_ram_mib": 0,
+    "runtime_checkpoints": 0,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k_sampling": 20,
+    "max_tokens": 1400,
+    "request_timeout_s": 360,
+    "max_attempts": 462,
+    "repair_attempts": 1,
+    "max_input_chars": 75000,
+    "cache_dir": "private/synthetic-v2-cache",
+    "manual_dir": "private/manual",
+    "max_base_windows": 48,
+    "max_files": 200,
+    "max_member_bytes": 2097152,
+    "max_total_bytes": 52428800,
+    "max_compression_ratio": 100,
+    "editorial_gate_version": 3
+  },
+  "config_hash": "4b78a539e7a06826af2adf34d609ad49ad95ddd13d3f42e9eb42cf9cbd9c9385",
+  "code_hash": "bd4d9e962a40d234a01c8a4395e426ae1eee2b4e8c64b8421251b4ef2c9fdd73",
+  "code_files": {
+    "__init__.py": "f6b913b474243123869fa22671572a6d72dd5217c9b3aef803cb8c150a6e5502",
+    "analyst.py": "902d2cd77367a02708cb46558892b754d47673b7eaa91676672fa636ee169cec",
+    "baselines.py": "0a00bff98829451d587e4650d1510524bce12e691c8fdc501352b970fb112d22",
+    "cli.py": "0f50fdb95ee100626333f3d89d9476131f0eb2f9c167eebca45e6c8a4f55c8a3",
+    "context.py": "46cc6681db417b9e16dbcfae413c79de6424ab97ce5201ccc128fd2319e4463b",
+    "discovery_v4.py": "f08eb646d30fbd371d65a0121edc6fc5b02dd76c74f4fb64f54b7247e885b2f2",
+    "editorial.py": "4f157a917672eb814ced70475e0a1f5840b98614bbd93d4b402108ac4b8386e0",
+    "editorial_v4.py": "d8469462723de66eb4b41b9387e28a3620a32a15975ef1720f068f05db94d7ab",
+    "evaluate.py": "8bb968f6a3e8b3c9520e1801b6de4eed6a537912b8f0ae3311875105e1848643",
+    "evidence.py": "bb8d766f397abe19278701cc5fa4211804112358b3e154f3414c70ade126e2b0",
+    "export.py": "224059b7134e4e61a31e02dc4eac9e0bb832fb2e2b1dd89dc6e004703c4a1486",
+    "grounding.py": "e4cae8396415df48873a688c9cc143ec05dac06ce96032eb223c52e0ab20c49d",
+    "ingest.py": "80dd7f3d803281ba51934f77573495b650d41390e770b5106a2bbb924b0f57c6",
+    "models.py": "c792cfe9613ebbb7b5775e24b1130fc4368c6a6082782c9224e37477e6e86298",
+    "parser.py": "d394f6b90d8e5496c2405a3424bac298a55edb3a5e02529c136fde5ebaf914ca",
+    "pipeline.py": "b79140c3e5302169373fe66cef4d4f7ec50dd38d760be861e57c031650c9167e",
+    "pipeline_v4.py": "7969748c6c0fcf259aefe35cef0fb0a64ca6c53fb8fd4e334077345955642295",
+    "projection.py": "44e9debf249e030fa94b26bb7225626d90551ab6fa012837532533893a29d822",
+    "prompts/analyst.md": "0e1daa8e24cc94f30ef4e2ddf8ddcdd6ab09d039ee3b262acb905fbf7d5aad4b",
+    "prompts/answer_check.md": "5a9aed232d976784440267f5aaecdbc98cbb7db44ee373391438f94241786cdd",
+    "prompts/doctor.md": "049ff827a2cfb00b74f9df5a40217ecdb6844edb93f8b4e40a10092f07c85c99",
+    "prompts/opener_review.md": "f075952a0656e9064014d13527a1057f4e08a25c0198068b55a9a872e0ec354d",
+    "prompts/reviewer.md": "9bd71919b215638fb7774baeda8da5d9ec4a83038aa4027647218a76255eca9c",
+    "prompts/v4/analyst.md": "ecb994abc2f278ea048b1b48b9b73c376fb42c53edea856e0ac061c8e46e7988",
+    "prompts/v4/answer_check.md": "d647e55ad20d59ea55504969b3553cc721bbd2aff5ca0d396e069b36933498b5",
+    "prompts/v4/opener_review.md": "9709739e1456324874c90f8cb12edabbc1424d1f736360e054719ff3e895fe3a",
+    "prompts/v4/reviewer.md": "3af16c5a5d7670c1d523ab8be2548f29c200138d60b9f0f8a19a0d8b0ebaad5a",
+    "ranking.py": "5ddcbcc9577fad864cf70f28b137fa70383e6138f152a313ccc0f5020ee98017",
+    "recommendation.schema.json": "40a2b45f44634ade83f04d220b00914aa7c0a8141cd83695c7a507aec5e2e393",
+    "report.py": "cbc0baa09b20089f5dfb314f477d13fa3ce8f961c3c05bccd5fa61c9b908159a",
+    "reviewer.py": "808091fae8ce53c1ebeca5346b4f324b4ace5d4703478e4d998d0fcb749c8c3b",
+    "schemas.py": "587dfc730479603f36f45941935b27c071a33cf3125c75964328b35709ca82f7",
+    "search.py": "b9b609e8cd7d8425ebf88d591ce8374faad9d5fc61c322f817acd35c3bcf5876",
+    "source_check.py": "dd1782e2177094269d4d59b409eb38c71d494b59d492edbbc7591d3e2245706d",
+    "studio.py": "c127d2c2d3870126e81df2d982c6a3f1d6642bae55ab90aa376b801b9b350e24",
+    "studio_demo.py": "08e4f3ef1b29eee85127eb4797ac875cbba320cb6f11d23aecc393e56890910f",
+    "timeline.py": "055e83211995eb927215928e810e31454ed59a22deea717c3c84696ec94e1234",
+    "ui.py": "2766517ec805bc35d2e1151aa81cbfee50b20e976c54dd9a3e1b7f7abde5e52e",
+    "validation.py": "0902e8c42364ac300567200a1cb52a71b82f9d052d2ff81de7acf3b1ebe2f841"
+  },
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "dependencies": {
+    "jsonschema": "4.23.0"
+  },
+  "model": {
+    "provider": "local",
+    "model": "qwen3-4b",
+    "model_sha256": "7485fe6f11af29433bc51cab58009521f205840f5b4ae3a32fa7f92e8534fdf5",
+    "runtime_identity": "llama.cpp b12114 b393d73bb, Darwin arm64, Metal, ctx=16384, q8_0 KV, reasoning off, no context shift",
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k_sampling": 20,
+    "max_tokens": 1400
+  },
+  "inference": {
+    "attempts": 0,
+    "cache_hits": 0,
+    "replays": 16,
+    "historical_reuses": 0,
+    "usage": {
+      "tokens": "unavailable",
+      "reported_calls": 0,
+      "reported_subtotal": null
+    },
+    "request_elapsed_s": 0,
+    "calls": [
+      {
+        "key": "07963dc28f23cff0291b8e79e73b56a2d6bd5065e9d8f43102419e8512f79b29",
+        "role": "analyst",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 147.947609,
+        "normalizations": 0
+      },
+      {
+        "key": "fd26d0b8c433e25d1e25dbb8090bbf5a7e056b6340d3a90f25217e41d251da45",
+        "role": "analyst",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 51.693058,
+        "normalizations": 0
+      },
+      {
+        "key": "bf5d2806e7e959fd9a8b3a584be54a17bd2d468d022d3b94f115e9af144eff5a",
+        "role": "reviewer",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 127.662806,
+        "normalizations": 2
+      },
+      {
+        "key": "c838a1aafb36db7642f445d047eac7d7232ecda13ee859bf9e1457b83d63f8cf",
+        "role": "opener_review",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 22.520923,
+        "normalizations": 0
+      },
+      {
+        "key": "1d84a183d4e83f7095a10328a272122c2ff47a526ab45d7d1eb85cdc5deedfe8",
+        "role": "answer_check",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 114.5982,
+        "normalizations": 0
+      },
+      {
+        "key": "f4275b4ce259b6ad8d32fcc4a961ace0a4794dd7c7aaf31f21a3e90c701ee767",
+        "role": "reviewer",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 161.218837,
+        "normalizations": 2
+      },
+      {
+        "key": "e734e4caf2b1ed210cf80344824031dc218dd71dd246188b073f8f8e5a4fe155",
+        "role": "opener_review",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 192.01652,
+        "normalizations": 0
+      },
+      {
+        "key": "983b6283ccca972b86ddf5b6d8be0877895a8235b828ed8bdc90f61b06597aaf",
+        "role": "answer_check",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 116.878146,
+        "normalizations": 0
+      },
+      {
+        "key": "69e10fe8d1608732f3fcf6a815b28d408f8166affc0aab63bff3f63e9367874b",
+        "role": "reviewer",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 153.150034,
+        "normalizations": 2
+      },
+      {
+        "key": "ad0c4b9233a93b2e78782b9a39d68ecf6ba0a094136c9bad308fc40243c46d5e",
+        "role": "opener_review",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 76.787773,
+        "normalizations": 0
+      },
+      {
+        "key": "e67ae400f42a3908b114b8c40f656eec579eaa38d2597fff4dd5586e3f46196b",
+        "role": "answer_check",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 115.1789,
+        "normalizations": 0
+      },
+      {
+        "key": "c1d7f02b32a35599e70ffb7851df786f5b492a436b7ce238290fa521f0e8287a",
+        "role": "reviewer",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 105.690438,
+        "normalizations": 2
+      },
+      {
+        "key": "ec822f618dd2444035437c07e4c735289bc71ffad5ffcdb4a5f24f47cc789531",
+        "role": "opener_review",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 35.316284,
+        "normalizations": 0
+      },
+      {
+        "key": "088fb3086d3635fe3b2d0d254e4595919c2dc5eea9dadc1f9ea57e54db645c76",
+        "role": "answer_check",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 27.22788,
+        "normalizations": 0
+      },
+      {
+        "key": "ca1caa9d77d78e69f62dd19b956096d6b46fe652c9529b003bf56a8179f455e7",
+        "role": "reviewer",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 66.203059,
+        "normalizations": 0
+      },
+      {
+        "key": "60c13e4991fcce9f76a3de3d6d3863dbba4550843227356dd63845eec37ae21a",
+        "role": "opener_review",
+        "origin": "replay",
+        "validated": true,
+        "elapsed_s": 34.296264,
+        "normalizations": 0
+      }
+    ]
+  },
+  "statistics": {
+    "files_discovered": 2,
+    "files_parsed": 2,
+    "scenes": 3,
+    "blocks": 22,
+    "block_types": {
+      "dialogue": 20,
+      "camera": 1,
+      "sound_fx": 1
+    },
+    "total_extent_ms": 100880,
+    "warnings": [],
+    "base_candidates": 2,
+    "families_reviewed": 2,
+    "variants_reviewed": 5,
+    "recommendations": 0,
+    "failures": 1,
+    "candidate_tiers": {
+      "Excluded": 5
+    }
+  },
+  "context_policy": "Current plus adjacent episode source metadata; no model outline; never sent to restricted reviewer.",
+  "human_evaluation": "pending",
+  "video_verified": false,
+  "editorial_gate_version": 3,
+  "replay_source_run_id": null
+}

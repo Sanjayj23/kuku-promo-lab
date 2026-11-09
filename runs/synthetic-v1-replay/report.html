@@ -1,0 +1,1883 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Kuku Promo Lab — local review</title><style>body{font:16px/1.55 system-ui;max-width:1100px;margin:40px auto;padding:0 24px;background:#10151c;color:#e7edf4}h1,h2{line-height:1.2}h1{font-size:36px}article{border:1px solid #354252;border-radius:14px;padding:22px;margin:18px 0;background:#19212b}a{color:#8cceff}small{color:#abbaca}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#10151c;padding:16px}summary{cursor:pointer;padding:14px 0}.tag{color:#8de0bc}</style><h1>Kuku Promo Lab</h1><p class="tag">Private local script review · complete · replay</p><p>{&#x27;files_discovered&#x27;: 2, &#x27;files_parsed&#x27;: 2, &#x27;scenes&#x27;: 3, &#x27;blocks&#x27;: 22, &#x27;block_types&#x27;: {&#x27;dialogue&#x27;: 20, &#x27;camera&#x27;: 1, &#x27;sound_fx&#x27;: 1}, &#x27;total_extent_ms&#x27;: 100880, &#x27;warnings&#x27;: [], &#x27;base_candidates&#x27;: 2, &#x27;families_reviewed&#x27;: 2, &#x27;variants_reviewed&#x27;: 7, &#x27;recommendations&#x27;: 2, &#x27;failures&#x27;: 0}</p><p>Script timestamps only. Dialogue-only model judgments; human review pending; no video processed.</p><p><a href="promos.json">JSON</a> · <a href="promos.csv">CSV</a> · <a href="validation.json">Validation</a> · <a href="run_manifest.json">Run manifest</a></p><h2>Model suggestions for human review (2)</h2><article><h2>#1 · ep-002 · 72.5 model points</h2><p>00:00:06.000 → 00:00:36.000 (30s)</p><p>Tier V1 / human review pending · </p><p><b>Hook:</b> The opener provides a specific situation with a clear problem: thirty people are stranded.</p><p><b>Proposed question:</b> What did the buyer plan for the people?</p><p><b>Ending evidence:</b> </p><p>Opens on The opener provides a specific situation with a clear problem: thirty people are stranded and leaves What did the buyer plan for the people.</p><p><b>Why this boundary:</b> </p><small>dialogue_only, script_timing_unverified_in_video</small></article><article><h2>#2 · ep-001 · 66.25 model points</h2><p>00:00:21.000 → 00:00:52.000 (31s)</p><p>Tier V1 / human review pending · </p><p><b>Hook:</b> The opener establishes a critical situation with a direct question about oxygen availability.</p><p><b>Proposed question:</b> Who gave the rescue code to the unknown person on the channel?</p><p><b>Ending evidence:</b> </p><p>Opens on The opener establishes a critical situation with a direct question about oxygen availability and leaves Who gave the rescue code to the unknown person on the channel.</p><p><b>Why this boundary:</b> </p><small>dialogue_only, near_tie, script_timing_unverified_in_video</small></article><h2>Boundary comparisons</h2><article><h2>family-c8af047352eb21b6 · ep-001</h2><p>{&#x27;reason&#x27;: &#x27;Eligibility, fixed weighted score, comprehension, cliffhanger, hook, shorter duration, candidate ID.&#x27;, &#x27;winner_id&#x27;: &#x27;cut-0bb16dffd40ca80ea772&#x27;, &#x27;near_tie&#x27;: True, &#x27;deltas&#x27;: [{&#x27;against&#x27;: &#x27;cut-947c8b86bef100bebc91&#x27;, &#x27;criteria_winner_minus_alternative&#x27;: {&#x27;hook&#x27;: 0, &#x27;cliffhanger&#x27;: 0, &#x27;comprehension&#x27;: 0, &#x27;emotion&#x27;: 0, &#x27;coherence&#x27;: 0, &#x27;boundary&#x27;: 0}, &#x27;added_block_ids&#x27;: [&#x27;ep-001:b0007&#x27;], &#x27;removed_block_ids&#x27;: [&#x27;ep-001:b0014&#x27;]}, {&#x27;against&#x27;: &#x27;cut-c8af047352eb21b633f0&#x27;, &#x27;criteria_winner_minus_alternative&#x27;: {&#x27;hook&#x27;: 0, &#x27;cliffhanger&#x27;: 0, &#x27;comprehension&#x27;: 0, &#x27;emotion&#x27;: 0, &#x27;coherence&#x27;: 0, &#x27;boundary&#x27;: 0}, &#x27;added_block_ids&#x27;: [], &#x27;removed_block_ids&#x27;: [&#x27;ep-001:b0014&#x27;]}, {&#x27;against&#x27;: &#x27;cut-b66c7bf31eaf27f8ed6a&#x27;, &#x27;criteria_winner_minus_alternative&#x27;: {&#x27;hook&#x27;: 0, &#x27;cliffhanger&#x27;: 0, &#x27;comprehension&#x27;: 0, &#x27;emotion&#x27;: 0, &#x27;coherence&#x27;: 0, &#x27;boundary&#x27;: 0}, &#x27;added_block_ids&#x27;: [], &#x27;removed_block_ids&#x27;: [&#x27;ep-001:b0006&#x27;, &#x27;ep-001:b0014&#x27;]}], &#x27;base_id&#x27;: &#x27;cut-c8af047352eb21b633f0&#x27;, &#x27;decision&#x27;: {&#x27;winner_variant&#x27;: &#x27;previous_end&#x27;, &#x27;winner_interval_ms&#x27;: [21000, 52000], &#x27;base_interval_ms&#x27;: [21000, 58000], &#x27;alternatives&#x27;: [{&#x27;candidate_id&#x27;: &#x27;cut-947c8b86bef100bebc91&#x27;, &#x27;variant&#x27;: &#x27;next_start&#x27;, &#x27;interval_ms&#x27;: [24000, 58000], &#x27;tier&#x27;: None, &#x27;decided_by&#x27;: &#x27;shorter_duration&#x27;, &#x27;flags_absent_on_winner&#x27;: []}, {&#x27;candidate_id&#x27;: &#x27;cut-c8af047352eb21b633f0&#x27;, &#x27;variant&#x27;: &#x27;base&#x27;, &#x27;interval_ms&#x27;: [21000, 58000], &#x27;tier&#x27;: None, &#x27;decided_by&#x27;: &#x27;shorter_duration&#x27;, &#x27;flags_absent_on_winner&#x27;: []}, {&#x27;candidate_id&#x27;: &#x27;cut-b66c7bf31eaf27f8ed6a&#x27;, &#x27;variant&#x27;: &#x27;previous_start&#x27;, &#x27;interval_ms&#x27;: [18000, 58000], &#x27;tier&#x27;: None, &#x27;decided_by&#x27;: &#x27;shorter_duration&#x27;, &#x27;flags_absent_on_winner&#x27;: []}], &#x27;unreviewed_alternatives&#x27;: 0, &#x27;tie_break_only&#x27;: True, &#x27;summary&#x27;: &#x27;All 3 reviewed nearby cuts received identical judgments; this cut was chosen by the shorter-duration/ID tie-break, without an editorial difference.&#x27;}}</p><details><summary>base · 21–58s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 2, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 37000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Tell me who has oxygen left.\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 2000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+      &quot;start_ms&quot;: 3000,
+      &quot;end_ms&quot;: 6000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+      &quot;start_ms&quot;: 8000,
+      &quot;end_ms&quot;: 10000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+      &quot;start_ms&quot;: 13000,
+      &quot;end_ms&quot;: 16000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U005&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+      &quot;start_ms&quot;: 18000,
+      &quot;end_ms&quot;: 20000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U006&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+      &quot;start_ms&quot;: 23000,
+      &quot;end_ms&quot;: 26000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U007&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+      &quot;start_ms&quot;: 29000,
+      &quot;end_ms&quot;: 31000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U008&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Do not open the inner door yet.\&quot;&quot;,
+      &quot;start_ms&quot;: 34000,
+      &quot;end_ms&quot;: 37000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-5a2da591d8be73d93d64&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A rescue team debates who to save when oxygen is limited, with conflicting claims about a daughter and a rescue code.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U002&quot;,
+      &quot;U003&quot;,
+      &quot;U004&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;Who gave the rescue code and should be prioritized for the oxygen?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U007&quot;,
+      &quot;U008&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener establishes an immediate conflict over oxygen allocation.&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U007&quot;,
+        &quot;U008&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue ends with an unresolved question about the rescue code and door action.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;Roles (captain, partner, daughter) and stakes (limited oxygen) are clear.&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;
+      ],
+      &quot;reason&quot;: &quot;Personal stakes are evident with the daughter and oxygen crisis.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue shows a clear progression of conflict and decision.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U008&quot;
+      ],
+      &quot;reason&quot;: &quot;The clip has a clear beginning and end with an unresolved tension.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0007&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Resolute)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Resolute&quot;,
+    &quot;start_ms&quot;: 21000,
+    &quot;end_ms&quot;: 23000,
+    &quot;raw_start&quot;: &quot;00:21.00&quot;,
+    &quot;raw_end&quot;: &quot;00:23.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Tell me who has oxygen left.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Resolute):**\nStart: (00:21.00) | End: (00:23.00)\n\&quot;Tell me who has oxygen left.\&quot;\n&quot;,
+    &quot;line_start&quot;: 38,
+    &quot;line_end&quot;: 40,
+    &quot;ordinal&quot;: 7
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0008&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Afraid)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Afraid&quot;,
+    &quot;start_ms&quot;: 24000,
+    &quot;end_ms&quot;: 27000,
+    &quot;raw_start&quot;: &quot;00:24.00&quot;,
+    &quot;raw_end&quot;: &quot;00:27.00&quot;,
+    &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Afraid):**\nStart: (00:24.00) | End: (00:27.00)\n\&quot;My partner has stopped answering.\&quot;\n&quot;,
+    &quot;line_start&quot;: 42,
+    &quot;line_end&quot;: 44,
+    &quot;ordinal&quot;: 8
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0009&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Frightened)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Frightened&quot;,
+    &quot;start_ms&quot;: 29000,
+    &quot;end_ms&quot;: 31000,
+    &quot;raw_start&quot;: &quot;00:29.00&quot;,
+    &quot;raw_end&quot;: &quot;00:31.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Frightened):**\nStart: (00:29.00) | End: (00:31.00)\n\&quot;Captain, who should I pull in?\&quot;\n&quot;,
+    &quot;line_start&quot;: 46,
+    &quot;line_end&quot;: 48,
+    &quot;ordinal&quot;: 9
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0010&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Tense)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Tense&quot;,
+    &quot;start_ms&quot;: 34000,
+    &quot;end_ms&quot;: 37000,
+    &quot;raw_start&quot;: &quot;00:34.00&quot;,
+    &quot;raw_end&quot;: &quot;00:37.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Tense):**\nStart: (00:34.00) | End: (00:37.00)\n\&quot;Give the cable to my daughter first.\&quot;\n&quot;,
+    &quot;line_start&quot;: 57,
+    &quot;line_end&quot;: 59,
+    &quot;ordinal&quot;: 10
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0011&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Shocked)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Shocked&quot;,
+    &quot;start_ms&quot;: 39000,
+    &quot;end_ms&quot;: 41000,
+    &quot;raw_start&quot;: &quot;00:39.00&quot;,
+    &quot;raw_end&quot;: &quot;00:41.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Shocked):**\nStart: (00:39.00) | End: (00:41.00)\n\&quot;Your daughter is not on the crew list.\&quot;\n&quot;,
+    &quot;line_start&quot;: 61,
+    &quot;line_end&quot;: 63,
+    &quot;ordinal&quot;: 11
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0012&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Quiet)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 44000,
+    &quot;end_ms&quot;: 47000,
+    &quot;raw_start&quot;: &quot;00:44.00&quot;,
+    &quot;raw_end&quot;: &quot;00:47.00&quot;,
+    &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Quiet):**\nStart: (00:44.00) | End: (00:47.00)\n\&quot;There is someone else on this channel.\&quot;\n&quot;,
+    &quot;line_start&quot;: 65,
+    &quot;line_end&quot;: 67,
+    &quot;ordinal&quot;: 12
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0013&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Uneasy)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Uneasy&quot;,
+    &quot;start_ms&quot;: 50000,
+    &quot;end_ms&quot;: 52000,
+    &quot;raw_start&quot;: &quot;00:50.00&quot;,
+    &quot;raw_end&quot;: &quot;00:52.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Uneasy):**\nStart: (00:50.00) | End: (00:52.00)\n\&quot;Who gave them our rescue code?\&quot;\n&quot;,
+    &quot;line_start&quot;: 69,
+    &quot;line_end&quot;: 71,
+    &quot;ordinal&quot;: 13
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0014&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Firm)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Firm&quot;,
+    &quot;start_ms&quot;: 55000,
+    &quot;end_ms&quot;: 58000,
+    &quot;raw_start&quot;: &quot;00:55.00&quot;,
+    &quot;raw_end&quot;: &quot;00:58.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Do not open the inner door yet.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Firm):**\nStart: (00:55.00) | End: (00:58.00)\n\&quot;Do not open the inner door yet.\&quot;\n&quot;,
+    &quot;line_start&quot;: 73,
+    &quot;line_end&quot;: 75,
+    &quot;ordinal&quot;: 14
+  }
+]</pre></details></details><details><summary>previous_start · 18–58s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 2, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 40000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;Two of us are out here!\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 2000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Tell me who has oxygen left.\&quot;&quot;,
+      &quot;start_ms&quot;: 3000,
+      &quot;end_ms&quot;: 5000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+      &quot;start_ms&quot;: 6000,
+      &quot;end_ms&quot;: 9000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+      &quot;start_ms&quot;: 11000,
+      &quot;end_ms&quot;: 13000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U005&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+      &quot;start_ms&quot;: 16000,
+      &quot;end_ms&quot;: 19000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U006&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+      &quot;start_ms&quot;: 21000,
+      &quot;end_ms&quot;: 23000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U007&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+      &quot;start_ms&quot;: 26000,
+      &quot;end_ms&quot;: 29000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U008&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+      &quot;start_ms&quot;: 32000,
+      &quot;end_ms&quot;: 34000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U009&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Do not open the inner door yet.\&quot;&quot;,
+      &quot;start_ms&quot;: 37000,
+      &quot;end_ms&quot;: 40000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-80c114c0806b892da13c&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A rescue team debates who to save first as a missing partner and an unauthorized daughter are involved.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U003&quot;,
+      &quot;U005&quot;,
+      &quot;U006&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;Who should be pulled in first when the daughter is not on the crew list?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U004&quot;,
+      &quot;U005&quot;,
+      &quot;U006&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener establishes a clear conflict with a direct provocation: &#x27;Two of us are out here!&#x27;&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U009&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue ends with an unresolved instruction that raises a specific question about the inner door.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U003&quot;,
+        &quot;U005&quot;,
+        &quot;U006&quot;
+      ],
+      &quot;reason&quot;: &quot;Roles (rescue team, captain, daughter) and stakes (lives in danger) are clearly established.&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U003&quot;,
+        &quot;U005&quot;,
+        &quot;U006&quot;
+      ],
+      &quot;reason&quot;: &quot;Personal stakes are evident through the mention of a missing partner and an unauthorized daughter.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U003&quot;,
+        &quot;U005&quot;,
+        &quot;U006&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a clear progression with cause and reaction.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U009&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a complete start and end with an intelligible tension point.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0006&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Urgent)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Urgent&quot;,
+    &quot;start_ms&quot;: 18000,
+    &quot;end_ms&quot;: 20000,
+    &quot;raw_start&quot;: &quot;00:18.00&quot;,
+    &quot;raw_end&quot;: &quot;00:20.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Two of us are out here!\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Urgent):**\nStart: (00:18.00) | End: (00:20.00)\n\&quot;Two of us are out here!\&quot;\n&quot;,
+    &quot;line_start&quot;: 34,
+    &quot;line_end&quot;: 36,
+    &quot;ordinal&quot;: 6
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0007&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Resolute)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Resolute&quot;,
+    &quot;start_ms&quot;: 21000,
+    &quot;end_ms&quot;: 23000,
+    &quot;raw_start&quot;: &quot;00:21.00&quot;,
+    &quot;raw_end&quot;: &quot;00:23.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Tell me who has oxygen left.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Resolute):**\nStart: (00:21.00) | End: (00:23.00)\n\&quot;Tell me who has oxygen left.\&quot;\n&quot;,
+    &quot;line_start&quot;: 38,
+    &quot;line_end&quot;: 40,
+    &quot;ordinal&quot;: 7
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0008&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Afraid)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Afraid&quot;,
+    &quot;start_ms&quot;: 24000,
+    &quot;end_ms&quot;: 27000,
+    &quot;raw_start&quot;: &quot;00:24.00&quot;,
+    &quot;raw_end&quot;: &quot;00:27.00&quot;,
+    &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Afraid):**\nStart: (00:24.00) | End: (00:27.00)\n\&quot;My partner has stopped answering.\&quot;\n&quot;,
+    &quot;line_start&quot;: 42,
+    &quot;line_end&quot;: 44,
+    &quot;ordinal&quot;: 8
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0009&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Frightened)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Frightened&quot;,
+    &quot;start_ms&quot;: 29000,
+    &quot;end_ms&quot;: 31000,
+    &quot;raw_start&quot;: &quot;00:29.00&quot;,
+    &quot;raw_end&quot;: &quot;00:31.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Frightened):**\nStart: (00:29.00) | End: (00:31.00)\n\&quot;Captain, who should I pull in?\&quot;\n&quot;,
+    &quot;line_start&quot;: 46,
+    &quot;line_end&quot;: 48,
+    &quot;ordinal&quot;: 9
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0010&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Tense)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Tense&quot;,
+    &quot;start_ms&quot;: 34000,
+    &quot;end_ms&quot;: 37000,
+    &quot;raw_start&quot;: &quot;00:34.00&quot;,
+    &quot;raw_end&quot;: &quot;00:37.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Tense):**\nStart: (00:34.00) | End: (00:37.00)\n\&quot;Give the cable to my daughter first.\&quot;\n&quot;,
+    &quot;line_start&quot;: 57,
+    &quot;line_end&quot;: 59,
+    &quot;ordinal&quot;: 10
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0011&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Shocked)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Shocked&quot;,
+    &quot;start_ms&quot;: 39000,
+    &quot;end_ms&quot;: 41000,
+    &quot;raw_start&quot;: &quot;00:39.00&quot;,
+    &quot;raw_end&quot;: &quot;00:41.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Shocked):**\nStart: (00:39.00) | End: (00:41.00)\n\&quot;Your daughter is not on the crew list.\&quot;\n&quot;,
+    &quot;line_start&quot;: 61,
+    &quot;line_end&quot;: 63,
+    &quot;ordinal&quot;: 11
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0012&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Quiet)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 44000,
+    &quot;end_ms&quot;: 47000,
+    &quot;raw_start&quot;: &quot;00:44.00&quot;,
+    &quot;raw_end&quot;: &quot;00:47.00&quot;,
+    &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Quiet):**\nStart: (00:44.00) | End: (00:47.00)\n\&quot;There is someone else on this channel.\&quot;\n&quot;,
+    &quot;line_start&quot;: 65,
+    &quot;line_end&quot;: 67,
+    &quot;ordinal&quot;: 12
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0013&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Uneasy)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Uneasy&quot;,
+    &quot;start_ms&quot;: 50000,
+    &quot;end_ms&quot;: 52000,
+    &quot;raw_start&quot;: &quot;00:50.00&quot;,
+    &quot;raw_end&quot;: &quot;00:52.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Uneasy):**\nStart: (00:50.00) | End: (00:52.00)\n\&quot;Who gave them our rescue code?\&quot;\n&quot;,
+    &quot;line_start&quot;: 69,
+    &quot;line_end&quot;: 71,
+    &quot;ordinal&quot;: 13
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0014&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Firm)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Firm&quot;,
+    &quot;start_ms&quot;: 55000,
+    &quot;end_ms&quot;: 58000,
+    &quot;raw_start&quot;: &quot;00:55.00&quot;,
+    &quot;raw_end&quot;: &quot;00:58.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Do not open the inner door yet.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Firm):**\nStart: (00:55.00) | End: (00:58.00)\n\&quot;Do not open the inner door yet.\&quot;\n&quot;,
+    &quot;line_start&quot;: 73,
+    &quot;line_end&quot;: 75,
+    &quot;ordinal&quot;: 14
+  }
+]</pre></details></details><details><summary>next_start · 24–58s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 2, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 34000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 3000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+      &quot;start_ms&quot;: 5000,
+      &quot;end_ms&quot;: 7000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+      &quot;start_ms&quot;: 10000,
+      &quot;end_ms&quot;: 13000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+      &quot;start_ms&quot;: 15000,
+      &quot;end_ms&quot;: 17000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U005&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+      &quot;start_ms&quot;: 20000,
+      &quot;end_ms&quot;: 23000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U006&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+      &quot;start_ms&quot;: 26000,
+      &quot;end_ms&quot;: 28000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U007&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Do not open the inner door yet.\&quot;&quot;,
+      &quot;start_ms&quot;: 31000,
+      &quot;end_ms&quot;: 34000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-548eaabd56823aa92f68&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A crew member&#x27;s partner is unresponsive, and there&#x27;s a conflict over who should be prioritized for rescue, with a daughter not on the crew list and a rescue code breach.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U002&quot;,
+      &quot;U003&quot;,
+      &quot;U004&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;Who gave the rescue code to someone else, and should the inner door be opened or not?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U006&quot;,
+      &quot;U007&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener provides a clear provocation with a missing partner, establishing immediate conflict.&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U006&quot;,
+        &quot;U007&quot;
+      ],
+      &quot;reason&quot;: &quot;An unresolved question about the rescue code and a decision about opening the door remain.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;Roles (crew member, captain, voice_3), conflict (rescue priority), and stakes (rescue code breach) are established.&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U003&quot;
+      ],
+      &quot;reason&quot;: &quot;Personal stakes are evident through the crew member&#x27;s concern for their partner and daughter.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue shows a clear progression of conflict and decision-making.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U007&quot;
+      ],
+      &quot;reason&quot;: &quot;The clip has a complete start and end with an intelligible tension point.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0008&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Afraid)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Afraid&quot;,
+    &quot;start_ms&quot;: 24000,
+    &quot;end_ms&quot;: 27000,
+    &quot;raw_start&quot;: &quot;00:24.00&quot;,
+    &quot;raw_end&quot;: &quot;00:27.00&quot;,
+    &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Afraid):**\nStart: (00:24.00) | End: (00:27.00)\n\&quot;My partner has stopped answering.\&quot;\n&quot;,
+    &quot;line_start&quot;: 42,
+    &quot;line_end&quot;: 44,
+    &quot;ordinal&quot;: 8
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0009&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Frightened)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Frightened&quot;,
+    &quot;start_ms&quot;: 29000,
+    &quot;end_ms&quot;: 31000,
+    &quot;raw_start&quot;: &quot;00:29.00&quot;,
+    &quot;raw_end&quot;: &quot;00:31.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Frightened):**\nStart: (00:29.00) | End: (00:31.00)\n\&quot;Captain, who should I pull in?\&quot;\n&quot;,
+    &quot;line_start&quot;: 46,
+    &quot;line_end&quot;: 48,
+    &quot;ordinal&quot;: 9
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0010&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Tense)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Tense&quot;,
+    &quot;start_ms&quot;: 34000,
+    &quot;end_ms&quot;: 37000,
+    &quot;raw_start&quot;: &quot;00:34.00&quot;,
+    &quot;raw_end&quot;: &quot;00:37.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Tense):**\nStart: (00:34.00) | End: (00:37.00)\n\&quot;Give the cable to my daughter first.\&quot;\n&quot;,
+    &quot;line_start&quot;: 57,
+    &quot;line_end&quot;: 59,
+    &quot;ordinal&quot;: 10
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0011&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Shocked)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Shocked&quot;,
+    &quot;start_ms&quot;: 39000,
+    &quot;end_ms&quot;: 41000,
+    &quot;raw_start&quot;: &quot;00:39.00&quot;,
+    &quot;raw_end&quot;: &quot;00:41.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Shocked):**\nStart: (00:39.00) | End: (00:41.00)\n\&quot;Your daughter is not on the crew list.\&quot;\n&quot;,
+    &quot;line_start&quot;: 61,
+    &quot;line_end&quot;: 63,
+    &quot;ordinal&quot;: 11
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0012&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Quiet)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 44000,
+    &quot;end_ms&quot;: 47000,
+    &quot;raw_start&quot;: &quot;00:44.00&quot;,
+    &quot;raw_end&quot;: &quot;00:47.00&quot;,
+    &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Quiet):**\nStart: (00:44.00) | End: (00:47.00)\n\&quot;There is someone else on this channel.\&quot;\n&quot;,
+    &quot;line_start&quot;: 65,
+    &quot;line_end&quot;: 67,
+    &quot;ordinal&quot;: 12
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0013&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Uneasy)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Uneasy&quot;,
+    &quot;start_ms&quot;: 50000,
+    &quot;end_ms&quot;: 52000,
+    &quot;raw_start&quot;: &quot;00:50.00&quot;,
+    &quot;raw_end&quot;: &quot;00:52.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Uneasy):**\nStart: (00:50.00) | End: (00:52.00)\n\&quot;Who gave them our rescue code?\&quot;\n&quot;,
+    &quot;line_start&quot;: 69,
+    &quot;line_end&quot;: 71,
+    &quot;ordinal&quot;: 13
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0014&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Firm)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Firm&quot;,
+    &quot;start_ms&quot;: 55000,
+    &quot;end_ms&quot;: 58000,
+    &quot;raw_start&quot;: &quot;00:55.00&quot;,
+    &quot;raw_end&quot;: &quot;00:58.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Do not open the inner door yet.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Firm):**\nStart: (00:55.00) | End: (00:58.00)\n\&quot;Do not open the inner door yet.\&quot;\n&quot;,
+    &quot;line_start&quot;: 73,
+    &quot;line_end&quot;: 75,
+    &quot;ordinal&quot;: 14
+  }
+]</pre></details></details><details><summary>previous_end · 21–52s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 2, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 31000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Tell me who has oxygen left.\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 2000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+      &quot;start_ms&quot;: 3000,
+      &quot;end_ms&quot;: 6000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+      &quot;start_ms&quot;: 8000,
+      &quot;end_ms&quot;: 10000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+      &quot;start_ms&quot;: 13000,
+      &quot;end_ms&quot;: 16000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U005&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+      &quot;start_ms&quot;: 18000,
+      &quot;end_ms&quot;: 20000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U006&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [
+        &quot;O.S.&quot;
+      ],
+      &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+      &quot;start_ms&quot;: 23000,
+      &quot;end_ms&quot;: 26000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U007&quot;,
+      &quot;voice&quot;: &quot;voice_3&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+      &quot;start_ms&quot;: 29000,
+      &quot;end_ms&quot;: 31000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-f166c38ef2b765994c55&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A rescue operation is underway with conflicting priorities over who gets oxygen and who is on the crew list.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U002&quot;,
+      &quot;U003&quot;,
+      &quot;U004&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;Who gave the rescue code to the unknown person on the channel?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U007&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener establishes a critical situation with a direct question about oxygen availability.&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U007&quot;
+      ],
+      &quot;reason&quot;: &quot;The final question remains unanswered, indicating an unresolved conflict.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;Roles (rescuer, crew member, captain) and stakes (oxygen allocation, crew list) are clearly established.&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U004&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;Personal stakes are evident with the mention of a daughter and a conflict over her status.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue shows a clear progression of conflict and decision-making.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U007&quot;
+      ],
+      &quot;reason&quot;: &quot;The clip has a clear beginning and end with an unresolved question.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0007&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Resolute)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Resolute&quot;,
+    &quot;start_ms&quot;: 21000,
+    &quot;end_ms&quot;: 23000,
+    &quot;raw_start&quot;: &quot;00:21.00&quot;,
+    &quot;raw_end&quot;: &quot;00:23.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Tell me who has oxygen left.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Resolute):**\nStart: (00:21.00) | End: (00:23.00)\n\&quot;Tell me who has oxygen left.\&quot;\n&quot;,
+    &quot;line_start&quot;: 38,
+    &quot;line_end&quot;: 40,
+    &quot;ordinal&quot;: 7
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0008&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Afraid)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Afraid&quot;,
+    &quot;start_ms&quot;: 24000,
+    &quot;end_ms&quot;: 27000,
+    &quot;raw_start&quot;: &quot;00:24.00&quot;,
+    &quot;raw_end&quot;: &quot;00:27.00&quot;,
+    &quot;text&quot;: &quot;\&quot;My partner has stopped answering.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Afraid):**\nStart: (00:24.00) | End: (00:27.00)\n\&quot;My partner has stopped answering.\&quot;\n&quot;,
+    &quot;line_start&quot;: 42,
+    &quot;line_end&quot;: 44,
+    &quot;ordinal&quot;: 8
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0009&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Frightened)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Frightened&quot;,
+    &quot;start_ms&quot;: 29000,
+    &quot;end_ms&quot;: 31000,
+    &quot;raw_start&quot;: &quot;00:29.00&quot;,
+    &quot;raw_end&quot;: &quot;00:31.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Captain, who should I pull in?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Frightened):**\nStart: (00:29.00) | End: (00:31.00)\n\&quot;Captain, who should I pull in?\&quot;\n&quot;,
+    &quot;line_start&quot;: 46,
+    &quot;line_end&quot;: 48,
+    &quot;ordinal&quot;: 9
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0010&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;CAPTAIN (Tense)&quot;,
+    &quot;speaker&quot;: &quot;CAPTAIN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Tense&quot;,
+    &quot;start_ms&quot;: 34000,
+    &quot;end_ms&quot;: 37000,
+    &quot;raw_start&quot;: &quot;00:34.00&quot;,
+    &quot;raw_end&quot;: &quot;00:37.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Give the cable to my daughter first.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**CAPTAIN (Tense):**\nStart: (00:34.00) | End: (00:37.00)\n\&quot;Give the cable to my daughter first.\&quot;\n&quot;,
+    &quot;line_start&quot;: 57,
+    &quot;line_end&quot;: 59,
+    &quot;ordinal&quot;: 10
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0011&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Shocked)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Shocked&quot;,
+    &quot;start_ms&quot;: 39000,
+    &quot;end_ms&quot;: 41000,
+    &quot;raw_start&quot;: &quot;00:39.00&quot;,
+    &quot;raw_end&quot;: &quot;00:41.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Your daughter is not on the crew list.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Shocked):**\nStart: (00:39.00) | End: (00:41.00)\n\&quot;Your daughter is not on the crew list.\&quot;\n&quot;,
+    &quot;line_start&quot;: 61,
+    &quot;line_end&quot;: 63,
+    &quot;ordinal&quot;: 11
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0012&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;PILOT (O.S., Quiet)&quot;,
+    &quot;speaker&quot;: &quot;PILOT&quot;,
+    &quot;delivery&quot;: [
+      &quot;O.S.&quot;
+    ],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 44000,
+    &quot;end_ms&quot;: 47000,
+    &quot;raw_start&quot;: &quot;00:44.00&quot;,
+    &quot;raw_end&quot;: &quot;00:47.00&quot;,
+    &quot;text&quot;: &quot;\&quot;There is someone else on this channel.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**PILOT (O.S., Quiet):**\nStart: (00:44.00) | End: (00:47.00)\n\&quot;There is someone else on this channel.\&quot;\n&quot;,
+    &quot;line_start&quot;: 65,
+    &quot;line_end&quot;: 67,
+    &quot;ordinal&quot;: 12
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-001:b0013&quot;,
+    &quot;scene_id&quot;: &quot;scene-002&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;ENGINEER (Uneasy)&quot;,
+    &quot;speaker&quot;: &quot;ENGINEER&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Uneasy&quot;,
+    &quot;start_ms&quot;: 50000,
+    &quot;end_ms&quot;: 52000,
+    &quot;raw_start&quot;: &quot;00:50.00&quot;,
+    &quot;raw_end&quot;: &quot;00:52.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Who gave them our rescue code?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**ENGINEER (Uneasy):**\nStart: (00:50.00) | End: (00:52.00)\n\&quot;Who gave them our rescue code?\&quot;\n&quot;,
+    &quot;line_start&quot;: 69,
+    &quot;line_end&quot;: 71,
+    &quot;ordinal&quot;: 13
+  }
+]</pre></details></details></article><article><h2>family-8eafb187844c9ee9 · ep-002</h2><p>{&#x27;reason&#x27;: &#x27;Eligibility, fixed weighted score, comprehension, cliffhanger, hook, shorter duration, candidate ID.&#x27;, &#x27;winner_id&#x27;: &#x27;cut-b9c0fc18a5e22581421d&#x27;, &#x27;near_tie&#x27;: False, &#x27;deltas&#x27;: [{&#x27;against&#x27;: &#x27;cut-8eafb187844c9ee987cc&#x27;, &#x27;criteria_winner_minus_alternative&#x27;: {&#x27;hook&#x27;: 0, &#x27;cliffhanger&#x27;: 1, &#x27;comprehension&#x27;: 0, &#x27;emotion&#x27;: 0, &#x27;coherence&#x27;: 0, &#x27;boundary&#x27;: 0}, &#x27;added_block_ids&#x27;: [&#x27;ep-002:b0006&#x27;], &#x27;removed_block_ids&#x27;: []}, {&#x27;against&#x27;: &#x27;cut-83d2480d97b74d977a6e&#x27;, &#x27;criteria_winner_minus_alternative&#x27;: {&#x27;hook&#x27;: 0, &#x27;cliffhanger&#x27;: 1, &#x27;comprehension&#x27;: 0, &#x27;emotion&#x27;: 0, &#x27;coherence&#x27;: 0, &#x27;boundary&#x27;: 0}, &#x27;added_block_ids&#x27;: [&#x27;ep-002:b0006&#x27;], &#x27;removed_block_ids&#x27;: [&#x27;ep-002:b0001&#x27;]}], &#x27;base_id&#x27;: &#x27;cut-8eafb187844c9ee987cc&#x27;, &#x27;decision&#x27;: {&#x27;winner_variant&#x27;: &#x27;next_end&#x27;, &#x27;winner_interval_ms&#x27;: [6000, 36000], &#x27;base_interval_ms&#x27;: [6000, 29000], &#x27;alternatives&#x27;: [{&#x27;candidate_id&#x27;: &#x27;cut-8eafb187844c9ee987cc&#x27;, &#x27;variant&#x27;: &#x27;base&#x27;, &#x27;interval_ms&#x27;: [6000, 29000], &#x27;tier&#x27;: None, &#x27;decided_by&#x27;: &#x27;weighted_score&#x27;, &#x27;flags_absent_on_winner&#x27;: []}, {&#x27;candidate_id&#x27;: &#x27;cut-83d2480d97b74d977a6e&#x27;, &#x27;variant&#x27;: &#x27;previous_start&#x27;, &#x27;interval_ms&#x27;: [0, 29000], &#x27;tier&#x27;: None, &#x27;decided_by&#x27;: &#x27;weighted_score&#x27;, &#x27;flags_absent_on_winner&#x27;: []}], &#x27;unreviewed_alternatives&#x27;: 0, &#x27;tie_break_only&#x27;: False, &#x27;summary&#x27;: &#x27;Preferred over 2 nearby cuts. Deciding factors: weighted_score (2).&#x27;}}</p><details><summary>base · 6–29s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 2, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 23000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;We still have thirty people aboard.\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 3000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;The buyer wants everyone off before dawn.\&quot;&quot;,
+      &quot;start_ms&quot;: 7000,
+      &quot;end_ms&quot;: 10000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Then who is coming to get us?\&quot;&quot;,
+      &quot;start_ms&quot;: 14000,
+      &quot;end_ms&quot;: 16000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;No rescue ship is on the schedule.\&quot;&quot;,
+      &quot;start_ms&quot;: 20000,
+      &quot;end_ms&quot;: 23000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-ef9f4352e5f3fa12eea6&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A group of people are stranded with thirty aboard, and the buyer wants everyone off before dawn, but no rescue ship is scheduled.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U002&quot;,
+      &quot;U003&quot;,
+      &quot;U004&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;Who is coming to get them if no rescue ship is on the schedule?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U003&quot;,
+      &quot;U004&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener provides a specific situation with a clear problem: thirty people are aboard, and there&#x27;s an imminent deadline.&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The ending leaves an unanswered question about who will rescue them, creating a specific unresolved issue.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue establishes roles (a group of people, a buyer, and a speaker), an immediate obstacle (deadline and no rescue ship), and a stated consequence (stranded people).&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;There is recognizable personal stake as the characters are stranded and face an imminent deadline.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a clear cause and reaction, with a logical progression of the situation.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a complete start and end with a usable tension point.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0002&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Worried)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Worried&quot;,
+    &quot;start_ms&quot;: 6000,
+    &quot;end_ms&quot;: 9000,
+    &quot;raw_start&quot;: &quot;00:06.00&quot;,
+    &quot;raw_end&quot;: &quot;00:09.00&quot;,
+    &quot;text&quot;: &quot;\&quot;We still have thirty people aboard.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Worried):**\nStart: (00:06.00) | End: (00:09.00)\n\&quot;We still have thirty people aboard.\&quot;\n&quot;,
+    &quot;line_start&quot;: 16,
+    &quot;line_end&quot;: 18,
+    &quot;ordinal&quot;: 2
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0003&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Firm)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Firm&quot;,
+    &quot;start_ms&quot;: 13000,
+    &quot;end_ms&quot;: 16000,
+    &quot;raw_start&quot;: &quot;00:13.00&quot;,
+    &quot;raw_end&quot;: &quot;00:16.00&quot;,
+    &quot;text&quot;: &quot;\&quot;The buyer wants everyone off before dawn.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Firm):**\nStart: (00:13.00) | End: (00:16.00)\n\&quot;The buyer wants everyone off before dawn.\&quot;\n&quot;,
+    &quot;line_start&quot;: 20,
+    &quot;line_end&quot;: 22,
+    &quot;ordinal&quot;: 3
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0004&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Determined)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Determined&quot;,
+    &quot;start_ms&quot;: 20000,
+    &quot;end_ms&quot;: 22000,
+    &quot;raw_start&quot;: &quot;00:20.00&quot;,
+    &quot;raw_end&quot;: &quot;00:22.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Then who is coming to get us?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Determined):**\nStart: (00:20.00) | End: (00:22.00)\n\&quot;Then who is coming to get us?\&quot;\n&quot;,
+    &quot;line_start&quot;: 24,
+    &quot;line_end&quot;: 26,
+    &quot;ordinal&quot;: 4
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0005&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Quiet)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 26000,
+    &quot;end_ms&quot;: 29000,
+    &quot;raw_start&quot;: &quot;00:26.00&quot;,
+    &quot;raw_end&quot;: &quot;00:29.00&quot;,
+    &quot;text&quot;: &quot;\&quot;No rescue ship is on the schedule.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Quiet):**\nStart: (00:26.00) | End: (00:29.00)\n\&quot;No rescue ship is on the schedule.\&quot;\n&quot;,
+    &quot;line_start&quot;: 28,
+    &quot;line_end&quot;: 30,
+    &quot;ordinal&quot;: 5
+  }
+]</pre></details></details><details><summary>previous_start · 0–29s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 2, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 29000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Our station has been sold!\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 2000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;We still have thirty people aboard.\&quot;&quot;,
+      &quot;start_ms&quot;: 6000,
+      &quot;end_ms&quot;: 9000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;The buyer wants everyone off before dawn.\&quot;&quot;,
+      &quot;start_ms&quot;: 13000,
+      &quot;end_ms&quot;: 16000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Then who is coming to get us?\&quot;&quot;,
+      &quot;start_ms&quot;: 20000,
+      &quot;end_ms&quot;: 22000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U005&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;No rescue ship is on the schedule.\&quot;&quot;,
+      &quot;start_ms&quot;: 26000,
+      &quot;end_ms&quot;: 29000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-1821ee179ed8db3f434f&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A station has been sold, with thirty people aboard, and the buyer demands everyone off before dawn, but no rescue ship is scheduled.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U002&quot;,
+      &quot;U003&quot;,
+      &quot;U005&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;Who is coming to get them if no rescue ship is on the schedule?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U004&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener provides a complete and specific provocation: &#x27;Our station has been sold!&#x27; which immediately introduces a conflict.&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U004&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue ends with an unanswered question about who will rescue the thirty people, and the lack of a rescue ship on the schedule.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue establishes roles (seller, buyer, people aboard), an immediate obstacle (the buyer wants everyone off before dawn), and a stated consequence (no rescue ship is on the schedule).&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U004&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;There are recognizable personal stakes as the people aboard are in danger and the situation is urgent.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a clear cause and reaction, with a logical progression of events and consequences.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a complete opening and intelligible tension point, with a clear start and end.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0001&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Alarmed)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Alarmed&quot;,
+    &quot;start_ms&quot;: 0,
+    &quot;end_ms&quot;: 2000,
+    &quot;raw_start&quot;: &quot;00:00.00&quot;,
+    &quot;raw_end&quot;: &quot;00:02.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Our station has been sold!\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Alarmed):**\nStart: (00:00.00) | End: (00:02.00)\n\&quot;Our station has been sold!\&quot;\n&quot;,
+    &quot;line_start&quot;: 12,
+    &quot;line_end&quot;: 14,
+    &quot;ordinal&quot;: 1
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0002&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Worried)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Worried&quot;,
+    &quot;start_ms&quot;: 6000,
+    &quot;end_ms&quot;: 9000,
+    &quot;raw_start&quot;: &quot;00:06.00&quot;,
+    &quot;raw_end&quot;: &quot;00:09.00&quot;,
+    &quot;text&quot;: &quot;\&quot;We still have thirty people aboard.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Worried):**\nStart: (00:06.00) | End: (00:09.00)\n\&quot;We still have thirty people aboard.\&quot;\n&quot;,
+    &quot;line_start&quot;: 16,
+    &quot;line_end&quot;: 18,
+    &quot;ordinal&quot;: 2
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0003&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Firm)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Firm&quot;,
+    &quot;start_ms&quot;: 13000,
+    &quot;end_ms&quot;: 16000,
+    &quot;raw_start&quot;: &quot;00:13.00&quot;,
+    &quot;raw_end&quot;: &quot;00:16.00&quot;,
+    &quot;text&quot;: &quot;\&quot;The buyer wants everyone off before dawn.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Firm):**\nStart: (00:13.00) | End: (00:16.00)\n\&quot;The buyer wants everyone off before dawn.\&quot;\n&quot;,
+    &quot;line_start&quot;: 20,
+    &quot;line_end&quot;: 22,
+    &quot;ordinal&quot;: 3
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0004&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Determined)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Determined&quot;,
+    &quot;start_ms&quot;: 20000,
+    &quot;end_ms&quot;: 22000,
+    &quot;raw_start&quot;: &quot;00:20.00&quot;,
+    &quot;raw_end&quot;: &quot;00:22.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Then who is coming to get us?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Determined):**\nStart: (00:20.00) | End: (00:22.00)\n\&quot;Then who is coming to get us?\&quot;\n&quot;,
+    &quot;line_start&quot;: 24,
+    &quot;line_end&quot;: 26,
+    &quot;ordinal&quot;: 4
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0005&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Quiet)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 26000,
+    &quot;end_ms&quot;: 29000,
+    &quot;raw_start&quot;: &quot;00:26.00&quot;,
+    &quot;raw_end&quot;: &quot;00:29.00&quot;,
+    &quot;text&quot;: &quot;\&quot;No rescue ship is on the schedule.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Quiet):**\nStart: (00:26.00) | End: (00:29.00)\n\&quot;No rescue ship is on the schedule.\&quot;\n&quot;,
+    &quot;line_start&quot;: 28,
+    &quot;line_end&quot;: 30,
+    &quot;ordinal&quot;: 5
+  }
+]</pre></details></details><details><summary>next_end · 6–36s · V1 · passes model gates / human review pending</summary><p>{&#x27;hook&#x27;: 3, &#x27;cliffhanger&#x27;: 3, &#x27;comprehension&#x27;: 3, &#x27;emotion&#x27;: 2, &#x27;coherence&#x27;: 3, &#x27;boundary&#x27;: 3}</p><h4>Restricted packet actually sent</h4><pre>{
+  &quot;rubric_version&quot;: &quot;editorial-v1&quot;,
+  &quot;duration_ms&quot;: 30000,
+  &quot;hook_window_ms&quot;: 3000,
+  &quot;utterances&quot;: [
+    {
+      &quot;id&quot;: &quot;U001&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;We still have thirty people aboard.\&quot;&quot;,
+      &quot;start_ms&quot;: 0,
+      &quot;end_ms&quot;: 3000,
+      &quot;complete_in_opener&quot;: true,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U002&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;The buyer wants everyone off before dawn.\&quot;&quot;,
+      &quot;start_ms&quot;: 7000,
+      &quot;end_ms&quot;: 10000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U003&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;Then who is coming to get us?\&quot;&quot;,
+      &quot;start_ms&quot;: 14000,
+      &quot;end_ms&quot;: 16000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U004&quot;,
+      &quot;voice&quot;: &quot;voice_2&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;No rescue ship is on the schedule.\&quot;&quot;,
+      &quot;start_ms&quot;: 20000,
+      &quot;end_ms&quot;: 23000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;U005&quot;,
+      &quot;voice&quot;: &quot;voice_1&quot;,
+      &quot;delivery&quot;: [],
+      &quot;text&quot;: &quot;\&quot;What did the buyer plan for the people?\&quot;&quot;,
+      &quot;start_ms&quot;: 27000,
+      &quot;end_ms&quot;: 30000,
+      &quot;complete_in_opener&quot;: false,
+      &quot;crosses_opener_unknown_prefix&quot;: false
+    }
+  ],
+  &quot;opener_ids&quot;: [
+    &quot;U001&quot;
+  ],
+  &quot;candidate_token&quot;: &quot;anonymous-0cdf58c8dbd295546e0a&quot;
+}</pre><h4>Actual saved review</h4><pre>{
+  &quot;interpretation&quot;: {
+    &quot;text&quot;: &quot;A group of thirty people are stranded with no rescue ship scheduled, and the buyer wants them off before dawn, raising concerns about their fate.&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U001&quot;,
+      &quot;U002&quot;,
+      &quot;U003&quot;,
+      &quot;U004&quot;
+    ]
+  },
+  &quot;missing_context&quot;: [],
+  &quot;essential_context_missing&quot;: false,
+  &quot;unresolved_question&quot;: {
+    &quot;text&quot;: &quot;What did the buyer plan for the people?&quot;,
+    &quot;evidence_ids&quot;: [
+      &quot;U005&quot;
+    ]
+  },
+  &quot;criteria&quot;: {
+    &quot;hook&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;
+      ],
+      &quot;reason&quot;: &quot;The opener provides a specific situation with a clear problem: thirty people are stranded.&quot;
+    },
+    &quot;cliffhanger&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;The closing question raises an unresolved concern about the buyer&#x27;s plan for the people.&quot;
+    },
+    &quot;comprehension&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue establishes roles (buyer, stranded people), an immediate obstacle (no rescue ship), and a stated consequence (people must leave before dawn).&quot;
+    },
+    &quot;emotion&quot;: {
+      &quot;score&quot;: 2,
+      &quot;evidence_ids&quot;: [
+        &quot;U003&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;There is recognizable personal stakes as the stranded people are concerned about their fate.&quot;
+    },
+    &quot;coherence&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U002&quot;,
+        &quot;U003&quot;,
+        &quot;U004&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a clear cause/reaction progression, with each exchange building on the previous one.&quot;
+    },
+    &quot;boundary&quot;: {
+      &quot;score&quot;: 3,
+      &quot;evidence_ids&quot;: [
+        &quot;U001&quot;,
+        &quot;U005&quot;
+      ],
+      &quot;reason&quot;: &quot;The dialogue has a complete start and end with an intelligible tension point.&quot;
+    }
+  },
+  &quot;uncertainty_flags&quot;: []
+}</pre><details><summary>Private source evidence (never sent to restricted reviewer)</summary><pre>[
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0002&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Worried)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Worried&quot;,
+    &quot;start_ms&quot;: 6000,
+    &quot;end_ms&quot;: 9000,
+    &quot;raw_start&quot;: &quot;00:06.00&quot;,
+    &quot;raw_end&quot;: &quot;00:09.00&quot;,
+    &quot;text&quot;: &quot;\&quot;We still have thirty people aboard.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Worried):**\nStart: (00:06.00) | End: (00:09.00)\n\&quot;We still have thirty people aboard.\&quot;\n&quot;,
+    &quot;line_start&quot;: 16,
+    &quot;line_end&quot;: 18,
+    &quot;ordinal&quot;: 2
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0003&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Firm)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Firm&quot;,
+    &quot;start_ms&quot;: 13000,
+    &quot;end_ms&quot;: 16000,
+    &quot;raw_start&quot;: &quot;00:13.00&quot;,
+    &quot;raw_end&quot;: &quot;00:16.00&quot;,
+    &quot;text&quot;: &quot;\&quot;The buyer wants everyone off before dawn.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Firm):**\nStart: (00:13.00) | End: (00:16.00)\n\&quot;The buyer wants everyone off before dawn.\&quot;\n&quot;,
+    &quot;line_start&quot;: 20,
+    &quot;line_end&quot;: 22,
+    &quot;ordinal&quot;: 3
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0004&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Determined)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Determined&quot;,
+    &quot;start_ms&quot;: 20000,
+    &quot;end_ms&quot;: 22000,
+    &quot;raw_start&quot;: &quot;00:20.00&quot;,
+    &quot;raw_end&quot;: &quot;00:22.00&quot;,
+    &quot;text&quot;: &quot;\&quot;Then who is coming to get us?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Determined):**\nStart: (00:20.00) | End: (00:22.00)\n\&quot;Then who is coming to get us?\&quot;\n&quot;,
+    &quot;line_start&quot;: 24,
+    &quot;line_end&quot;: 26,
+    &quot;ordinal&quot;: 4
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0005&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;RADIO OPERATOR (Quiet)&quot;,
+    &quot;speaker&quot;: &quot;RADIO OPERATOR&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Quiet&quot;,
+    &quot;start_ms&quot;: 26000,
+    &quot;end_ms&quot;: 29000,
+    &quot;raw_start&quot;: &quot;00:26.00&quot;,
+    &quot;raw_end&quot;: &quot;00:29.00&quot;,
+    &quot;text&quot;: &quot;\&quot;No rescue ship is on the schedule.\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**RADIO OPERATOR (Quiet):**\nStart: (00:26.00) | End: (00:29.00)\n\&quot;No rescue ship is on the schedule.\&quot;\n&quot;,
+    &quot;line_start&quot;: 28,
+    &quot;line_end&quot;: 30,
+    &quot;ordinal&quot;: 5
+  },
+  {
+    &quot;block_id&quot;: &quot;ep-002:b0006&quot;,
+    &quot;scene_id&quot;: &quot;scene-001&quot;,
+    &quot;kind&quot;: &quot;dialogue&quot;,
+    &quot;label&quot;: &quot;TECHNICIAN (Uneasy)&quot;,
+    &quot;speaker&quot;: &quot;TECHNICIAN&quot;,
+    &quot;delivery&quot;: [],
+    &quot;emotion&quot;: &quot;Uneasy&quot;,
+    &quot;start_ms&quot;: 33000,
+    &quot;end_ms&quot;: 36000,
+    &quot;raw_start&quot;: &quot;00:33.00&quot;,
+    &quot;raw_end&quot;: &quot;00:36.00&quot;,
+    &quot;text&quot;: &quot;\&quot;What did the buyer plan for the people?\&quot;&quot;,
+    &quot;raw_text&quot;: &quot;**TECHNICIAN (Uneasy):**\nStart: (00:33.00) | End: (00:36.00)\n\&quot;What did the buyer plan for the people?\&quot;\n&quot;,
+    &quot;line_start&quot;: 32,
+    &quot;line_end&quot;: 34,
+    &quot;ordinal&quot;: 6
+  }
+]</pre></details></details></article></html>

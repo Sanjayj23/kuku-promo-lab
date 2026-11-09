@@ -1,0 +1,47 @@
+{
+  "source_check_version": 6,
+  "model_calls": 0,
+  "quote_match_policy": "normalized_exact_line_or_contiguous_fragment_3plus_words",
+  "speech_act_policy": "advisory_only; no proof of truth or question resolution",
+  "families": 2,
+  "distinct_events_by_scene": 2,
+  "cut_variants": 5,
+  "analyst_claims": {
+    "in_cut": 2,
+    "unquoted_description": 2
+  },
+  "families_with_quote_not_in_script": 0,
+  "families_with_quote_outside_cut": 0,
+  "openings": {
+    "substantive": 5
+  },
+  "openings_not_complete_in_3s": 0,
+  "flag_counts": {
+    "question_backward_or_background": 4,
+    "analyst_evidence_outside_cut": 1,
+    "analyst_quote_outside_cut": 1,
+    "answer_restates_question": 1
+  },
+  "tiers_before": {
+    "Excluded": 5
+  },
+  "tiers_after": {
+    "Excluded": 5
+  },
+  "tier_changes": [],
+  "tier_A_created": 0,
+  "repair_suggestions": {},
+  "all_proposals": {
+    "proposals": 2,
+    "claim_status": {
+      "in_cut": 2,
+      "unquoted_description": 2
+    },
+    "with_quote_not_in_script": 0,
+    "with_quote_outside_cut": 0,
+    "with_evidence_outside_cut": 0,
+    "opening_minimal_or_none": 0
+  },
+  "source_run": "synthetic-v2-gate3-replay",
+  "note": "Revision 6 deterministic source check over saved responses. Zero model calls. Compatibility filenames retain the v5_ prefix. Original run files are byte-identical copies; v5_* files are additions. v5_tier never creates Tier A."
+}
