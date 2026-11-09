@@ -1,0 +1,19 @@
+{
+  "discovery_version": 4,
+  "editorial_version": 2,
+  "editorial_gate_version": 4,
+  "max_proposals_per_episode": 2,
+  "max_base_windows": 48,
+  "max_families": 24,
+  "max_variants": 4,
+  "v4_initial_candidates": 24,
+  "v4_extra_reviews": 24,
+  "v4_extra_families": 8,
+  "v4_combined_boundary": 1,
+  "v4_menu_policy": "retain_feasible_refill",
+  "v4_episode_limit": 12,
+  "max_attempts": 216,
+  "max_tokens": 3000,
+  "cache_dir": "private/cache-v4",
+  "manual_dir": "private/manual-v4"
+}

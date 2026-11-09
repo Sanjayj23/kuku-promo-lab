@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\"hook_present\": true, \"cue_quote\": \"\\\"The buyer wants everyone off before dawn.\\\"\", \"cue_type\": \"demand\", \"specificity\": 2, \"reason\": \"The line communicates a concrete demand for people to leave before dawn, indicating a stake or conflict.\",\"evidence_scope\": \"dialogue_only\", \"uncertain\": false}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 35.316284,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 223,
+      "completion_tokens": 80
+    }
+  }
+}

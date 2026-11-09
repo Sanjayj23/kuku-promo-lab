@@ -1,0 +1,35 @@
+{
+  "release": "V8",
+  "verified_at": "2026-11-08T23:27:00.601037+00:00",
+  "public_source_sha256": "27755e11ea7cc23383b37c880985c5334381ed903aadadb9fbe486e217f6bd12",
+  "v8_50_episode_run": {
+    "episodes_processed": 50,
+    "ranked_promos": 52,
+    "tiers": {
+      "post_first": 15,
+      "good": 21,
+      "weak": 16
+    },
+    "alternates": 5,
+    "rejected_after_repair": 8,
+    "auto_repaired": 10,
+    "blind_critic_mean_best_per_ep": 62.0,
+    "blind_critic_mean_episode_ending": 49.1,
+    "blind_critic_mean_random_window": 46.4,
+    "head_to_head_vs_ending": {
+      "wins": 31,
+      "ties": 7,
+      "losses": 5
+    }
+  },
+  "unit_tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "tests_total": 139,
+    "non_socket_tests_passed": 127,
+    "studio_socket_tests": 12,
+    "v8_tests_passed": 4,
+    "failures": 0,
+    "errors": 0
+  },
+  "confidentiality_scan": "0 confidential screenplay shingle hits across all public deliverables."
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "promo_id": "E14-a7f2aa",
+    "episode": 14,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "A Vow of Vengeance",
+    "hook": "Alexander makes a dark, intense vow to protect his wife, signaling a shift to retaliation.",
+    "hook_line": "L047",
+    "hook_quote": "No one will ever hurt you for protecting me again.",
+    "cliffhanger": "Alexander's hand clenches in a fist of vengeance, leaving the viewer anticipating his retaliation.",
+    "cliffhanger_line": "L051",
+    "cliffhanger_quote": "",
+    "why_it_works": "It transitions the story from victimhood to the hero's inevitable fight back.",
+    "setup_needed": "None",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 14,
+        "start_ms": 76500,
+        "end_ms": 87630,
+        "start_line": "L047",
+        "end_line": "L051",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 11130,
+    "problems": [
+      "total duration 11.1 s is outside 20-60 s"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "A Vow of Vengeance",
+      "segments": [
+        {
+          "start_line": "L047",
+          "end_line": "L051"
+        }
+      ],
+      "hook_line": "L047",
+      "hook": "Alexander makes a dark, intense vow to protect his wife, signaling a shift to retaliation.",
+      "hook_quote": "No one will ever hurt you for protecting me again.",
+      "cliffhanger_line": "L051",
+      "cliffhanger": "Alexander's hand clenches in a fist of vengeance, leaving the viewer anticipating his retaliation.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It transitions the story from victimhood to the hero's inevitable fight back.",
+      "setup_needed": "None",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "repair_problems": [
+      "total duration 17.1 s is outside 20-60 s"
+    ]
+  },
+  {
+    "promo_id": "E18-b4e590",
+    "episode": 18,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Trapped In The Inferno",
+    "hook": "Juliana's desperate, terrified scream for Alexander as she wakes to a burning room creates instant, life-or-death tension.",
+    "hook_line": "L006",
+    "hook_quote": "Alexander!",
+    "cliffhanger": "Alexander's cold, lethal vow to find those responsible leaves the viewer eager to see him exact his revenge.",
+    "cliffhanger_line": "L078",
+    "cliffhanger_quote": "They took our home. I will not let them take anything else now.",
+    "why_it_works": "The rapid escalation from waking up to a burning house to a narrow escape keeps the viewer glued to the screen.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 18,
+        "start_ms": 6500,
+        "end_ms": 192000,
+        "start_line": "L006",
+        "end_line": "L081",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 185500,
+    "problems": [
+      "total duration 185.5 s is outside 20-60 s"
+    ],
+    "flags": [
+      "cliffhanger_line_aligned_to_quote",
+      "cliffhanger_line_not_at_the_cut"
+    ],
+    "raw": {
+      "title": "Trapped In The Inferno",
+      "segments": [
+        {
+          "start_line": "L006",
+          "end_line": "L081"
+        }
+      ],
+      "hook_line": "L006",
+      "hook": "Juliana's desperate, terrified scream for Alexander as she wakes to a burning room creates instant, life-or-death tension.",
+      "hook_quote": "Alexander!",
+      "cliffhanger_line": "L078",
+      "cliffhanger": "Alexander's cold, lethal vow to find those responsible leaves the viewer eager to see him exact his revenge.",
+      "cliffhanger_quote": "They took our home. I will not let them take anything else now.",
+      "why_it_works": "The rapid escalation from waking up to a burning house to a narrow escape keeps the viewer glued to the screen.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "repair_problems": [
+      "total duration 73.2 s is outside 20-60 s"
+    ]
+  },
+  {
+    "promo_id": "E21-4f1f5b",
+    "episode": 21,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Saving the Dying Boy",
+    "hook": "A frantic girl bursts in screaming that her brother is dying, immediately establishing high stakes.",
+    "hook_line": "L005",
+    "hook_quote": "Lady Juliana! Please! You have to help me, Toby is dying!",
+    "cliffhanger": "The boy's breathing stabilizes, leaving the viewer relieved but wanting to know why the manor doctors refused to help.",
+    "cliffhanger_line": "L053",
+    "cliffhanger_quote": "Oh, thank God! His chest is quiet! The rattling has stopped!",
+    "why_it_works": "The emotional urgency of a child's life at stake combined with the villainy of the manor doctors creates a strong 'us vs. them' dynamic.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 21,
+        "start_ms": 4200,
+        "end_ms": 76000,
+        "start_line": "L005",
+        "end_line": "L053",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 71800,
+    "problems": [
+      "total duration 71.8 s is outside 20-60 s"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "Saving the Dying Boy",
+      "segments": [
+        {
+          "start_line": "L005",
+          "end_line": "L053"
+        }
+      ],
+      "hook_line": "L005",
+      "hook": "A frantic girl bursts in screaming that her brother is dying, immediately establishing high stakes.",
+      "hook_quote": "Lady Juliana! Please! You have to help me, Toby is dying!",
+      "cliffhanger_line": "L053",
+      "cliffhanger": "The boy's breathing stabilizes, leaving the viewer relieved but wanting to know why the manor doctors refused to help.",
+      "cliffhanger_quote": "Oh, thank God! His chest is quiet! The rattling has stopped!",
+      "why_it_works": "The emotional urgency of a child's life at stake combined with the villainy of the manor doctors creates a strong 'us vs. them' dynamic.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    }
+  },
+  {
+    "promo_id": "E22-213de8",
+    "episode": 22,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Infiltrating the Manor",
+    "hook": "Prudence warns Juliana that discovery means death, immediately establishing the extreme danger of her disguise.",
+    "hook_line": "L005",
+    "hook_quote": "Keep your head down. If anyone recognizes you, everything is over.",
+    "cliffhanger": "The Duchess gasps in agony, leaving the viewer desperate to know who is poisoning her.",
+    "cliffhanger_line": "L081",
+    "cliffhanger_quote": "",
+    "why_it_works": "The 'undercover' trope is highly effective, and the tension of being caught by the housekeeper keeps the viewer watching.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 22,
+        "start_ms": 7000,
+        "end_ms": 131000,
+        "start_line": "L005",
+        "end_line": "L081",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 124000,
+    "problems": [
+      "total duration 124.0 s is outside 20-60 s"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "Infiltrating the Manor",
+      "segments": [
+        {
+          "start_line": "L005",
+          "end_line": "L081"
+        }
+      ],
+      "hook_line": "L005",
+      "hook": "Prudence warns Juliana that discovery means death, immediately establishing the extreme danger of her disguise.",
+      "hook_quote": "Keep your head down. If anyone recognizes you, everything is over.",
+      "cliffhanger_line": "L081",
+      "cliffhanger": "The Duchess gasps in agony, leaving the viewer desperate to know who is poisoning her.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The 'undercover' trope is highly effective, and the tension of being caught by the housekeeper keeps the viewer watching.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "repair_problems": [
+      "total duration 64.5 s is outside 20-60 s"
+    ]
+  },
+  {
+    "promo_id": "E30-c36033",
+    "episode": 30,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Witchcraft Trap",
+    "hook": "The Elder Nobleman coldly suggests calling Juliana's healing 'witchcraft', a chilling moment that seals her fate.",
+    "hook_line": "L043",
+    "hook_quote": "Then call it witchcraft.",
+    "cliffhanger": "Juliana huddles in the dark, unaware that her death warrant is being signed, leaving the viewer anxious for her survival.",
+    "cliffhanger_line": "L071",
+    "cliffhanger_quote": "",
+    "why_it_works": "The cold, calculated planning by the villains creates a sense of inevitable doom that hooks the audience.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 30,
+        "start_ms": 85800,
+        "end_ms": 151210,
+        "start_line": "L043",
+        "end_line": "L071",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 65410,
+    "problems": [
+      "total duration 65.4 s is outside 20-60 s"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "The Witchcraft Trap",
+      "segments": [
+        {
+          "start_line": "L043",
+          "end_line": "L071"
+        }
+      ],
+      "hook_line": "L043",
+      "hook": "The Elder Nobleman coldly suggests calling Juliana's healing 'witchcraft', a chilling moment that seals her fate.",
+      "hook_quote": "Then call it witchcraft.",
+      "cliffhanger_line": "L071",
+      "cliffhanger": "Juliana huddles in the dark, unaware that her death warrant is being signed, leaving the viewer anxious for her survival.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The cold, calculated planning by the villains creates a sense of inevitable doom that hooks the audience.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "repair_problems": [
+      "total duration 65.4 s is outside 20-60 s"
+    ]
+  },
+  {
+    "promo_id": "E31-963eda",
+    "episode": 31,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Dungeon Branding Iron Threat",
+    "hook": "The sound of a heavy dungeon bolt sliding open and the visual of a dark, oppressive cell instantly creates high stakes.",
+    "hook_line": "L001",
+    "hook_quote": "",
+    "cliffhanger": "Will Catherine press the red-hot iron into Juliana's eye?",
+    "cliffhanger_line": "L160",
+    "cliffhanger_quote": "",
+    "why_it_works": "It combines the immediate physical threat of a torture device with the high-tension environment of a dungeon.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 31,
+        "start_ms": 0,
+        "end_ms": 2800,
+        "start_line": "L001",
+        "end_line": "L002",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 2800,
+    "problems": [
+      "unknown line id L151"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "Dungeon Branding Iron Threat",
+      "segments": [
+        {
+          "start_line": "L001",
+          "end_line": "L002"
+        },
+        {
+          "start_line": "L151",
+          "end_line": "L160"
+        }
+      ],
+      "hook_line": "L001",
+      "hook": "The sound of a heavy dungeon bolt sliding open and the visual of a dark, oppressive cell instantly creates high stakes.",
+      "hook_quote": "",
+      "cliffhanger_line": "L160",
+      "cliffhanger": "Will Catherine press the red-hot iron into Juliana's eye?",
+      "cliffhanger_quote": "",
+      "why_it_works": "It combines the immediate physical threat of a torture device with the high-tension environment of a dungeon.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "repair_problems": [
+      "total duration 160.0 s is outside 20-60 s"
+    ]
+  },
+  {
+    "promo_id": "E36-898719",
+    "episode": 36,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Dead Duke Returns",
+    "hook": "The mother screams that Juliana has been arrested, instantly establishing the high stakes for the protagonist's wife.",
+    "hook_line": "L062",
+    "hook_quote": "They arrested her!",
+    "cliffhanger": "Alexander vows that the 'dead Duke' is coming home, leaving the viewer wondering if he will arrive in time to stop the execution.",
+    "cliffhanger_line": "L121",
+    "cliffhanger_quote": "",
+    "why_it_works": "It moves from the shock of the arrest to the protagonist's cold, lethal vow of vengeance, creating a perfect emotional arc.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 36,
+        "start_ms": 99500,
+        "end_ms": 200750,
+        "start_line": "L062",
+        "end_line": "L121",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 101250,
+    "problems": [
+      "total duration 101.2 s is outside 20-60 s"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "The Dead Duke Returns",
+      "segments": [
+        {
+          "start_line": "L062",
+          "end_line": "L121"
+        }
+      ],
+      "hook_line": "L062",
+      "hook": "The mother screams that Juliana has been arrested, instantly establishing the high stakes for the protagonist's wife.",
+      "hook_quote": "They arrested her!",
+      "cliffhanger_line": "L121",
+      "cliffhanger": "Alexander vows that the 'dead Duke' is coming home, leaving the viewer wondering if he will arrive in time to stop the execution.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It moves from the shock of the arrest to the protagonist's cold, lethal vow of vengeance, creating a perfect emotional arc.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "repair_problems": [
+      "total duration 68.5 s is outside 20-60 s"
+    ]
+  },
+  {
+    "promo_id": "E46-8ed1bb",
+    "episode": 46,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Marriage Is A Lie",
+    "hook": "The High Priest storms the church with armed guards, declaring the sanctuary under Crown seizure, immediately establishing a high-stakes threat.",
+    "hook_line": "L008",
+    "hook_quote": "By Royal command, this sanctuary is placed under immediate Crown scesion.",
+    "cliffhanger": "Catherine watches the priest leave with a predatory smile, signaling a new, dangerous scheme is underway.",
+    "cliffhanger_line": "L075",
+    "cliffhanger_quote": "Ten days is plenty of time.",
+    "why_it_works": "It immediately pits the protagonists against a powerful authority figure and ends on a chilling promise of future sabotage.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 46,
+        "start_ms": 11500,
+        "end_ms": 58200,
+        "start_line": "L008",
+        "end_line": "L032",
+        "adjustments": []
+      },
+      {
+        "episode": 46,
+        "start_ms": 118800,
+        "end_ms": 143880,
+        "start_line": "L064",
+        "end_line": "L075",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 71780,
+    "problems": [
+      "total duration 71.8 s is outside 20-60 s"
+    ],
+    "flags": [],
+    "raw": {
+      "title": "The Marriage Is A Lie",
+      "segments": [
+        {
+          "start_line": "L008",
+          "end_line": "L032"
+        },
+        {
+          "start_line": "L064",
+          "end_line": "L075"
+        }
+      ],
+      "hook_line": "L008",
+      "hook": "The High Priest storms the church with armed guards, declaring the sanctuary under Crown seizure, immediately establishing a high-stakes threat.",
+      "hook_quote": "By Royal command, this sanctuary is placed under immediate Crown scesion.",
+      "cliffhanger_line": "L075",
+      "cliffhanger": "Catherine watches the priest leave with a predatory smile, signaling a new, dangerous scheme is underway.",
+      "cliffhanger_quote": "Ten days is plenty of time.",
+      "why_it_works": "It immediately pits the protagonists against a powerful authority figure and ends on a chilling promise of future sabotage.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "repair_problems": [
+      "total duration 60.6 s is outside 20-60 s"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "tool": "kuku-promo-lab v8",
+  "prompt_version": "v8.1",
+  "started_utc": "2026-11-08T22:08:37.035588+00:00",
+  "elapsed_s": 264.1,
+  "show": "I Married a Broken Soldier. He was a Duke",
+  "input": {
+    "path": "/tmp/kk/screenplays.zip",
+    "pack_hash": "5d66d780f55480372977e13a278e26537adaed4936215a6afa6b0bcc108b4ccf",
+    "files": 50,
+    "episodes_processed": 50
+  },
+  "model": "gemini-3.5-flash",
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+  "config": {
+    "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+    "model": "gemini-3.5-flash",
+    "fallback_models": [
+      "gemini-3.6-flash",
+      "gemini-3.7-flash",
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-3-flash-preview",
+      "gemini-omni-1.2-flash"
+    ],
+    "api_key_env": "GEMINI_API_KEY",
+    "temperature": 0.4,
+    "critic_temperature": 0.2,
+    "requests_per_minute": 10,
+    "workers": 3,
+    "episodes_per_call": 5,
+    "max_attempts": 6,
+    "timeout_s": 240,
+    "max_candidates_per_episode": 3,
+    "baseline_window_s": 40,
+    "story_memory_episodes": 10,
+    "top_n": 15,
+    "max_per_episode_in_ranking": 2,
+    "seed": 20261109,
+    "cache_dir": "private/cache-v8"
+  },
+  "llm_stats": {
+    "requests": 37,
+    "cache_hits": 16,
+    "errors": 4,
+    "prompt_tokens": 311895,
+    "completion_tokens": 37370,
+    "total_tokens": 349861,
+    "seconds": 721.476,
+    "models_used": {
+      "gemini-3.5-flash": 16,
+      "gemini-3.5-flash-lite": 1,
+      "gemini-3.1-flash-lite": 35,
+      "gemini-3.7-flash": 1
+    }
+  },
+  "failures": [],
+  "prompt_sha256": "256325252dc58a2ae77ef06204e4b00fdbc71f83b041bd943fa9f367862e82c4"
+}

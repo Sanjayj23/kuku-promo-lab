@@ -1,0 +1,15 @@
+private/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+output/
+tmp/
+dist/
+
+final_submission/
+*.log

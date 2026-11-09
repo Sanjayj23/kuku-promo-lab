@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"interpretation\": {\n    \"text\": \"U001 and U002 discuss the need to evacuate thirty people before dawn, with U002 denying a rescue ship and U001 questioning the buyer's plan.\",\n    \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"]\n  },\n  \"missing_context\": [\n    \"0: U001's identity and role in the situation are unknown\",\n    \"1: The 'buyer' is not identified or described\",\n    \"2: The 'people' being evacuated are not specified beyond the thirty aboard\"\n  ],\n  \"essential_context_missing\": true,\n  \"unresolved_question\": {\n    \"text\": \"What is the buyer's plan for the thirty people aboard if they cannot be evacuated before dawn?\",\n    \"evidence_ids\": [\"U001\", \"U004\", \"U005\"]\n  },\n  \"criteria\": {\n    \"hook\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\"],\n      \"reason\": \"U001's statement about the thirty people aboard introduces a potential danger or conflict, but it is not fully contextualized.\"\n    },\n    \"cliffhanger\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U005\"],\n      \"reason\": \"U001's question about the buyer's plan for the people remains unanswered, creating a concrete unresolved question.\"\n    },\n    \"comprehension\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue establishes a conflict between U001 and U002 regarding the evacuation of thirty people, but the identities of the 'buyer' and the 'people' are not fully clarified.\"\n    },\n    \"emotion\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\", \"U002\"],\n      \"reason\": \"The dialogue suggests urgency and concern but does not provide clear personal stakes or emotional context.\"\n    },\n    \"coherence\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue progresses logically, with each speaker responding to the previous statement, but the full context of the situation is missing.\"\n    },\n    \"boundary\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue begins with a statement about the thirty people aboard and ends with a question about the buyer's plan, creating a clear start and end point.\"\n    }\n  },\n  \"uncertainty_flags\": [\n    \"0: U001's identity and role are not specified\",\n    \"1: The 'buyer' is not identified or described\",\n    \"2: The 'people' being evacuated are not specified beyond the thirty aboard\"\n  ]\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 66.203059,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 1271,
+      "completion_tokens": 688
+    }
+  }
+}

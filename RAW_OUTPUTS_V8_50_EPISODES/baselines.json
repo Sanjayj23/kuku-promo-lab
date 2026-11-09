@@ -1,0 +1,3017 @@
+[
+  {
+    "promo_id": "E01-baseline_ending",
+    "episode": 1,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 1,
+        "start_ms": 90900,
+        "end_ms": 131300,
+        "start_line": "L064",
+        "end_line": "L089",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Matriarch yells 'Enough!' and accuses someone of embarrassing the family.",
+      "hook": 3,
+      "understood": "A severe matriarch and a snobbish groom reject Juliana as plain and worthless while praising Clarissa.",
+      "confusions": "lacks context on why the confrontation began",
+      "standalone": 3,
+      "open_question": "Will Juliana get any retribution after being publicly insulted?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "repetitive dialogue without action",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E01-baseline_random",
+    "episode": 1,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 1,
+        "start_ms": 75000,
+        "end_ms": 113000,
+        "start_line": "L052",
+        "end_line": "L077",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Starts mid-sentence with a woman in a gold gown saying he was never going to marry her.",
+      "hook": 2,
+      "understood": "Juliana begs her silent father to fix a wedding disaster, but her family rejects her and favors her sister Clarissa.",
+      "confusions": "missing context at the start of why she is on her knees",
+      "standalone": 3,
+      "open_question": "Will Juliana accept the family's harsh rejection or fight back?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "starts abruptly in medias res",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E02-baseline_ending",
+    "episode": 2,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 2,
+        "start_ms": 66100,
+        "end_ms": 110000,
+        "start_line": "L050",
+        "end_line": "L073",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43900,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A petty voice saying she should be grateful to even attend the wedding.",
+      "hook": 4,
+      "understood": "Juliana is being kicked out of a wedding after being dumped, but turns around to deliver a scathing speech exposing Gerald before walking away proud.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 3,
+      "main_problem": "Ends on a neat mic-drop moment rather than a unresolved cliffhanger",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E02-baseline_random",
+    "episode": 2,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 2,
+        "start_ms": 20900,
+        "end_ms": 60500,
+        "start_line": "L017",
+        "end_line": "L043",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39600,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A guy declaring that promises change when a better choice appears while a bride looks shattered.",
+      "hook": 4,
+      "understood": "Juliana is being dumped at the altar by her groom Gerald for another woman in gold. Juliana looks to her father for support, but he rejects her too while the other woman mocks her.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Will Juliana defend herself or just stand there getting insulted by everyone?",
+      "cliffhanger": 2,
+      "tap_to_watch": 3,
+      "main_problem": "Too much passive suffering without any satisfying turnaround",
+      "blind_label": "A"
+    }
+  },
+  {
+    "promo_id": "E03-baseline_ending",
+    "episode": 3,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 3,
+        "start_ms": 100800,
+        "end_ms": 140500,
+        "start_line": "L086",
+        "end_line": "L116",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Shots of whispering guests as dialogue starts mid-sentence: '...when your family is dragging a defenseless woman...'",
+      "hook": 2,
+      "understood": "A man reassures a disowned woman in a cathedral, pulls out a silver ring, drops to one knee, and asks to marry her.",
+      "confusions": "Truncated sentence right at the first second.",
+      "standalone": 3,
+      "open_question": "Will Lady Juliana accept his hand in marriage?",
+      "cliffhanger": 4,
+      "tap_to_watch": 2,
+      "main_problem": "Very weak start with chopped-off dialogue.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E03-baseline_random",
+    "episode": 3,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 3,
+        "start_ms": 33300,
+        "end_ms": 72800,
+        "start_line": "L025",
+        "end_line": "L060",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman confronts her family and a cold matriarch tells her 'Your father has made his choice... You leave.'",
+      "hook": 4,
+      "understood": "A woman is disowned by her noble family and dragged out of a church by guards until a mysterious man steps in to stop them.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "How will the stranger rescue her from the guards?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "Cuts off right before any action happens.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E04-baseline_ending",
+    "episode": 4,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 4,
+        "start_ms": 100200,
+        "end_ms": 140800,
+        "start_line": "L073",
+        "end_line": "L103",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40600,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Extreme close-up of a silver ring being slid onto a woman's finger while a man promises protection.",
+      "hook": 3,
+      "understood": "A mysterious bearded man marries Juliana, Gerald crashes/yells at her for marrying down, she rejects him, and her mother disowns her.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "How will Juliana adapt to life with her new husband outside Ashcroft Manor?",
+      "cliffhanger": 2,
+      "tap_to_watch": 3,
+      "main_problem": "The beginning wedding vows take too long before the high-stakes confrontation happens.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E04-baseline_random",
+    "episode": 4,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 4,
+        "start_ms": 86000,
+        "end_ms": 125800,
+        "start_line": "L064",
+        "end_line": "L093",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "An old man sitting silently in a church pew, then a quick shot of a woman saying 'I am.'",
+      "hook": 2,
+      "understood": "Juliana agrees to marry a mysterious man; right after they are pronounced married, an angry ex (Gerald) confronts her and she delivers a harsh comeback.",
+      "confusions": "Why the priest was reluctant or swallowing hard right at the start.",
+      "standalone": 3,
+      "open_question": "How does Gerald react after getting completely shut down by Juliana?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "The opening 3 seconds are super slow and visually uninteresting.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E05-baseline_ending",
+    "episode": 5,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 5,
+        "start_ms": 65500,
+        "end_ms": 105500,
+        "start_line": "L039",
+        "end_line": "L060",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman kneeling in the dirt in a wedding dress.",
+      "hook": 2,
+      "understood": "A woman is being humiliated and a man is comforting her.",
+      "confusions": "Why is she in a wedding dress? Why is everyone being so mean to her?",
+      "standalone": 2,
+      "open_question": "Who is the guy and why is he so protective?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Slow pacing and lack of context.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E05-baseline_random",
+    "episode": 5,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 5,
+        "start_ms": 59000,
+        "end_ms": 96500,
+        "start_line": "L036",
+        "end_line": "L056",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman being mocked for her mother's legacy.",
+      "hook": 2,
+      "understood": "A woman is being bullied and a man is helping her.",
+      "confusions": "Why is she in a wedding dress? Who are these people?",
+      "standalone": 2,
+      "open_question": "Will the bearded man do something about the guy on the stairs?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive and lacks a strong start.",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E06-baseline_ending",
+    "episode": 6,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 6,
+        "start_ms": 69500,
+        "end_ms": 109000,
+        "start_line": "L062",
+        "end_line": "L094",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Close-up of a woman emotionally scrubbing a table talking about her loss.",
+      "hook": 3,
+      "understood": "A woman who lost her home and family realizes she feels safe sitting by the fire with this man.",
+      "confusions": "none",
+      "standalone": 3,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "ends on a fully resolved sentimental beat",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E06-baseline_random",
+    "episode": 6,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 6,
+        "start_ms": 14900,
+        "end_ms": 54800,
+        "start_line": "L014",
+        "end_line": "L047",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39900,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A bearded man expressing remorse while looking down at a woman.",
+      "hook": 2,
+      "understood": "A man brings a woman in a damp wedding gown through the woods into a leaky cottage after a ruined day.",
+      "confusions": "What ruined her day",
+      "standalone": 3,
+      "open_question": "Why was her day ruined before arriving here?",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "slow pacing and flat ending",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E07-baseline_ending",
+    "episode": 7,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 7,
+        "start_ms": 68600,
+        "end_ms": 107800,
+        "start_line": "L033",
+        "end_line": "L056",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Gerald asking 'Where is that beggar husband?' while a shadowy giant steps through forest mist.",
+      "hook": 4,
+      "understood": "A bully asks for the husband, who immediately appears, scares the bully away with a silent glare, and delivers a smooth final line to his wife.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 3,
+      "main_problem": "neat resolution gives no reason to continue",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E07-baseline_random",
+    "episode": 7,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 7,
+        "start_ms": 61800,
+        "end_ms": 99000,
+        "start_line": "L030",
+        "end_line": "L052",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana firmly telling someone they have no authority here and to leave.",
+      "hook": 4,
+      "understood": "An arrogant wealthy guy (Gerald) tries to intimidate Juliana, but her massive, scarred husband shows up silently and frightens Gerald into fleeing in his carriage.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "ends on complete resolution",
+      "blind_label": "A"
+    }
+  },
+  {
+    "promo_id": "E08-baseline_ending",
+    "episode": 8,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 8,
+        "start_ms": 35500,
+        "end_ms": 78000,
+        "start_line": "L030",
+        "end_line": "L062",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 42500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman looks puzzled and asks 'Not yet?' while a man tells her to let something grow.",
+      "hook": 2,
+      "understood": "Two companions share a quiet evening discussing his war past and her loss of wealth while bonding by the fireplace.",
+      "confusions": "Cuts in abruptly mid-action so it takes a moment to realize they are talking about his beard.",
+      "standalone": 3,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "abrupt start leading into a flat, peaceful fade-out",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E08-baseline_random",
+    "episode": 8,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 8,
+        "start_ms": 10500,
+        "end_ms": 50000,
+        "start_line": "L010",
+        "end_line": "L042",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman looks up in recognition and identifies a dried medicinal plant called yarrow.",
+      "hook": 1,
+      "understood": "A woman and a rough soldier bond over herbal knowledge and flirt playfully about his unkempt beard.",
+      "confusions": "none",
+      "standalone": 3,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "boring herb talk hook with zero stakes",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E09-baseline_ending",
+    "episode": 9,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 9,
+        "start_ms": 71200,
+        "end_ms": 112000,
+        "start_line": "L056",
+        "end_line": "L088",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman thanking someone vowing to tell the village, followed by a door shutting.",
+      "hook": 1,
+      "understood": "A peasant mother thanks the healers, then a wealthy nobleman in a manor is warned about a rumor concerning a war veteran who looks like the late Duke.",
+      "confusions": "Why the shift from a rustic cottage to a fancy manor out of nowhere, and who the former groom is.",
+      "standalone": 2,
+      "open_question": "Is the war veteran actually the late Duke?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Abrupt scene jumps that destroy continuity.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E09-baseline_random",
+    "episode": 9,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 9,
+        "start_ms": 3600,
+        "end_ms": 43500,
+        "start_line": "L006",
+        "end_line": "L034",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39900,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A guy dramatically telling someone to stay back before opening a door in the rain.",
+      "hook": 2,
+      "understood": "A desperate mother brings her sick child to a woman who uses herbs for healing, while a man named Alexander helps out.",
+      "confusions": "Who Alexander and Juliana are to each other, and why there is initial tension at the door.",
+      "standalone": 3,
+      "open_question": "Will the herbal remedy actually save the boy's life?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Slower-paced medical soap opera vibe.",
+      "blind_label": "A"
+    }
+  },
+  {
+    "promo_id": "E10-baseline_ending",
+    "episode": 10,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 10,
+        "start_ms": 45300,
+        "end_ms": 86500,
+        "start_line": "L034",
+        "end_line": "L059",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman telling a man he has suffered.",
+      "hook": 2,
+      "understood": "A woman is nursing a man and they are flirting while she cleans his wounds.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "The ending feels abrupt and lacks a compelling hook.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E10-baseline_random",
+    "episode": 10,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 10,
+        "start_ms": 9100,
+        "end_ms": 49500,
+        "start_line": "L010",
+        "end_line": "L036",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman telling a man he has blood on his arm.",
+      "hook": 2,
+      "understood": "A woman is treating a man's battle scars.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Lacks urgency; feels like a slow scene from a period drama.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E11-baseline_ending",
+    "episode": 11,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 11,
+        "start_ms": 66000,
+        "end_ms": 106800,
+        "start_line": "L059",
+        "end_line": "L084",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman sobbing about her lost items.",
+      "hook": 2,
+      "understood": "A man is framing another man for theft by planting a watch in his coat.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "How will they prove their innocence?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Villain is too cartoonishly evil.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E11-baseline_random",
+    "episode": 11,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 11,
+        "start_ms": 48400,
+        "end_ms": 87500,
+        "start_line": "L044",
+        "end_line": "L072",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39100,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man telling someone to let the constable search.",
+      "hook": 2,
+      "understood": "A constable is searching a home for stolen goods while the owners protest.",
+      "confusions": "Why the constable is there and what the 'theft' is.",
+      "standalone": 3,
+      "open_question": "Will they find something planted?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Slow pacing.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E12-baseline_ending",
+    "episode": 12,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 12,
+        "start_ms": 44000,
+        "end_ms": 87210,
+        "start_line": "L032",
+        "end_line": "L054",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43210,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman whispering a threat about a husband hanging.",
+      "hook": 3,
+      "understood": "A woman is being blackmailed into retrieving a ring from thorns to save her husband.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will she survive the thorns?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Repetitive dialogue.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E12-baseline_random",
+    "episode": 12,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 12,
+        "start_ms": 32400,
+        "end_ms": 69800,
+        "start_line": "L023",
+        "end_line": "L047",
+        "adjustments": [
+          "end trimmed 4200 ms before L048"
+        ]
+      }
+    ],
+    "duration_ms": 37400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Two women talking about a price and a sister relationship.",
+      "hook": 2,
+      "understood": "A woman named Clarissa is forcing her sister Juliana to retrieve a ring from thorns to save her husband.",
+      "confusions": "Why the ring is so important and what the husband did.",
+      "standalone": 3,
+      "open_question": "Will Juliana actually go through with the torture?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Exposition-heavy dialogue.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E13-baseline_ending",
+    "episode": 13,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 13,
+        "start_ms": 62200,
+        "end_ms": 103000,
+        "start_line": "L044",
+        "end_line": "L066",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man taunting someone about a garden and a husband's freedom.",
+      "hook": 2,
+      "understood": "A woman is being forced to crawl through thorns to find a ring to save her husband.",
+      "confusions": "Why the ring is in the thorns.",
+      "standalone": 3,
+      "open_question": "Will she survive the thorns?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive content.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E13-baseline_random",
+    "episode": 13,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 13,
+        "start_ms": 67500,
+        "end_ms": 107000,
+        "start_line": "L045",
+        "end_line": "L068",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A needle stabbing into a hand with a gross sound effect.",
+      "hook": 4,
+      "understood": "A woman is crawling through thorns to find a ring while a man tries to reach her.",
+      "confusions": "Why she is doing this and why the man is being held back.",
+      "standalone": 2,
+      "open_question": "Does she find the ring before something worse happens?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Lack of context for the extreme suffering.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E14-baseline_ending",
+    "episode": 14,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 14,
+        "start_ms": 40500,
+        "end_ms": 83500,
+        "start_line": "L026",
+        "end_line": "L047",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A wide shot of a cottage in the rain.",
+      "hook": 1,
+      "understood": "A couple is bonding after a traumatic event where the woman was injured.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Boring pacing.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E14-baseline_random",
+    "episode": 14,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 14,
+        "start_ms": 25500,
+        "end_ms": 63500,
+        "start_line": "L018",
+        "end_line": "L039",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman looking at a man with relief.",
+      "hook": 1,
+      "understood": "A couple is recovering after a traumatic event; the man is bandaging the woman's hands.",
+      "confusions": "What exactly happened to her hands.",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Too slow and sentimental.",
+      "blind_label": "G"
+    }
+  },
+  {
+    "promo_id": "E15-baseline_ending",
+    "episode": 15,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 15,
+        "start_ms": 41000,
+        "end_ms": 82800,
+        "start_line": "L029",
+        "end_line": "L053",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman claiming it is her home and no one has the right to destroy it.",
+      "hook": 2,
+      "understood": "A woman is being bullied by thugs, then a man arrives to fight them.",
+      "confusions": "Why the thugs are there.",
+      "standalone": 3,
+      "open_question": "Will the man win the fight?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Cliché dialogue.",
+      "blind_label": "I"
+    }
+  },
+  {
+    "promo_id": "E15-baseline_random",
+    "episode": 15,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 15,
+        "start_ms": 31500,
+        "end_ms": 67500,
+        "start_line": "L023",
+        "end_line": "L046",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 36000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman with bandaged hands picking up flowers.",
+      "hook": 2,
+      "understood": "A woman is being harassed by thugs who destroy her garden, then a man arrives to intervene.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the man save her?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Predictable outcome.",
+      "blind_label": "J"
+    }
+  },
+  {
+    "promo_id": "E16-baseline_ending",
+    "episode": 16,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 16,
+        "start_ms": 38200,
+        "end_ms": 83190,
+        "start_line": "L032",
+        "end_line": "L062",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 44990,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A close-up of a woman's bandaged hands.",
+      "hook": 3,
+      "understood": "A man is interrogating a thug who attacked them, and the woman is shocked by the betrayal.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What will they do about Gerald Harrington?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The acting is a bit over-the-top.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E16-baseline_random",
+    "episode": 16,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 16,
+        "start_ms": 13100,
+        "end_ms": 52800,
+        "start_line": "L011",
+        "end_line": "L044",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man telling a woman to stay behind him.",
+      "hook": 4,
+      "understood": "A man is fighting off attackers to protect a woman.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they get revenge on the person who paid the thugs?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Repetitive action sequence.",
+      "blind_label": "N"
+    }
+  },
+  {
+    "promo_id": "E17-baseline_ending",
+    "episode": 17,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 17,
+        "start_ms": 77000,
+        "end_ms": 118880,
+        "start_line": "L050",
+        "end_line": "L074",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41880,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman nestling into a man's coat, listening to his heart.",
+      "hook": 2,
+      "understood": "A couple is finding comfort in each other despite their difficult circumstances.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What is the man's secret?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Very slow pacing.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E17-baseline_random",
+    "episode": 17,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 17,
+        "start_ms": 78500,
+        "end_ms": 118880,
+        "start_line": "L051",
+        "end_line": "L074",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40380,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman telling a man his heart is racing.",
+      "hook": 2,
+      "understood": "A couple is sharing an intimate moment by a fire.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "None - it resolves.",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Feels like a filler scene.",
+      "blind_label": "I"
+    }
+  },
+  {
+    "promo_id": "E18-baseline_ending",
+    "episode": 18,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 18,
+        "start_ms": 145800,
+        "end_ms": 186500,
+        "start_line": "L071",
+        "end_line": "L080",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman crying and asking why someone would do this.",
+      "hook": 2,
+      "understood": "A couple has lost their home and the man is swearing revenge on those responsible.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "What is his plan for revenge?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Very generic 'damsel in distress' vibe.",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E18-baseline_random",
+    "episode": 18,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 18,
+        "start_ms": 42000,
+        "end_ms": 81500,
+        "start_line": "L026",
+        "end_line": "L043",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man saying 'Then we go another way' while pulling a woman through a burning building.",
+      "hook": 4,
+      "understood": "A couple is escaping a burning building, and the woman is risking her life for a book.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they escape the fire in time?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "The woman's decision to go back is frustratingly illogical.",
+      "blind_label": "J"
+    }
+  },
+  {
+    "promo_id": "E19-baseline_ending",
+    "episode": 19,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 19,
+        "start_ms": 70600,
+        "end_ms": 109800,
+        "start_line": "L038",
+        "end_line": "L061",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A close-up of a man's hand clenching into a fist while someone talks about servants being dismissed.",
+      "hook": 3,
+      "understood": "A man is planning to reclaim his family's estate from people who think he is dead.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "How will he prove he is alive and take back his home?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The transition to the barn scene feels a bit jarring.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E19-baseline_random",
+    "episode": 19,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 19,
+        "start_ms": 1800,
+        "end_ms": 41500,
+        "start_line": "L003",
+        "end_line": "L025",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman saying 'This was our home' while looking at ruins.",
+      "hook": 2,
+      "understood": "A couple has lost their home to fire and are being helped by villagers.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Where will they go now?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "A bit slow and sentimental.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E20-baseline_ending",
+    "episode": 20,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 20,
+        "start_ms": 69200,
+        "end_ms": 109500,
+        "start_line": "L042",
+        "end_line": "L067",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40300,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman defiantly stating she does not yield to a cold draft.",
+      "hook": 2,
+      "understood": "A woman is trying to maintain her dignity as a healer despite losing her status, while villains plot in the background.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the woman's efforts to help the village be enough to save her?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "The jump between scenes is confusing.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E20-baseline_random",
+    "episode": 20,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 20,
+        "start_ms": 62600,
+        "end_ms": 101500,
+        "start_line": "L038",
+        "end_line": "L063",
+        "adjustments": [
+          "end trimmed 2300 ms before L064"
+        ]
+      }
+    ],
+    "duration_ms": 38900,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man telling a woman her palms are raw and she shouldn't be working.",
+      "hook": 2,
+      "understood": "A woman is struggling to survive as a healer while villains plot to take over her home.",
+      "confusions": "The scene cuts abruptly to the villains.",
+      "standalone": 3,
+      "open_question": "Will the villains succeed in their plot?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive dialogue and disjointed editing.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E21-baseline_ending",
+    "episode": 21,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 21,
+        "start_ms": 66800,
+        "end_ms": 108400,
+        "start_line": "L048",
+        "end_line": "L073",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41600,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana treats a boy named Toby with steam.",
+      "hook": 2,
+      "understood": "Juliana is a skilled healer who saved a boy, and now learns the Duchess is dying.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will she go to the manor to save the Duchess?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The transition to the Duchess plot feels a bit forced.",
+      "blind_label": "M"
+    }
+  },
+  {
+    "promo_id": "E21-baseline_random",
+    "episode": 21,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 21,
+        "start_ms": 18200,
+        "end_ms": 54100,
+        "start_line": "L012",
+        "end_line": "L038",
+        "adjustments": [
+          "start advanced 3100 ms past L011",
+          "end trimmed 900 ms before L040"
+        ]
+      }
+    ],
+    "duration_ms": 35900,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Prudence is crying and angry about a doctor.",
+      "hook": 3,
+      "understood": "Juliana is a healer who must rush to save a dying boy.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they reach the boy in time?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The stakes are high but the acting is a bit dramatic.",
+      "blind_label": "N"
+    }
+  },
+  {
+    "promo_id": "E22-baseline_ending",
+    "episode": 22,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 22,
+        "start_ms": 88500,
+        "end_ms": 128800,
+        "start_line": "L055",
+        "end_line": "L080",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40300,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana walks through a grand manor carrying a bucket.",
+      "hook": 2,
+      "understood": "Juliana is sneaking into a room to treat a sick Duchess.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who has been treating the Duchess?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit slow to start.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E22-baseline_random",
+    "episode": 22,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 22,
+        "start_ms": 22000,
+        "end_ms": 61800,
+        "start_line": "L013",
+        "end_line": "L038",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana claims she can save the Duchess.",
+      "hook": 2,
+      "understood": "Juliana is going undercover as a maid to save the Duchess.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will she be discovered?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "The housekeeper's suspicion is a standard trope.",
+      "blind_label": "O"
+    }
+  },
+  {
+    "promo_id": "E23-baseline_ending",
+    "episode": 23,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 23,
+        "start_ms": 84500,
+        "end_ms": 124500,
+        "start_line": "L044",
+        "end_line": "L063",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana stares intensely and says 'Arsenic'.",
+      "hook": 4,
+      "understood": "Juliana is treating a poisoned Duchess and is interrupted by someone coming to the door.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who is at the door?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "Repetitive content compared to Clip C.",
+      "blind_label": "G"
+    }
+  },
+  {
+    "promo_id": "E23-baseline_random",
+    "episode": 23,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 23,
+        "start_ms": 48000,
+        "end_ms": 88000,
+        "start_line": "L024",
+        "end_line": "L045",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana is reading a journal and looks shocked.",
+      "hook": 2,
+      "understood": "Juliana realizes the Duchess is being poisoned by comparing symptoms to her mother's journal.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who is the poisoner?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "It feels like a recap of information rather than a new development.",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E24-baseline_ending",
+    "episode": 24,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 24,
+        "start_ms": 48500,
+        "end_ms": 92000,
+        "start_line": "L037",
+        "end_line": "L069",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A noblewoman leads two women down a dark hallway.",
+      "hook": 2,
+      "understood": "A noblewoman is forcing a servant to clean a fireplace while threatening her.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will Juliana be able to act on her secret plan?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive content compared to Clip A.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E24-baseline_random",
+    "episode": 24,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 24,
+        "start_ms": 43200,
+        "end_ms": 81200,
+        "start_line": "L034",
+        "end_line": "L063",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana says 'Yes, my lady' to a noblewoman.",
+      "hook": 2,
+      "understood": "A noblewoman is bullying a servant.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will she break?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive content.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E25-baseline_ending",
+    "episode": 25,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 25,
+        "start_ms": 117500,
+        "end_ms": 163000,
+        "start_line": "L069",
+        "end_line": "L093",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 45500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Juliana tries to soothe an angry man named Alexander.",
+      "hook": 2,
+      "understood": "Juliana is hiding her dangerous work as a healer from Alexander, who is worried about her safety.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will Alexander stop her from going back?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "The romantic tension feels forced.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E25-baseline_random",
+    "episode": 25,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 25,
+        "start_ms": 97800,
+        "end_ms": 137200,
+        "start_line": "L056",
+        "end_line": "L079",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Alexander looks thoughtful while Juliana speaks.",
+      "hook": 2,
+      "understood": "Juliana is trying to convince Alexander to let her continue treating the Duchess.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will he let her go back?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive dialogue from Clip E.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E26-baseline_ending",
+    "episode": 26,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 26,
+        "start_ms": 73800,
+        "end_ms": 115800,
+        "start_line": "L031",
+        "end_line": "L049",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 42000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman asking why another woman is a maid.",
+      "hook": 2,
+      "understood": "A Duchess is talking to a maid who reveals she was cast out by her family; then the Duchess recognizes a ring.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "What is the history behind that ring?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "A bit slow to start.",
+      "blind_label": "J"
+    }
+  },
+  {
+    "promo_id": "E26-baseline_random",
+    "episode": 26,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 26,
+        "start_ms": 73800,
+        "end_ms": 110800,
+        "start_line": "L031",
+        "end_line": "L047",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman asking why another woman is a maid.",
+      "hook": 2,
+      "understood": "A Duchess recognizes a ring on a maid's hand and is clearly shocked.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "What is the connection?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "Ends abruptly.",
+      "blind_label": "N"
+    }
+  },
+  {
+    "promo_id": "E27-baseline_ending",
+    "episode": 27,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 27,
+        "start_ms": 104200,
+        "end_ms": 144900,
+        "start_line": "L064",
+        "end_line": "L091",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man talking about a substance.",
+      "hook": 2,
+      "understood": "A maid is being accused of poisoning a Duchess, but she claims she has an antidote.",
+      "confusions": "Why is the nobleman so aggressive?",
+      "standalone": 4,
+      "open_question": "Will they let her explain the antidote?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Dialogue feels forced.",
+      "blind_label": "G"
+    }
+  },
+  {
+    "promo_id": "E27-baseline_random",
+    "episode": 27,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 27,
+        "start_ms": 70500,
+        "end_ms": 110200,
+        "start_line": "L042",
+        "end_line": "L066",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman showing a bottle to a man.",
+      "hook": 2,
+      "understood": "A maid is being interrogated about medicine she gave to a Duchess.",
+      "confusions": "Why is the man so suspicious of a simple medicine?",
+      "standalone": 4,
+      "open_question": "Will she be able to prove it's an antidote?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Slow pacing.",
+      "blind_label": "I"
+    }
+  },
+  {
+    "promo_id": "E28-baseline_ending",
+    "episode": 28,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 28,
+        "start_ms": 97400,
+        "end_ms": 136800,
+        "start_line": "L072",
+        "end_line": "L095",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman grinning wickedly while reading a book.",
+      "hook": 3,
+      "understood": "Catherine is mocking Juliana for being a disgraced noblewoman married to a poor veteran, and plans to use a book to get her hanged.",
+      "confusions": "Why does a book of weeds get someone hanged?",
+      "standalone": 4,
+      "open_question": "Will the book actually lead to her execution?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Villain is a bit too cartoonishly evil.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E28-baseline_random",
+    "episode": 28,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 28,
+        "start_ms": 18500,
+        "end_ms": 56800,
+        "start_line": "L016",
+        "end_line": "L042",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38300,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man putting on gloves.",
+      "hook": 3,
+      "understood": "The Duchess tries to defend the maid, but the villainous man claims the Duchess is mentally ill from poison.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Will the Duchess be able to expose them?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "The villain is very one-dimensional.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E29-baseline_ending",
+    "episode": 29,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 29,
+        "start_ms": 72100,
+        "end_ms": 112800,
+        "start_line": "L046",
+        "end_line": "L071",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman sneering at another woman about a 'scarred soldier'.",
+      "hook": 2,
+      "understood": "A woman named Juliana is being thrown into a dungeon by guards on orders from a woman named Catherine.",
+      "confusions": "Who is Ashbrook? Why is Juliana being imprisoned?",
+      "standalone": 3,
+      "open_question": "Will Juliana escape or be executed?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Generic period drama tropes.",
+      "blind_label": "A"
+    }
+  },
+  {
+    "promo_id": "E29-baseline_random",
+    "episode": 29,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 29,
+        "start_ms": 2900,
+        "end_ms": 41900,
+        "start_line": "L004",
+        "end_line": "L024",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman being dragged by guards.",
+      "hook": 2,
+      "understood": "Juliana is being dragged away while Catherine mocks her mother's book.",
+      "confusions": "Why is the book so important?",
+      "standalone": 3,
+      "open_question": "Will she ever get her mother's book back?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Too much exposition during a struggle.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E30-baseline_ending",
+    "episode": 30,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 30,
+        "start_ms": 104400,
+        "end_ms": 144500,
+        "start_line": "L052",
+        "end_line": "L067",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40100,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "An old man nodding and saying 'Exactly'.",
+      "hook": 1,
+      "understood": "A group of nobles is conspiring to frame a woman named Juliana for witchcraft to get rid of her.",
+      "confusions": "Who are these people and why do they care about her?",
+      "standalone": 3,
+      "open_question": "Will their plan to frame her succeed?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Very dry exposition.",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E30-baseline_random",
+    "episode": 30,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 30,
+        "start_ms": 104800,
+        "end_ms": 144500,
+        "start_line": "L053",
+        "end_line": "L067",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "An old man saying 'Exactly'.",
+      "hook": 1,
+      "understood": "Nobles are planning to frame a woman named Juliana for witchcraft.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the framing work?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Very cliché dialogue.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E31-baseline_ending",
+    "episode": 31,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 31,
+        "start_ms": 111500,
+        "end_ms": 151200,
+        "start_line": "L063",
+        "end_line": "L084",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman pacing with a book while talking down to a prisoner.",
+      "hook": 4,
+      "understood": "A woman is taunting a prisoner and destroying a sentimental book to cause her pain.",
+      "confusions": "none",
+      "standalone": 5,
+      "open_question": "Will she burn the whole book?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "The villain is almost cartoonishly evil.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E31-baseline_random",
+    "episode": 31,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 31,
+        "start_ms": 59200,
+        "end_ms": 98200,
+        "start_line": "L034",
+        "end_line": "L056",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman talking about choices.",
+      "hook": 2,
+      "understood": "A prisoner is defending her choice of a husband against a woman who values wealth and status.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Feels like a soap opera argument.",
+      "blind_label": "I"
+    }
+  },
+  {
+    "promo_id": "E32-baseline_ending",
+    "episode": 32,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 32,
+        "start_ms": 112800,
+        "end_ms": 151200,
+        "start_line": "L085",
+        "end_line": "L114",
+        "adjustments": [
+          "start advanced 300 ms past L084"
+        ]
+      }
+    ],
+    "duration_ms": 38400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman holding an iron rod looking insulted.",
+      "hook": 4,
+      "understood": "A prisoner (Juliana) is being tortured/threatened by a woman (Catherine) who is insecure about her own power.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Will Catherine actually burn her with the iron?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "Dialogue is a bit 'villain monologue' heavy.",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E32-baseline_random",
+    "episode": 32,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 32,
+        "start_ms": 36400,
+        "end_ms": 73400,
+        "start_line": "L028",
+        "end_line": "L056",
+        "adjustments": [
+          "end trimmed 2100 ms before L057"
+        ]
+      }
+    ],
+    "duration_ms": 37000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman leaning down aggressively into a prisoner's space.",
+      "hook": 3,
+      "understood": "A prisoner is standing her ground against a cruel woman who is mocking her past relationships.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Too much dialogue, not enough action.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E33-baseline_ending",
+    "episode": 33,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 33,
+        "start_ms": 124500,
+        "end_ms": 164500,
+        "start_line": "L075",
+        "end_line": "L097",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man saying 'That is witchcraft.'",
+      "hook": 3,
+      "understood": "A lord is forcing a maid to lie in court to frame Lady Juliana for witchcraft.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Will the maid be able to live with her guilt?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Repetitive dialogue.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E33-baseline_random",
+    "episode": 33,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 33,
+        "start_ms": 104500,
+        "end_ms": 144800,
+        "start_line": "L064",
+        "end_line": "L085",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40300,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A maid screaming about prayer while a man grins at her.",
+      "hook": 3,
+      "understood": "A maid is being coerced by a powerful man into giving false testimony against a woman accused of witchcraft.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Will the maid actually go through with the lie at the trial?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit melodramatic and repetitive.",
+      "blind_label": "A"
+    }
+  },
+  {
+    "promo_id": "E34-baseline_ending",
+    "episode": 34,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 34,
+        "start_ms": 142400,
+        "end_ms": 184500,
+        "start_line": "L091",
+        "end_line": "L114",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 42100,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A judge telling a woman to renounce her practices.",
+      "hook": 2,
+      "understood": "A woman is on trial and refuses to renounce her healing, leading to a dramatic courtroom moment.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What is the judgment?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Standard courtroom drama tropes.",
+      "blind_label": "N"
+    }
+  },
+  {
+    "promo_id": "E34-baseline_random",
+    "episode": 34,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 34,
+        "start_ms": 126800,
+        "end_ms": 166800,
+        "start_line": "L080",
+        "end_line": "L104",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman saying 'Yes' while on trial.",
+      "hook": 2,
+      "understood": "Lady Juliana is refusing to renounce her healing practices despite the threat of being convicted of witchcraft.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Will she be sentenced to death for her refusal?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Slow pacing.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E35-baseline_ending",
+    "episode": 35,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 35,
+        "start_ms": 110000,
+        "end_ms": 150500,
+        "start_line": "L051",
+        "end_line": "L070",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman asking how someone escaped.",
+      "hook": 2,
+      "understood": "A man is telling his mother that the people who tried to kill him are the same ones currently in power.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Who are the people in power?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit slow to get to the point.",
+      "blind_label": "M"
+    }
+  },
+  {
+    "promo_id": "E35-baseline_random",
+    "episode": 35,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 35,
+        "start_ms": 83000,
+        "end_ms": 122000,
+        "start_line": "L037",
+        "end_line": "L055",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man looking at a map and talking about a mission.",
+      "hook": 2,
+      "understood": "A soldier is explaining to his mother how he was betrayed and left for dead during a mission.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Who betrayed him?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "A bit of an exposition dump.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E36-baseline_ending",
+    "episode": 36,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 36,
+        "start_ms": 156800,
+        "end_ms": 200750,
+        "start_line": "L098",
+        "end_line": "L119",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43950,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man says they are marrying in two days.",
+      "hook": 4,
+      "understood": "Alexander is furious that his wife is being held and is planning a rescue before the wedding.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Will he arrive before the wedding ends?",
+      "cliffhanger": 5,
+      "tap_to_watch": 5,
+      "main_problem": "None.",
+      "blind_label": "G"
+    }
+  },
+  {
+    "promo_id": "E36-baseline_random",
+    "episode": 36,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 36,
+        "start_ms": 103500,
+        "end_ms": 142000,
+        "start_line": "L063",
+        "end_line": "L087",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man's expression freezes in shock.",
+      "hook": 4,
+      "understood": "Alexander learns his wife has been falsely accused and condemned to death.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Can he save her in time?",
+      "cliffhanger": 5,
+      "tap_to_watch": 5,
+      "main_problem": "None.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E37-baseline_ending",
+    "episode": 37,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 37,
+        "start_ms": 105500,
+        "end_ms": 147500,
+        "start_line": "L059",
+        "end_line": "L076",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 42000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman in a dungeon yells that she will not submit.",
+      "hook": 2,
+      "understood": "Juliana is being held prisoner, while a woman named Clarissa and a nobleman discuss her upcoming execution with malice.",
+      "confusions": "The connection between the dungeon scene and the parlor scene is implied but not explicitly stated.",
+      "standalone": 3,
+      "open_question": "Will Clarissa get away with her cruelty?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The transition between locations is jarring.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E37-baseline_random",
+    "episode": 37,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 37,
+        "start_ms": 12800,
+        "end_ms": 53000,
+        "start_line": "L008",
+        "end_line": "L030",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man talks about the transfer of Ashbridge.",
+      "hook": 2,
+      "understood": "Catherine and Rupert are villains planning to take over an estate and execute a woman named Juliana.",
+      "confusions": "Who the Ashcrofts are and why they are being invited.",
+      "standalone": 3,
+      "open_question": "Will the villains succeed in their takeover?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Too much exposition, not enough action.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E38-baseline_ending",
+    "episode": 38,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 38,
+        "start_ms": 43200,
+        "end_ms": 87000,
+        "start_line": "L028",
+        "end_line": "L055",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman in a dungeon asks if she's been condemned.",
+      "hook": 3,
+      "understood": "A woman named Juliana is imprisoned and awaiting execution, worried about her husband, Alexander.",
+      "confusions": "Why she is being executed is vague.",
+      "standalone": 4,
+      "open_question": "Will she survive or see her husband again?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "A bit melodramatic.",
+      "blind_label": "A"
+    }
+  },
+  {
+    "promo_id": "E38-baseline_random",
+    "episode": 38,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 38,
+        "start_ms": 5000,
+        "end_ms": 43200,
+        "start_line": "L005",
+        "end_line": "L027",
+        "adjustments": [
+          "end trimmed 2300 ms before L028"
+        ]
+      }
+    ],
+    "duration_ms": 38200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman blinks and looks at bars.",
+      "hook": 3,
+      "understood": "A guard shows a small act of kindness to a starving prisoner.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the guard help her escape?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit slow.",
+      "blind_label": "N"
+    }
+  },
+  {
+    "promo_id": "E39-baseline_ending",
+    "episode": 39,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 39,
+        "start_ms": 57200,
+        "end_ms": 98410,
+        "start_line": "L036",
+        "end_line": "L058",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41210,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "Metallic snipping sounds of hair being cut.",
+      "hook": 3,
+      "understood": "Alexander is grooming himself and preparing to lead a mission to take back his house and save his wife.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Will his rescue mission succeed?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "A bit repetitive if seen after other clips.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E39-baseline_random",
+    "episode": 39,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 39,
+        "start_ms": 32400,
+        "end_ms": 71800,
+        "start_line": "L021",
+        "end_line": "L045",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A cart driver jumps off and attacks a guard.",
+      "hook": 5,
+      "understood": "A group of loyalists is infiltrating a location to help Alexander return.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the infiltration be successful?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "The transition to the mirror scene is confusing.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E40-baseline_ending",
+    "episode": 40,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 40,
+        "start_ms": 69500,
+        "end_ms": 110080,
+        "start_line": "L035",
+        "end_line": "L050",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40580,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A nobleman looks down from a balcony at a crowd.",
+      "hook": 2,
+      "understood": "A wedding is taking place, and the villains are celebrating the upcoming death of a 'witch'.",
+      "confusions": "Who the 'witch' is.",
+      "standalone": 3,
+      "open_question": "Is the wedding a trap?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Slow pacing.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E40-baseline_random",
+    "episode": 40,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 40,
+        "start_ms": 12400,
+        "end_ms": 49800,
+        "start_line": "L007",
+        "end_line": "L025",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman says look at them, every noble family is here.",
+      "hook": 2,
+      "understood": "Nobles are gathering for a wedding and are excited about the upcoming execution.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will they get their comeuppance?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Lacks emotional stakes.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E41-baseline_ending",
+    "episode": 41,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 41,
+        "start_ms": 39800,
+        "end_ms": 80500,
+        "start_line": "L025",
+        "end_line": "L045",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman tells another to 'Look around.'",
+      "hook": 3,
+      "understood": "A woman is mocking a prisoner in a church before her own wedding.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the wedding actually happen?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The villain is a bit one-dimensional.",
+      "blind_label": "L"
+    }
+  },
+  {
+    "promo_id": "E41-baseline_random",
+    "episode": 41,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 41,
+        "start_ms": 13000,
+        "end_ms": 52800,
+        "start_line": "L008",
+        "end_line": "L030",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39800,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man turns to a woman with caution.",
+      "hook": 2,
+      "understood": "A woman is being brought into a church as a prisoner to be humiliated.",
+      "confusions": "Why is she a prisoner and what is her relationship to the people at the altar?",
+      "standalone": 3,
+      "open_question": "What is the woman's fate?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Slow pacing in the middle.",
+      "blind_label": "D"
+    }
+  },
+  {
+    "promo_id": "E42-baseline_ending",
+    "episode": 42,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 42,
+        "start_ms": 39900,
+        "end_ms": 77800,
+        "start_line": "L024",
+        "end_line": "L037",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37900,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "An elderly woman steps into the aisle.",
+      "hook": 2,
+      "understood": "A man has returned home and is being reunited with his mother.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "How will he get his revenge on Rupert?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit melodramatic.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E42-baseline_random",
+    "episode": 42,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 42,
+        "start_ms": 29000,
+        "end_ms": 64000,
+        "start_line": "L019",
+        "end_line": "L032",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 35000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman says 'Rupert...'",
+      "hook": 2,
+      "understood": "A man has returned from the dead to confront the person who stole his life.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What happens next in the confrontation?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Very similar to other clips.",
+      "blind_label": "J"
+    }
+  },
+  {
+    "promo_id": "E43-baseline_ending",
+    "episode": 43,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 43,
+        "start_ms": 72700,
+        "end_ms": 112800,
+        "start_line": "L060",
+        "end_line": "L086",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40100,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man raises a document toward cathedral arches.",
+      "hook": 2,
+      "understood": "A man is exposing that he was declared dead so his title could be stolen.",
+      "confusions": "Who is Rupert and why is he so scared?",
+      "standalone": 3,
+      "open_question": "Will the police actually arrest the Lord?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit too much exposition-heavy dialogue.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E43-baseline_random",
+    "episode": 43,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 43,
+        "start_ms": 66500,
+        "end_ms": 106500,
+        "start_line": "L055",
+        "end_line": "L082",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman says 'My God...'",
+      "hook": 3,
+      "understood": "A man is exposing a conspiracy involving his death and stolen title.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the conspirators be caught?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit too much exposition.",
+      "blind_label": "M"
+    }
+  },
+  {
+    "promo_id": "E44-baseline_ending",
+    "episode": 44,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 44,
+        "start_ms": 31200,
+        "end_ms": 70500,
+        "start_line": "L021",
+        "end_line": "L054",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39300,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man stands tall in a coat.",
+      "hook": 2,
+      "understood": "A man is rejecting a woman's love and choosing a woman in chains instead.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who is the woman in chains to him?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "The dialogue is a bit soap-opera style.",
+      "blind_label": "I"
+    }
+  },
+  {
+    "promo_id": "E44-baseline_random",
+    "episode": 44,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 44,
+        "start_ms": 17400,
+        "end_ms": 55600,
+        "start_line": "L013",
+        "end_line": "L041",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man screams 'Do something!'",
+      "hook": 2,
+      "understood": "A woman is trying to win back a man who she thought was dead, but he is rejecting her.",
+      "confusions": "Why is she so surprised he doesn't remember her?",
+      "standalone": 3,
+      "open_question": "Why does he hate her so much?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "The emotional payoff feels unearned without knowing the history.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E45-baseline_ending",
+    "episode": 45,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 45,
+        "start_ms": 71500,
+        "end_ms": 113200,
+        "start_line": "L050",
+        "end_line": "L070",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man proclaims a woman as his wife.",
+      "hook": 3,
+      "understood": "A man is declaring his marriage, but a priest interrupts to say it's invalid.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Is the marriage actually invalid or is the priest lying?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Repetitive dialogue compared to other clips.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E45-baseline_random",
+    "episode": 45,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 45,
+        "start_ms": 51800,
+        "end_ms": 91000,
+        "start_line": "L039",
+        "end_line": "L060",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man confronts a woman, accusing her of poisoning his mother.",
+      "hook": 4,
+      "understood": "A man is publicly shaming a woman for past crimes and declaring his true wife.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who is the person entering the church at the end?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "The sudden interruption feels a bit cliché.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E46-baseline_ending",
+    "episode": 46,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 46,
+        "start_ms": 101800,
+        "end_ms": 143880,
+        "start_line": "L057",
+        "end_line": "L075",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 42080,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A man is arguing with a priest in a church.",
+      "hook": 3,
+      "understood": "A Duke is fighting to keep his marriage valid against a priest's decree.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What will happen in ten days?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "A bit too much shouting.",
+      "blind_label": "N"
+    }
+  },
+  {
+    "promo_id": "E46-baseline_random",
+    "episode": 46,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 46,
+        "start_ms": 22800,
+        "end_ms": 62800,
+        "start_line": "L015",
+        "end_line": "L034",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A priest is holding a document and looking angry.",
+      "hook": 3,
+      "understood": "A priest is declaring a marriage invalid because it wasn't properly recorded or licensed.",
+      "confusions": "Why is the Duke's status as 'dead' relevant?",
+      "standalone": 3,
+      "open_question": "Will the marriage be annulled?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A lot of dense historical jargon.",
+      "blind_label": "H"
+    }
+  },
+  {
+    "promo_id": "E47-baseline_ending",
+    "episode": 47,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 47,
+        "start_ms": 91000,
+        "end_ms": 131500,
+        "start_line": "L048",
+        "end_line": "L069",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman is picking up a servant's apron and keys.",
+      "hook": 2,
+      "understood": "A woman is forcing another woman to become a servant as a condition for staying.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "How long will the servant last before she snaps?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Very similar to Clip A, feels redundant.",
+      "blind_label": "F"
+    }
+  },
+  {
+    "promo_id": "E47-baseline_random",
+    "episode": 47,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 47,
+        "start_ms": 55500,
+        "end_ms": 95000,
+        "start_line": "L025",
+        "end_line": "L049",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A wide shot of a rainy courtyard with an old woman yelling at a girl in the mud.",
+      "hook": 3,
+      "understood": "A woman is being kicked out of an estate, but another woman intervenes to make her a servant instead.",
+      "confusions": "Who is Alexander and why is he so angry?",
+      "standalone": 4,
+      "open_question": "Why did Juliana stop the guards?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The acting feels a bit stagey.",
+      "blind_label": "G"
+    }
+  },
+  {
+    "promo_id": "E48-baseline_ending",
+    "episode": 48,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 48,
+        "start_ms": 34000,
+        "end_ms": 73500,
+        "start_line": "L021",
+        "end_line": "L041",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman is grabbing a maid by the hands and acting very intense.",
+      "hook": 2,
+      "understood": "Catherine is manipulating a maid to help her contact a priest for some secret plot.",
+      "confusions": "Why is she so obsessed with getting back into the house?",
+      "standalone": 3,
+      "open_question": "What is the priest going to do for her?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Feels like a generic villain monologue.",
+      "blind_label": "C"
+    }
+  },
+  {
+    "promo_id": "E48-baseline_random",
+    "episode": 48,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 48,
+        "start_ms": 7500,
+        "end_ms": 43000,
+        "start_line": "L004",
+        "end_line": "L025",
+        "adjustments": [
+          "start advanced 3000 ms past L003"
+        ]
+      }
+    ],
+    "duration_ms": 35500,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman in fancy clothes is talking to herself about a ten-day deadline.",
+      "hook": 2,
+      "understood": "Catherine is a schemer planning to undo a decree or a decision within ten days.",
+      "confusions": "Who is Alexander and what is the 'council' she is talking about?",
+      "standalone": 3,
+      "open_question": "What is her plan to use the maid to cause trouble?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Too much exposition-heavy dialogue.",
+      "blind_label": "B"
+    }
+  },
+  {
+    "promo_id": "E49-baseline_ending",
+    "episode": 49,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 49,
+        "start_ms": 103800,
+        "end_ms": 144000,
+        "start_line": "L045",
+        "end_line": "L062",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40200,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A priest is talking to a woman about the dangers of treason.",
+      "hook": 2,
+      "understood": "A priest is worried about the consequences of helping a woman plot against a Duke.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they actually go through with the treason?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive dialogue compared to other clips.",
+      "blind_label": "E"
+    }
+  },
+  {
+    "promo_id": "E49-baseline_random",
+    "episode": 49,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 49,
+        "start_ms": 27800,
+        "end_ms": 67200,
+        "start_line": "L016",
+        "end_line": "L029",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39400,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman is telling a man he didn't need to be thorough.",
+      "hook": 2,
+      "understood": "A woman and a priest are discussing their secret meetings.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "What exactly did they do that needs to be kept secret?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Too much talking, not enough action.",
+      "blind_label": "M"
+    }
+  },
+  {
+    "promo_id": "E50-baseline_ending",
+    "episode": 50,
+    "origin": "baseline_ending",
+    "segments": [
+      {
+        "episode": 50,
+        "start_ms": 26500,
+        "end_ms": 65500,
+        "start_line": "L014",
+        "end_line": "L030",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 39000,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman is scoffing at a man in bed.",
+      "hook": 2,
+      "understood": "A woman and a priest are having an affair and negotiating a political deal.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "How far will this affair go?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "The chemistry feels forced.",
+      "blind_label": "K"
+    }
+  },
+  {
+    "promo_id": "E50-baseline_random",
+    "episode": 50,
+    "origin": "baseline_random",
+    "segments": [
+      {
+        "episode": 50,
+        "start_ms": 11800,
+        "end_ms": 48500,
+        "start_line": "L008",
+        "end_line": "L023",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 36700,
+    "flags": [],
+    "problems": [],
+    "critic": {
+      "first_3s": "A woman is leaning over a man in bed.",
+      "hook": 4,
+      "understood": "A woman is bribing a priest for political power/tax collection.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the priest actually give her the power she wants?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The 'transactional' dialogue is a bit cheesy.",
+      "blind_label": "J"
+    }
+  }
+]

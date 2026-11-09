@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"What is the buyer's plan for the people if no rescue ship is available?\",\n  \"actor_voice\": \"voice_1\",\n  \"target_voice\": \"voice_2\",\n  \"ending_evidence_ids\": [\"U003\", \"U004\"],\n  \"ending_quote\": \"No rescue ship is on the schedule.\",\n  \"status\": \"disputed\",\n  \"answer_quote\": \"The buyer wants everyone off before dawn.\",\n  \"unresolved_consequence\": \"The dialogue does not clarify the buyer's plan for the people if no rescue ship is available, leaving the question open.\",\n  \"context\": \"The buyer's plan is mentioned as wanting everyone off before dawn, but this is in contrast to the statement that no rescue ship is on the\u8c03\u5ea6.\",\n  \"entities\": [\n    {\n      \"entity\": \"buyer's plan\",\n      \"source_quote\": \"The buyer wants everyone off before dawn.\",\n      \"utterance_id\": \"U001\"\n    },\n    {\n      \"entity\": \"rescue ship availability\",\n      \"source_quote\": \"No rescue ship is on the schedule.\",\n      \"utterance_id\": \"U003\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U001\", \"U003\", \"U004\"],\n  \"uncertainty_flags\": [],\n  \"uncertainty_reason\": \"The dialogue does not provide a clear resolution to the question, as the buyer's plan is not explicitly tied to the scenario of no rescue\u8239.\"\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 27.22788,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 694,
+      "completion_tokens": 333
+    }
+  }
+}

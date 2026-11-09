@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"interpretation\": {\n    \"text\": \"U001 demands information about oxygen status, U003 requests a crew member to be pulled in, U004 insists on giving oxygen to their daughter, U005 clarifies the daughter is not on the crew list, U006\u6307\u51fa\u53e6\",\n    \"evidence_ids\": [\"U001\", \"U003\", \"U004\", \"U005\"]\n  },\n  \"missing_context\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ],\n  \"essential_context_missing\": true,\n  \"unresolved_question\": {\n    \"text\": \"Who is the person on the other end of the channel?\",\n    \"evidence_ids\": [\"U006\"]\n  },\n  \"criteria\": {\n    \"hook\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\"],\n      \"reason\": \"U001's demand for oxygen status is a clear provocation but lacks context for the full situation.\"\n    },\n    \"cliffhanger\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U006\"],\n      \"reason\": \"U006's statement about someone else on the channel introduces an unresolved identity question.\"\n    },\n    \"comprehension\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U003\", \"U004\", \"U005\"],\n      \"reason\": \"U001, U003, and U004 have clear roles and stakes, but U005's clarification is missing context.\"\n    },\n    \"emotion\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U004\"],\n      \"reason\": \"U004's concern for their daughter is a personal stake, but the full emotional context is missing.\"\n    },\n    \"coherence\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U003\", \"U004\", \"U005\"],\n      \"reason\": \"The dialogue shows a conflict over oxygen and rescue, but the full sequence is unclear.\"\n    },\n    \"boundary\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U006\"],\n      \"reason\": \"The dialogue starts with a clear demand and ends with an unresolved identity question.\"\n    }\n  },\n  \"uncertainty_flags\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ]\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 127.662806,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 1459,
+      "completion_tokens": 576
+    }
+  }
+}

@@ -1,0 +1,81 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: An orbital rescue forces a captain to choose who to save.
+CONTINUITY NOTES: Original synthetic science fiction fixture.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. ORBITAL STATION
+Scene start: 00:00.00
+Scene end: 00:32.00
+
+Actions and dialogue:
+
+**ENGINEER (Urgent):**
+Start: (00:00.00) | End: (00:02.00)
+"The airlock is opening!"
+
+**CAPTAIN (Calm):**
+Start: (00:03.00) | End: (00:05.00)
+"Our crew is still outside."
+
+**ENGINEER (Focused):**
+Start: (00:06.00) | End: (00:09.00)
+"If I seal it, they cannot get back in."
+
+**CAPTAIN (Determined):**
+Start: (00:10.00) | End: (00:12.00)
+"We have one rescue cable."
+
+**ENGINEER (Alarmed):**
+Start: (00:13.00) | End: (00:16.00)
+"The cable can hold only one person."
+
+**PILOT (O.S., Urgent):**
+Start: (00:18.00) | End: (00:20.00)
+"Two of us are out here!"
+
+**CAPTAIN (Resolute):**
+Start: (00:21.00) | End: (00:23.00)
+"Tell me who has oxygen left."
+
+**PILOT (O.S., Afraid):**
+Start: (00:24.00) | End: (00:27.00)
+"My partner has stopped answering."
+
+**ENGINEER (Frightened):**
+Start: (00:29.00) | End: (00:31.00)
+"Captain, who should I pull in?"
+
+SCENE 02
+Scene heading: INT. CONTROL DECK
+Scene start: 00:32.00
+Scene end: 01:00.88
+
+Actions and dialogue:
+
+**CAPTAIN (Tense):**
+Start: (00:34.00) | End: (00:37.00)
+"Give the cable to my daughter first."
+
+**ENGINEER (Shocked):**
+Start: (00:39.00) | End: (00:41.00)
+"Your daughter is not on the crew list."
+
+**PILOT (O.S., Quiet):**
+Start: (00:44.00) | End: (00:47.00)
+"There is someone else on this channel."
+
+**ENGINEER (Uneasy):**
+Start: (00:50.00) | End: (00:52.00)
+"Who gave them our rescue code?"
+
+**CAPTAIN (Firm):**
+Start: (00:55.00) | End: (00:58.00)
+"Do not open the inner door yet."
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:00.88)
+A warning light flashes.
+
+--- SCRIPT END ---

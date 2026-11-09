@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"What is the buyer's plan for the thirty people aboard if they cannot be evacuated before dawn?\",\n  \"actor_voice\": \"voice_1\",\n  \"target_voice\": \"voice_2\",\n  \"ending_evidence_ids\": [\"U005\"],\n  \"ending_quote\": \"What did the buyer plan for the people?\",\n  \"status\": \"disputed\",\n  \"answer_quote\": \"\",\n  \"unresolved_consequence\": \"The buyer's plan remains unclear and is not explicitly stated in the dialogue.\",\n  \"context\": \"The final utterance from voice_1 questions the buyer's plan for the thirty people aboard, but the dialogue does not provide a direct answer.\",\n  \"entities\": [\n    {\n      \"entity\": \"buyer's plan\",\n      \"source_quote\": \"What did the buyer plan for the people?\",\n      \"utterance_id\": \"U005\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n  \"uncertainty_flags\": [],\n  \"uncertainty_reason\": \"The final question from voice_1 does not resolve the buyer's plan, leaving it unresolved.\"\n}",
+  "validated": false,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 22.319712,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 733,
+      "completion_tokens": 271
+    }
+  }
+}

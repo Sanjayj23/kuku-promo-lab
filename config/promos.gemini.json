@@ -1,0 +1,22 @@
+{
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+  "model": "gemini-3.5-flash",
+  "fallback_models": [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-2.5-flash-lite",
+    "gemini-3-flash-preview",
+    "gemini-omni-1.2-flash"
+  ],
+  "api_key_env": "GEMINI_API_KEY",
+  "temperature": 0.4,
+  "critic_temperature": 0.2,
+  "timeout_s": 60,
+  "requests_per_minute": 10,
+  "workers": 3,
+  "episodes_per_call": 5,
+  "max_candidates_per_episode": 3,
+  "baseline_window_s": 40,
+  "top_n": 15,
+  "max_per_episode_in_ranking": 2
+}

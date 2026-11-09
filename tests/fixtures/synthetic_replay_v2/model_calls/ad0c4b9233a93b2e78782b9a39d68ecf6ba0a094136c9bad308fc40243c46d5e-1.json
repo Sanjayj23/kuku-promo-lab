@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\"hook_present\": true, \"cue_quote\": \"\\\"My partner has stopped answering.\\\"\", \"cue_type\": \"question-with-stakes\", \"specificity\": 1, \"reason\": \"The dialogue contains a concrete question with stakes related to a partner not answering, implying a potential conflict or emergency.\",\"evidence_scope\": \"dialogue_only\", \"uncertain\": false}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 76.787773,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 221,
+      "completion_tokens": 86
+    }
+  }
+}

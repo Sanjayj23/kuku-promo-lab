@@ -1,0 +1,10 @@
+attrs==26.1.0
+charset-normalizer==3.5.2
+jsonschema==4.23.0
+jsonschema-specifications==2025.9.1
+pillow==13.0.0
+pypdf==6.7.1
+referencing==0.37.0
+reportlab==4.4.10
+rpds-py==2026.9.1
+typing_extensions==4.16.0

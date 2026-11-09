@@ -1,0 +1,2022 @@
+{
+  "schema_version": "1.0",
+  "run_id": "run-20261105T123342-3eb4d03b",
+  "pack_hash": "5d66d780f55480372977e13a278e26537adaed4936215a6afa6b0bcc108b4ccf",
+  "run_status": "complete",
+  "coverage": {
+    "files_discovered": 50,
+    "episodes_parsed": 50,
+    "episodes_analyzed": 50,
+    "episodes_failed": 0,
+    "episodes": [
+      {
+        "episode_id": "ep-001",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-001-Episode 1671703.txt",
+        "source_sha256": "9787df1d0983957589fc407cb0f2cdc0a89fcde7100c022a4741b8abfeedfa81",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-002",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-002-Episode 1671704.txt",
+        "source_sha256": "f0bdb98b40cdd1cd1458e4dbae99ee51c55130e75cd676e06a12ce04a9cbb111",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-003",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-003-Episode 1671705.txt",
+        "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-004",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-004-Episode 1671706.txt",
+        "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-005",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-005-Episode 1671707.txt",
+        "source_sha256": "0dc648aeee02b1eebdd200144e70386f1dd101e820f96e3a5da65b527a43c9db",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-006",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-006-Episode 1671708.txt",
+        "source_sha256": "11131c5019b2c7021f376b17cfd99d6c876b8594da0ea4fe5abffda6f4db19de",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-007",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-007-Episode 1671709.txt",
+        "source_sha256": "d6125d1e308e9ea7993e1e22a4452e1f940bc384a13b621acdb5b3709bf96494",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-008",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-008-Episode 1671710.txt",
+        "source_sha256": "e2482244be533ae60b42cae3032208cf0bede3b2427639797a6323995dafeccb",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-009",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-009-Episode 1671711.txt",
+        "source_sha256": "faea423ecdc00a4677d0cfe44deea27f2353120a682104faf07c073e99589e9e",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-010",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-010-Episode 1671712.txt",
+        "source_sha256": "474a02d035632a75787ddf6796abafcb7a5dac806f9739e25b3de09e0de5841f",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-011",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-011-Episode 1671713.txt",
+        "source_sha256": "839ae70b822b9ae862ea9b0625a372d2a03660757d6556cd2dc1251d876654de",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-012",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-012-Episode 1671714.txt",
+        "source_sha256": "d3c65e83677b3d1014a1e95dead2ea621ff2a81bf565462084f3ac9f5c0c6305",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-013",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-013-Episode 1671715.txt",
+        "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-014",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-014-Episode 1671716.txt",
+        "source_sha256": "23e67fb015dbfbf003d1008f2fd5033dfa192100b1eced5d1bb3e28d31c3844d",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-015",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-015-Episode 1671717.txt",
+        "source_sha256": "4820cb5f1dca8b09eb9b111eb828151ea39cb8d15da729b75acb08551f573b27",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-016",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-016-Episode 1671718.txt",
+        "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-017",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-017-Episode 1671719.txt",
+        "source_sha256": "25fad86cb46d505849d1247d92836e1176bf732e50699a00b1f34c0e14f28e27",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-018",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-018-Episode 1671720.txt",
+        "source_sha256": "1e1ecab8f43c144862ef126eb707196478303c1af57186357ba1e25ea4c8e529",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-019",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-019-Episode 1671721.txt",
+        "source_sha256": "45e16ab1556cb4afe16777d1538079263f933b85ecb63e1e44a462d33541fb24",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-020",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-020-Episode 1671722.txt",
+        "source_sha256": "e6389a016e5aa432efca70d3bb2d64ec859200ad0e6aad207fa63a616ce12fa8",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-021",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-021-Episode 1678574.txt",
+        "source_sha256": "00cb2e6c0b31ed3022212cc30d2fadd006e70516eb33be7d50aed31137d39db9",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-022",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-022-Episode 1678575.txt",
+        "source_sha256": "516bd97dafb3753c10ac4a1a909aa7bccec17367050791e278e4102277cc3cc1",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-023",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-023-Episode 1678576.txt",
+        "source_sha256": "2590fe65b7a4a8b4978992a4a857b46ba3c35d80f65ebdf0906e7f558107f1ca",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-024",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-024-Episode 1678577.txt",
+        "source_sha256": "c211a90aef87daaf36182aaee95262b6121e962537fb25b37ef68260e4971259",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-025",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-025-Episode 1678578.txt",
+        "source_sha256": "c80b5d5b0e2ddf2033dd07eb15242604859e9dd2fd24c64113a274aa29dd6962",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-026",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-026-Episode 1678579.txt",
+        "source_sha256": "6ffdcf181c0b1067f4524a1696da17735a23b94498c443f342516aab7fe15966",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-027",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-027-Episode 1678580.txt",
+        "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-028",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-028-Episode 1678581.txt",
+        "source_sha256": "c16039c9150b946989645a76291309ef7889e05e14a38451ad10630ef7f90d21",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-029",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-029-Episode 1678582.txt",
+        "source_sha256": "bf00c3e50abaa8f00aebcb55c6a4520f26e9a987f22ab4975348ab092bdf6265",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-030",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-030-Episode 1678583.txt",
+        "source_sha256": "5535a6b12dd9085ead17b3b19968ca9f25f6d862c822cea65a417972ea3c1265",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-031",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-031-Episode 1681364.txt",
+        "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-032",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-032-Episode 1681365.txt",
+        "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-033",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-033-Episode 1681366.txt",
+        "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-034",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-034-Episode 1681367.txt",
+        "source_sha256": "76ed46ede7bbc0388279753e8d3e8da924141b43480b9f52243d1155003ca436",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-035",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-035-Episode 1681368.txt",
+        "source_sha256": "07326970ef3d6f070ac1d6590c28721fda574046ea5e3885daec412a9f2d9ea6",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-036",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-036-Episode 1681369.txt",
+        "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-037",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-037-Episode 1681370.txt",
+        "source_sha256": "a76d8261a5e8423038f50c4f78f9dfd15fe90fbbc900e06f579de5e943163e2e",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-038",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-038-Episode 1681371.txt",
+        "source_sha256": "03e0ee85f8752256ba57786e7857c8c7e9f49b24b40d8ae900c4a6f5a00b5926",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-039",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-039-Episode 1686799.txt",
+        "source_sha256": "9880b70ecdcada1fcb110b33761a1bdfdf96ccad454ef181cd47d641bb68e500",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-040",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-040-Episode 1686800.txt",
+        "source_sha256": "9b116fc10ed5209d6d3a109f10f574cd6f4a1b680f5e1cf66a99e6f02b7b51e0",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-041",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-041-Episode 1686801.txt",
+        "source_sha256": "80e99739af6910a1947da7e3b729f9a79f1acc371d8d09c2f8028786b1c3a6ef",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-042",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-042-Episode 1686802.txt",
+        "source_sha256": "338a2e4416e23ccbdd35fce7a7bef8fe67e442cb023bacc55ae9a3f512aca696",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-043",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-043-Episode 1686803.txt",
+        "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-044",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-044-Episode 1686804.txt",
+        "source_sha256": "d6578a980e20d1c89412d7828db835a3076dbe6b8555a2d0cdb7b54ad747e256",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-045",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-045-Episode 1686805.txt",
+        "source_sha256": "3424e374024cd00f62363ff74cc760257a974bf2c966796922d6ee99beade3db",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-046",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-046-Episode 1688395.txt",
+        "source_sha256": "0be3f531f43e86d3e33d345721484e16c73d7c066a20333d08f888a60d957e14",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-047",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-047-Episode 1688396.txt",
+        "source_sha256": "fff9175ab2120638b955660a5b8cdf11c5f6cdfaf8e0d40d313c7f1a8a54b63a",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-048",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-048-Episode 1688397.txt",
+        "source_sha256": "877b9ef4386e0bdc3b9103964979388eca1eb9c5341f835d6b203412fc6db624",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-049",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-049-Episode 1688398.txt",
+        "source_sha256": "7b96649d2e272da28d82c5cf18c7915d4f09117e5d7632a04625a333d554016e",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      },
+      {
+        "episode_id": "ep-050",
+        "source_name": "I Married a Broken Soldier. He was a Duke/episode-050-Episode 1697563.txt",
+        "source_sha256": "93a1df095b8ea3a42ca4367e0f4c29c8d35fa1c549fd281a4289f93f6a392c1b",
+        "parse_status": "parsed",
+        "analysis_status": "analyzed",
+        "error": null
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "promo_id": "cut-6c53b4a8c8011693a4d6",
+      "rank": 1,
+      "family_id": "family-61e79a3b87e94848",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "start_boundary_id": "ep-036:t000134500",
+          "end_boundary_id": "ep-036:t000173600",
+          "start_ms": 134500,
+          "end_ms": 173600,
+          "duration_ms": 39100,
+          "start_timecode": "00:02:14.500",
+          "end_timecode": "00:02:53.600"
+        }
+      ],
+      "duration_ms": 39100,
+      "hook": {
+        "text": "The opener establishes a clear provocation with the word 'No' that signals a conflict.",
+        "evidence_ids": [
+          "ep-036:b0083"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Will Alexander be able to stop the execution of his wife before the wedding?",
+        "evidence_ids": [
+          "ep-036:b0100",
+          "ep-036:b0102",
+          "ep-036:b0104",
+          "ep-036:b0106"
+        ]
+      },
+      "why_it_works": "Opens on The opener establishes a clear provocation with the word 'No' that signals a conflict and leaves Will Alexander be able to stop the execution of his wife before the wedding.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-036:b0083",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0083",
+          "line_start": 342,
+          "line_end": 344
+        },
+        {
+          "evidence_id": "ep-036:b0085",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0085",
+          "line_start": 350,
+          "line_end": 352
+        },
+        {
+          "evidence_id": "ep-036:b0087",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0087",
+          "line_start": 358,
+          "line_end": 360
+        },
+        {
+          "evidence_id": "ep-036:b0089",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0089",
+          "line_start": 366,
+          "line_end": 368
+        },
+        {
+          "evidence_id": "ep-036:b0093",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0093",
+          "line_start": 382,
+          "line_end": 384
+        },
+        {
+          "evidence_id": "ep-036:b0096",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0096",
+          "line_start": 394,
+          "line_end": 396
+        },
+        {
+          "evidence_id": "ep-036:b0100",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0100",
+          "line_start": 410,
+          "line_end": 412
+        },
+        {
+          "evidence_id": "ep-036:b0102",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0102",
+          "line_start": 418,
+          "line_end": 420
+        },
+        {
+          "evidence_id": "ep-036:b0104",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0104",
+          "line_start": 426,
+          "line_end": 428
+        },
+        {
+          "evidence_id": "ep-036:b0106",
+          "source_episode": "ep-036",
+          "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+          "block_id": "ep-036:b0106",
+          "line_start": 434,
+          "line_end": 436
+        }
+      ],
+      "ranking": {
+        "score": 72.5,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-036:b0083"
+            ],
+            "reason": "The opener establishes a clear provocation with the word 'No' that signals a conflict."
+          },
+          "cliffhanger": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-036:b0100",
+              "ep-036:b0102",
+              "ep-036:b0104",
+              "ep-036:b0106"
+            ],
+            "reason": "The dialogue ends with Alexander expressing a strong personal stake and a clear unresolved danger."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-036:b0085",
+              "ep-036:b0089",
+              "ep-036:b0093",
+              "ep-036:b0096"
+            ],
+            "reason": "The roles, conflict, and stakes are clearly established through dialogue."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-036:b0100",
+              "ep-036:b0104",
+              "ep-036:b0106"
+            ],
+            "reason": "The dialogue shows personal stakes and emotional tension, but not extreme emotion."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-036:b0083",
+              "ep-036:b0085",
+              "ep-036:b0087",
+              "ep-036:b0089"
+            ],
+            "reason": "The dialogue shows a clear progression of conflict and stakes."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-036:b0083",
+              "ep-036:b0085",
+              "ep-036:b0087",
+              "ep-036:b0089"
+            ],
+            "reason": "The dialogue has a complete start and end with a clear tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-be32df785411f9852337",
+      "rank": 2,
+      "family_id": "family-33fd02b0f21b0430",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "start_boundary_id": "ep-003:t000096500",
+          "end_boundary_id": "ep-003:t000140300",
+          "start_ms": 96500,
+          "end_ms": 140300,
+          "duration_ms": 43800,
+          "start_timecode": "00:01:36.500",
+          "end_timecode": "00:02:20.300"
+        }
+      ],
+      "duration_ms": 43800,
+      "hook": {
+        "text": "The opener contains a clear provocation with a specific conflict.",
+        "evidence_ids": [
+          "ep-003:b0083"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Will voice_1 accept voice_2's offer of marriage?",
+        "evidence_ids": [
+          "ep-003:b0116"
+        ]
+      },
+      "why_it_works": "Opens on The opener contains a clear provocation with a specific conflict and leaves Will voice_1 accept voice_2's offer of marriage.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-003:b0083",
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "block_id": "ep-003:b0083",
+          "line_start": 356,
+          "line_end": 358
+        },
+        {
+          "evidence_id": "ep-003:b0085",
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "block_id": "ep-003:b0085",
+          "line_start": 364,
+          "line_end": 366
+        },
+        {
+          "evidence_id": "ep-003:b0087",
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "block_id": "ep-003:b0087",
+          "line_start": 372,
+          "line_end": 374
+        },
+        {
+          "evidence_id": "ep-003:b0089",
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "block_id": "ep-003:b0089",
+          "line_start": 380,
+          "line_end": 382
+        },
+        {
+          "evidence_id": "ep-003:b0091",
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "block_id": "ep-003:b0091",
+          "line_start": 388,
+          "line_end": 390
+        },
+        {
+          "evidence_id": "ep-003:b0116",
+          "source_episode": "ep-003",
+          "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+          "block_id": "ep-003:b0116",
+          "line_start": 488,
+          "line_end": 490
+        }
+      ],
+      "ranking": {
+        "score": 72.5,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-003:b0083"
+            ],
+            "reason": "The opener contains a clear provocation with a specific conflict."
+          },
+          "cliffhanger": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-003:b0116"
+            ],
+            "reason": "An unresolved decision is raised at the end."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-003:b0083",
+              "ep-003:b0085",
+              "ep-003:b0087",
+              "ep-003:b0089"
+            ],
+            "reason": "Roles, conflict, and stakes are supported by the included speech."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-003:b0087",
+              "ep-003:b0089",
+              "ep-003:b0091"
+            ],
+            "reason": "Recognizable personal stakes are evident in the dialogue."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-003:b0083",
+              "ep-003:b0085",
+              "ep-003:b0087",
+              "ep-003:b0089"
+            ],
+            "reason": "The dialogue has a clear cause and reaction progression."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-003:b0083",
+              "ep-003:b0116"
+            ],
+            "reason": "The clip has a complete start and end with an intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-1bea4281a9d1e89353ea",
+      "rank": 3,
+      "family_id": "family-8c1a370fa53fabe6",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "start_boundary_id": "ep-004:t000023500",
+          "end_boundary_id": "ep-004:t000074500",
+          "start_ms": 23500,
+          "end_ms": 74500,
+          "duration_ms": 51000,
+          "start_timecode": "00:00:23.500",
+          "end_timecode": "00:01:14.500"
+        }
+      ],
+      "duration_ms": 51000,
+      "hook": {
+        "text": "The opener establishes a conflict with the line 'You heard what they think I am.'",
+        "evidence_ids": [
+          "ep-004:b0020"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Will the woman accept the ring and the vow, or will she continue to reject it despite the accused's intentions?",
+        "evidence_ids": [
+          "ep-004:b0040",
+          "ep-004:b0042",
+          "ep-004:b0054"
+        ]
+      },
+      "why_it_works": "Opens on The opener establishes a conflict with the line 'You heard what they think I am' and leaves Will the woman accept the ring and the vow, or will she continue to reject it despite the accused's intentions.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-004:b0020",
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "block_id": "ep-004:b0020",
+          "line_start": 90,
+          "line_end": 92
+        },
+        {
+          "evidence_id": "ep-004:b0029",
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "block_id": "ep-004:b0029",
+          "line_start": 126,
+          "line_end": 128
+        },
+        {
+          "evidence_id": "ep-004:b0031",
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "block_id": "ep-004:b0031",
+          "line_start": 134,
+          "line_end": 136
+        },
+        {
+          "evidence_id": "ep-004:b0040",
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "block_id": "ep-004:b0040",
+          "line_start": 170,
+          "line_end": 172
+        },
+        {
+          "evidence_id": "ep-004:b0042",
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "block_id": "ep-004:b0042",
+          "line_start": 178,
+          "line_end": 180
+        },
+        {
+          "evidence_id": "ep-004:b0054",
+          "source_episode": "ep-004",
+          "source_sha256": "65f7f9c356a21c86dddfd4808bbdbc65dcd22f0ce220cc2de2cbcdc0371fc51b",
+          "block_id": "ep-004:b0054",
+          "line_start": 226,
+          "line_end": 228
+        }
+      ],
+      "ranking": {
+        "score": 72.5,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-004:b0020"
+            ],
+            "reason": "The opener establishes a conflict with the line 'You heard what they think I am.'"
+          },
+          "cliffhanger": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-004:b0054"
+            ],
+            "reason": "The dialogue ends with the woman accepting, but the consequences of her decision are unresolved."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-004:b0020",
+              "ep-004:b0029",
+              "ep-004:b0031",
+              "ep-004:b0040"
+            ],
+            "reason": "The dialogue establishes roles (accuser/accused), an immediate obstacle (the accusation of betrayal), and a personal stake (the woman's refusal to accept charity)."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-004:b0031",
+              "ep-004:b0042"
+            ],
+            "reason": "The dialogue shows personal stakes with the woman's refusal to accept charity and the accused's vow."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-004:b0020",
+              "ep-004:b0029",
+              "ep-004:b0031",
+              "ep-004:b0054"
+            ],
+            "reason": "The dialogue has a clear progression from accusation to resolution with a personal stake."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-004:b0020",
+              "ep-004:b0054"
+            ],
+            "reason": "The dialogue has a complete start and end with a usable opening and intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-8f4ffb925217f63be442",
+      "rank": 4,
+      "family_id": "family-4afdddbf9c6cfc8f",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-032",
+          "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+          "start_boundary_id": "ep-032:t000016200",
+          "end_boundary_id": "ep-032:t000071200",
+          "start_ms": 16200,
+          "end_ms": 71200,
+          "duration_ms": 55000,
+          "start_timecode": "00:00:16.200",
+          "end_timecode": "00:01:11.200"
+        }
+      ],
+      "duration_ms": 55000,
+      "hook": {
+        "text": "The opener contains a direct provocation with clear conflict.",
+        "evidence_ids": [
+          "ep-032:b0013"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Will the woman destroy the ledger or preserve it despite the other's demands?",
+        "evidence_ids": [
+          "ep-032:b0022",
+          "ep-032:b0027",
+          "ep-032:b0053"
+        ]
+      },
+      "why_it_works": "Opens on The opener contains a direct provocation with clear conflict and leaves Will the woman destroy the ledger or preserve it despite the other's demands.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-032:b0013",
+          "source_episode": "ep-032",
+          "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+          "block_id": "ep-032:b0013",
+          "line_start": 62,
+          "line_end": 64
+        },
+        {
+          "evidence_id": "ep-032:b0022",
+          "source_episode": "ep-032",
+          "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+          "block_id": "ep-032:b0022",
+          "line_start": 98,
+          "line_end": 100
+        },
+        {
+          "evidence_id": "ep-032:b0027",
+          "source_episode": "ep-032",
+          "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+          "block_id": "ep-032:b0027",
+          "line_start": 118,
+          "line_end": 120
+        },
+        {
+          "evidence_id": "ep-032:b0044",
+          "source_episode": "ep-032",
+          "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+          "block_id": "ep-032:b0044",
+          "line_start": 186,
+          "line_end": 188
+        },
+        {
+          "evidence_id": "ep-032:b0053",
+          "source_episode": "ep-032",
+          "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+          "block_id": "ep-032:b0053",
+          "line_start": 222,
+          "line_end": 224
+        }
+      ],
+      "ranking": {
+        "score": 72.5,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-032:b0013"
+            ],
+            "reason": "The opener contains a direct provocation with clear conflict."
+          },
+          "cliffhanger": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-032:b0053"
+            ],
+            "reason": "An unresolved decision about the ledger's destruction remains."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-032:b0013",
+              "ep-032:b0022",
+              "ep-032:b0027",
+              "ep-032:b0044"
+            ],
+            "reason": "Roles, conflict, and stakes are clearly supported by the dialogue."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-032:b0027",
+              "ep-032:b0044",
+              "ep-032:b0053"
+            ],
+            "reason": "Recognizable personal stakes are present, though not deeply emotional."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-032:b0013",
+              "ep-032:b0022",
+              "ep-032:b0027",
+              "ep-032:b0044"
+            ],
+            "reason": "The dialogue shows a clear cause and reaction progression."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-032:b0013",
+              "ep-032:b0053"
+            ],
+            "reason": "The dialogue has a complete start and end with an intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-4db38365197bf9c2e115",
+      "rank": 5,
+      "family_id": "family-f4c86b74ec743816",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-016",
+          "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+          "start_boundary_id": "ep-016:t000044200",
+          "end_boundary_id": "ep-016:t000066200",
+          "start_ms": 44200,
+          "end_ms": 66200,
+          "duration_ms": 22000,
+          "start_timecode": "00:00:44.200",
+          "end_timecode": "00:01:06.200"
+        }
+      ],
+      "duration_ms": 22000,
+      "hook": {
+        "text": "The opener 'No one!' introduces a conflict or provocation.",
+        "evidence_ids": [
+          "ep-016:b0038"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Did voice_1 know exactly what to do, as claimed by voice_3?",
+        "evidence_ids": [
+          "ep-016:b0053"
+        ]
+      },
+      "why_it_works": "Opens on The opener 'No one' introduces a conflict or provocation and leaves Did voice_1 know exactly what to do, as claimed by voice_3.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-016:b0038",
+          "source_episode": "ep-016",
+          "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+          "block_id": "ep-016:b0038",
+          "line_start": 162,
+          "line_end": 164
+        },
+        {
+          "evidence_id": "ep-016:b0044",
+          "source_episode": "ep-016",
+          "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+          "block_id": "ep-016:b0044",
+          "line_start": 186,
+          "line_end": 188
+        },
+        {
+          "evidence_id": "ep-016:b0046",
+          "source_episode": "ep-016",
+          "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+          "block_id": "ep-016:b0046",
+          "line_start": 194,
+          "line_end": 196
+        },
+        {
+          "evidence_id": "ep-016:b0049",
+          "source_episode": "ep-016",
+          "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+          "block_id": "ep-016:b0049",
+          "line_start": 206,
+          "line_end": 208
+        },
+        {
+          "evidence_id": "ep-016:b0053",
+          "source_episode": "ep-016",
+          "source_sha256": "f86c26df7397d86091056e44fe613c2f50abe7d221f7e015d8cdd5c4f8775e19",
+          "block_id": "ep-016:b0053",
+          "line_start": 222,
+          "line_end": 224
+        }
+      ],
+      "ranking": {
+        "score": 66.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-016:b0038"
+            ],
+            "reason": "The opener 'No one!' introduces a conflict or provocation."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-016:b0053"
+            ],
+            "reason": "The ending question remains unanswered about voice_1's knowledge."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-016:b0038",
+              "ep-016:b0044",
+              "ep-016:b0046",
+              "ep-016:b0049"
+            ],
+            "reason": "Roles, conflict, and stakes are supported by the dialogue."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-016:b0053"
+            ],
+            "reason": "Personal stakes are implied through the conflict over payment and actions."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-016:b0038",
+              "ep-016:b0044",
+              "ep-016:b0046",
+              "ep-016:b0049"
+            ],
+            "reason": "The dialogue shows a clear progression of conflict and denial."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-016:b0038",
+              "ep-016:b0053"
+            ],
+            "reason": "The dialogue has a complete start and end with an intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "near_tie",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-52e5796e7c2882755568",
+      "rank": 6,
+      "family_id": "family-2f0a87d12b3b8636",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "start_boundary_id": "ep-043:t000047800",
+          "end_boundary_id": "ep-043:t000093000",
+          "start_ms": 47800,
+          "end_ms": 93000,
+          "duration_ms": 45200,
+          "start_timecode": "00:00:47.800",
+          "end_timecode": "00:01:33.000"
+        }
+      ],
+      "duration_ms": 45200,
+      "hook": {
+        "text": "The opener introduces a deliberate leak, which is a clear provocation and conflict.",
+        "evidence_ids": [
+          "ep-043:b0041"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Did the speaker betray the Duke by leaking information?",
+        "evidence_ids": [
+          "ep-043:b0057",
+          "ep-043:b0059",
+          "ep-043:b0061",
+          "ep-043:b0064"
+        ]
+      },
+      "why_it_works": "Opens on The opener introduces a deliberate leak, which is a clear provocation and conflict and leaves Did the speaker betray the Duke by leaking information.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-043:b0041",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0041",
+          "line_start": 174,
+          "line_end": 176
+        },
+        {
+          "evidence_id": "ep-043:b0055",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0055",
+          "line_start": 230,
+          "line_end": 232
+        },
+        {
+          "evidence_id": "ep-043:b0057",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0057",
+          "line_start": 238,
+          "line_end": 240
+        },
+        {
+          "evidence_id": "ep-043:b0059",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0059",
+          "line_start": 246,
+          "line_end": 248
+        },
+        {
+          "evidence_id": "ep-043:b0061",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0061",
+          "line_start": 254,
+          "line_end": 256
+        },
+        {
+          "evidence_id": "ep-043:b0064",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0064",
+          "line_start": 266,
+          "line_end": 268
+        },
+        {
+          "evidence_id": "ep-043:b0072",
+          "source_episode": "ep-043",
+          "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+          "block_id": "ep-043:b0072",
+          "line_start": 298,
+          "line_end": 300
+        }
+      ],
+      "ranking": {
+        "score": 66.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-043:b0041"
+            ],
+            "reason": "The opener introduces a deliberate leak, which is a clear provocation and conflict."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-043:b0072"
+            ],
+            "reason": "The ending raises an unresolved question about the legitimacy of the title transfer."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-043:b0041",
+              "ep-043:b0057",
+              "ep-043:b0064"
+            ],
+            "reason": "Roles (accuser/accused), conflict (betrayal), and stakes (title and estate) are clearly established."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-043:b0055",
+              "ep-043:b0064"
+            ],
+            "reason": "There are recognizable personal stakes involving betrayal and title theft."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-043:b0041",
+              "ep-043:b0057",
+              "ep-043:b0072"
+            ],
+            "reason": "The dialogue has a clear cause/reaction progression, with escalating accusations."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-043:b0041",
+              "ep-043:b0072"
+            ],
+            "reason": "The clip has a complete start and end, with an intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-a7699b1d683b58b8f92a",
+      "rank": 7,
+      "family_id": "family-1658b501237a0a92",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "start_boundary_id": "ep-031:t000017800",
+          "end_boundary_id": "ep-031:t000067400",
+          "start_ms": 17800,
+          "end_ms": 67400,
+          "duration_ms": 49600,
+          "start_timecode": "00:00:17.800",
+          "end_timecode": "00:01:07.400"
+        }
+      ],
+      "duration_ms": 49600,
+      "hook": {
+        "text": "The opener contains a specific utterance that introduces a conflict between two characters.",
+        "evidence_ids": [
+          "ep-031:b0013"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Does voice_1's choice of self over a coward and a beggar justify her actions or validate her self-worth in the eyes of voice_2?",
+        "evidence_ids": [
+          "ep-031:b0036",
+          "ep-031:b0038"
+        ]
+      },
+      "why_it_works": "Opens on The opener contains a specific utterance that introduces a conflict between two characters and leaves Does voice_1's choice of self over a coward and a beggar justify her actions or validate her self-worth in the eyes of voice_2.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-031:b0013",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0013",
+          "line_start": 62,
+          "line_end": 64
+        },
+        {
+          "evidence_id": "ep-031:b0015",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0015",
+          "line_start": 70,
+          "line_end": 72
+        },
+        {
+          "evidence_id": "ep-031:b0017",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0017",
+          "line_start": 78,
+          "line_end": 80
+        },
+        {
+          "evidence_id": "ep-031:b0019",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0019",
+          "line_start": 86,
+          "line_end": 88
+        },
+        {
+          "evidence_id": "ep-031:b0021",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0021",
+          "line_start": 94,
+          "line_end": 96
+        },
+        {
+          "evidence_id": "ep-031:b0023",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0023",
+          "line_start": 102,
+          "line_end": 104
+        },
+        {
+          "evidence_id": "ep-031:b0025",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0025",
+          "line_start": 110,
+          "line_end": 112
+        },
+        {
+          "evidence_id": "ep-031:b0027",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0027",
+          "line_start": 118,
+          "line_end": 120
+        },
+        {
+          "evidence_id": "ep-031:b0036",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0036",
+          "line_start": 154,
+          "line_end": 156
+        },
+        {
+          "evidence_id": "ep-031:b0038",
+          "source_episode": "ep-031",
+          "source_sha256": "7c7df240ef6ad40a87f2d5514d857e60273642fba4a5bbbd0da899a68e969610",
+          "block_id": "ep-031:b0038",
+          "line_start": 162,
+          "line_end": 164
+        }
+      ],
+      "ranking": {
+        "score": 66.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-031:b0013"
+            ],
+            "reason": "The opener contains a specific utterance that introduces a conflict between two characters."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-031:b0038"
+            ],
+            "reason": "The ending raises an unresolved question about the validity of voice_1's choices."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-031:b0013",
+              "ep-031:b0015",
+              "ep-031:b0017",
+              "ep-031:b0019"
+            ],
+            "reason": "The dialogue establishes roles, conflict, and stakes through the accusations and defenses."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-031:b0021",
+              "ep-031:b0023",
+              "ep-031:b0025",
+              "ep-031:b0027"
+            ],
+            "reason": "The dialogue conveys personal stakes through the emotional weight of past choices and their consequences."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-031:b0013",
+              "ep-031:b0015",
+              "ep-031:b0017",
+              "ep-031:b0019"
+            ],
+            "reason": "The dialogue has a clear progression of conflict and defense, showing cause and reaction."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-031:b0013",
+              "ep-031:b0038"
+            ],
+            "reason": "The dialogue has a complete start and end with a usable opening and intelligible tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "near_tie",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-f9d966216bd069012c27",
+      "rank": 8,
+      "family_id": "family-15b9c531122ecc57",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "start_boundary_id": "ep-033:t000006500",
+          "end_boundary_id": "ep-033:t000058800",
+          "start_ms": 6500,
+          "end_ms": 58800,
+          "duration_ms": 52300,
+          "start_timecode": "00:00:06.500",
+          "end_timecode": "00:00:58.800"
+        }
+      ],
+      "duration_ms": 52300,
+      "hook": {
+        "text": "The opener establishes a subordinate addressing a superior, indicating a power dynamic and a potential conflict.",
+        "evidence_ids": [
+          "ep-033:b0005"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Did Lady Juliana perform anything unusual in her treatment?",
+        "evidence_ids": [
+          "ep-033:b0033",
+          "ep-033:b0035"
+        ]
+      },
+      "why_it_works": "Opens on The opener establishes a subordinate addressing a superior, indicating a power dynamic and a potential conflict and leaves Did Lady Juliana perform anything unusual in her treatment.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-033:b0005",
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "block_id": "ep-033:b0005",
+          "line_start": 30,
+          "line_end": 32
+        },
+        {
+          "evidence_id": "ep-033:b0007",
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "block_id": "ep-033:b0007",
+          "line_start": 38,
+          "line_end": 40
+        },
+        {
+          "evidence_id": "ep-033:b0009",
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "block_id": "ep-033:b0009",
+          "line_start": 46,
+          "line_end": 48
+        },
+        {
+          "evidence_id": "ep-033:b0011",
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "block_id": "ep-033:b0011",
+          "line_start": 54,
+          "line_end": 56
+        },
+        {
+          "evidence_id": "ep-033:b0033",
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "block_id": "ep-033:b0033",
+          "line_start": 142,
+          "line_end": 144
+        },
+        {
+          "evidence_id": "ep-033:b0035",
+          "source_episode": "ep-033",
+          "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+          "block_id": "ep-033:b0035",
+          "line_start": 150,
+          "line_end": 152
+        }
+      ],
+      "ranking": {
+        "score": 66.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-033:b0005"
+            ],
+            "reason": "The opener establishes a subordinate addressing a superior, indicating a power dynamic and a potential conflict."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-033:b0033",
+              "ep-033:b0035"
+            ],
+            "reason": "The dialogue ends with the subordinate denying that Lady Juliana performed anything unusual, leaving the question of what was unusual unresolved."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-033:b0005",
+              "ep-033:b0007",
+              "ep-033:b0009",
+              "ep-033:b0011"
+            ],
+            "reason": "The roles (subordinate and superior), the immediate obstacle (questioning about the treatment), and the consequence (investigation into the treatment) are all supported by the dialogue."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-033:b0005",
+              "ep-033:b0007",
+              "ep-033:b0009",
+              "ep-033:b0011"
+            ],
+            "reason": "There is a recognizable personal stake in the treatment's legitimacy, but the dialogue lacks emotional depth beyond the questioning."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-033:b0005",
+              "ep-033:b0007",
+              "ep-033:b0009",
+              "ep-033:b0011"
+            ],
+            "reason": "The dialogue has a clear progression of questioning and answering, with a logical flow of information."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-033:b0005",
+              "ep-033:b0035"
+            ],
+            "reason": "The dialogue has a complete start and end, with a clear tension point in the questioning and the denial of unusual actions."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "near_tie",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-e058b28747e673e36d92",
+      "rank": 9,
+      "family_id": "family-67ecf783451bf125",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "start_boundary_id": "ep-027:t000013400",
+          "end_boundary_id": "ep-027:t000037600",
+          "start_ms": 13400,
+          "end_ms": 37600,
+          "duration_ms": 24200,
+          "start_timecode": "00:00:13.400",
+          "end_timecode": "00:00:37.600"
+        }
+      ],
+      "duration_ms": 24200,
+      "hook": {
+        "text": "The opener establishes a specific claim about a soldier's identity, which introduces a conflict.",
+        "evidence_ids": [
+          "ep-027:b0010"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Is the speaker's son truly the same person as the soldier claimed to be?",
+        "evidence_ids": [
+          "ep-027:b0016",
+          "ep-027:b0018",
+          "ep-027:b0020"
+        ]
+      },
+      "why_it_works": "Opens on The opener establishes a specific claim about a soldier's identity, which introduces a conflict and leaves Is the speaker's son truly the same person as the soldier claimed to be.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-027:b0010",
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "block_id": "ep-027:b0010",
+          "line_start": 50,
+          "line_end": 52
+        },
+        {
+          "evidence_id": "ep-027:b0012",
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "block_id": "ep-027:b0012",
+          "line_start": 58,
+          "line_end": 60
+        },
+        {
+          "evidence_id": "ep-027:b0014",
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "block_id": "ep-027:b0014",
+          "line_start": 66,
+          "line_end": 68
+        },
+        {
+          "evidence_id": "ep-027:b0016",
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "block_id": "ep-027:b0016",
+          "line_start": 74,
+          "line_end": 76
+        },
+        {
+          "evidence_id": "ep-027:b0018",
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "block_id": "ep-027:b0018",
+          "line_start": 82,
+          "line_end": 84
+        },
+        {
+          "evidence_id": "ep-027:b0020",
+          "source_episode": "ep-027",
+          "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+          "block_id": "ep-027:b0020",
+          "line_start": 90,
+          "line_end": 92
+        }
+      ],
+      "ranking": {
+        "score": 61.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-027:b0010"
+            ],
+            "reason": "The opener establishes a specific claim about a soldier's identity, which introduces a conflict."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-027:b0020"
+            ],
+            "reason": "The closing line raises an unresolved question about the son's identity and fate."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-027:b0010",
+              "ep-027:b0012",
+              "ep-027:b0014",
+              "ep-027:b0016"
+            ],
+            "reason": "The dialogue establishes roles (accuser/accused), a conflict over identity, and a personal stake (the missing son)."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-027:b0016",
+              "ep-027:b0020"
+            ],
+            "reason": "The dialogue conveys personal stakes through the speaker's emotional attachment to the missing son."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-027:b0010",
+              "ep-027:b0012",
+              "ep-027:b0014",
+              "ep-027:b0016"
+            ],
+            "reason": "The dialogue has a clear progression of conflict and personal stakes."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-027:b0010",
+              "ep-027:b0020"
+            ],
+            "reason": "The dialogue has a complete start and end, with a clear tension point."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    },
+    {
+      "promo_id": "cut-5d772f411d6331b5229e",
+      "rank": 10,
+      "family_id": "family-5d772f411d6331b5",
+      "segments": [
+        {
+          "order": 1,
+          "source_episode": "ep-013",
+          "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+          "start_boundary_id": "ep-013:t000051500",
+          "end_boundary_id": "ep-013:t000102500",
+          "start_ms": 51500,
+          "end_ms": 102500,
+          "duration_ms": 51000,
+          "start_timecode": "00:00:51.500",
+          "end_timecode": "00:01:42.500"
+        }
+      ],
+      "duration_ms": 51000,
+      "hook": {
+        "text": "The opener starts with a plea, indicating a conflict or emotional tension.",
+        "evidence_ids": [
+          "ep-013:b0033"
+        ]
+      },
+      "cliffhanger": {
+        "text": "Will Juliana ring the bell as requested?",
+        "evidence_ids": [
+          "ep-013:b0066"
+        ]
+      },
+      "why_it_works": "Opens on The opener starts with a plea, indicating a conflict or emotional tension and leaves Will Juliana ring the bell as requested.",
+      "source_evidence": [
+        {
+          "evidence_id": "ep-013:b0033",
+          "source_episode": "ep-013",
+          "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+          "block_id": "ep-013:b0033",
+          "line_start": 149,
+          "line_end": 151
+        },
+        {
+          "evidence_id": "ep-013:b0044",
+          "source_episode": "ep-013",
+          "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+          "block_id": "ep-013:b0044",
+          "line_start": 193,
+          "line_end": 195
+        },
+        {
+          "evidence_id": "ep-013:b0048",
+          "source_episode": "ep-013",
+          "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+          "block_id": "ep-013:b0048",
+          "line_start": 209,
+          "line_end": 211
+        },
+        {
+          "evidence_id": "ep-013:b0066",
+          "source_episode": "ep-013",
+          "source_sha256": "b0880fe2f19304409a390837761474a741e366a571f3435abdb40c74a7929a18",
+          "block_id": "ep-013:b0066",
+          "line_start": 281,
+          "line_end": 283
+        }
+      ],
+      "ranking": {
+        "score": 61.25,
+        "formula_version": "editorial-v1",
+        "rationale": "Eligible on all gates; weighted hook 20%, cliffhanger 25%, comprehension 25%, emotion/coherence/boundary 10% each; deterministic tie breaks."
+      },
+      "quality": {
+        "criteria": {
+          "hook": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-013:b0033"
+            ],
+            "reason": "The opener starts with a plea, indicating a conflict or emotional tension."
+          },
+          "cliffhanger": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-013:b0066"
+            ],
+            "reason": "The clip ends with an unresolved plea, leaving the outcome uncertain."
+          },
+          "comprehension": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-013:b0044",
+              "ep-013:b0048",
+              "ep-013:b0066"
+            ],
+            "reason": "Roles (Juliana, others) and stakes (finding her husband's freedom) are clear from the dialogue."
+          },
+          "emotion": {
+            "score": 2,
+            "evidence_ids": [
+              "ep-013:b0033",
+              "ep-013:b0048",
+              "ep-013:b0066"
+            ],
+            "reason": "Emotional stakes are present with pleas and urgency, but the exact personal stakes are not fully clear."
+          },
+          "coherence": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-013:b0033",
+              "ep-013:b0044",
+              "ep-013:b0066"
+            ],
+            "reason": "The dialogue has a clear progression from pleas to pressure and an unresolved plea."
+          },
+          "boundary": {
+            "score": 3,
+            "evidence_ids": [
+              "ep-013:b0033",
+              "ep-013:b0066"
+            ],
+            "reason": "The clip has a clear start and end with a complete utterance in the opener and an unresolved question at the end."
+          }
+        },
+        "redundancy_score": 4,
+        "structural_valid": true,
+        "evidence_resolved": true,
+        "semantic_status": "model_checked",
+        "review_basis": "dialogue_only",
+        "timing_basis": "script",
+        "video_verified": false,
+        "human_status": "not_reviewed",
+        "flags": [
+          "dialogue_only",
+          "script_timing_unverified_in_video"
+        ]
+      }
+    }
+  ]
+}

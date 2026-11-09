@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"What is the buyer's plan for the people if no rescue ship is available?\",\n  \"actor_voice\": \"voice_1\",\n  \"target_voice\": \"voice_2\",\n  \"ending_evidence_ids\": [\"U001\", \"U002\", \"U003\"],\n  \"ending_quote\": \"The buyer wants everyone off before dawn.\",\n  \"status\": \"disputed\",\n  \"answer_quote\": \"\",\n  \"unresolved_consequence\": \"The buyer's plan remains unclear and potentially conflicting with the rescue ship's availability.\",\n  \"context\": \"The buyer's statement is in direct conflict with the subsequent question about the rescue ship's schedule, suggesting a possible discrepancy\",\n  \"entities\": [\n    {\n      \"entity\": \"rescue ship\",\n      \"source_quote\": \"No rescue ship is on the schedule.\",\n      \"utterance_id\": \"U003\"\n    },\n    {\n      \"entity\": \"buyer's plan\",\n      \"source_quote\": \"The buyer wants everyone off before dawn.\",\n      \"utterance_id\": \"U001\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U001\", \"U003\"],\n  \"uncertainty_flags\": [],\n  \"uncertainty_reason\": \"The buyer's plan and the rescue ship's availability are in conflict, leading to ambiguity in the final beat.\"\n}",
+  "validated": false,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 40.781302,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 669,
+      "completion_tokens": 301
+    }
+  }
+}

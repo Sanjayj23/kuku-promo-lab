@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"Who is the someone else on this channel?\",\n  \"actor_voice\": \"voice_1\",\n  \"target_voice\": \"voice_2\",\n  \"ending_evidence_ids\": [\"U005\"],\n  \"ending_quote\": \"There is someone else on this channel.\",\n  \"status\": \"answered\",\n  \"answer_quote\": \"There is someone else on this channel.\",\n  \"unresolved_consequence\": \"The identity of the someone else on the channel remains unknown.\",\n  \"context\": \"The final line of the dialogue explicitly states that there is someone else on the channel, but does not identify who that person is.\",\n  \"entities\": [\n    {\n      \"entity\": \"someone else on this channel\",\n      \"source_quote\": \"There is someone else on this channel.\",\n      \"utterance_id\": \"U005\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U005\"],\n  \"uncertainty_flags\": [],\n  \"uncertainty_reason\": \"The identity of the someone else on the channel is not specified in the dialogue.\"\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 115.1789,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 849,
+      "completion_tokens": 239
+    }
+  }
+}

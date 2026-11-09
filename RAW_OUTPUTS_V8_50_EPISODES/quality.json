@@ -1,0 +1,174 @@
+{
+  "candidates_valid": 57,
+  "candidates_rejected_after_repair": 8,
+  "repaired_after_rule_check": 10,
+  "rule_checks_on_ranked": "every ranked promo passed: 20-60 s, hook line starts in first 3 s, cliffhanger line inside the cut, exact quotes, no half-cut speech",
+  "flags_on_ranked": {
+    "hook_line_aligned_to_quote": 7,
+    "repaired_after_rule_check": 10,
+    "cliffhanger_line_aligned_to_quote": 3,
+    "cliffhanger_line_not_at_the_cut": 1,
+    "long_silent_tail": 3,
+    "no_speech_or_action_in_first_3s": 2
+  },
+  "tiers": {
+    "post_first": 15,
+    "good": 21,
+    "weak": 16
+  },
+  "blind_critic_means": {
+    "tool_best_per_episode": {
+      "n": 43,
+      "hook": 3.14,
+      "cliffhanger": 3.58,
+      "standalone": 3.93,
+      "tap_to_watch": 3.21,
+      "quality_0_100": 62.0
+    },
+    "tool_all": {
+      "n": 57,
+      "hook": 3.14,
+      "cliffhanger": 3.44,
+      "standalone": 3.84,
+      "tap_to_watch": 3.12,
+      "quality_0_100": 60.0
+    },
+    "baseline_ending": {
+      "n": 50,
+      "hook": 2.44,
+      "cliffhanger": 3.02,
+      "standalone": 3.68,
+      "tap_to_watch": 2.72,
+      "quality_0_100": 49.1
+    },
+    "baseline_random": {
+      "n": 50,
+      "hook": 2.52,
+      "cliffhanger": 2.7,
+      "standalone": 3.6,
+      "tap_to_watch": 2.6,
+      "quality_0_100": 46.4
+    }
+  },
+  "tool_best_vs_episode_ending_baseline": {
+    "tool_wins": 31,
+    "baseline_wins": 5,
+    "ties": 7
+  },
+  "tool_best_vs_random_window_baseline": {
+    "tool_wins": 31,
+    "baseline_wins": 6,
+    "ties": 6
+  },
+  "proposer_self_score_vs_critic_spearman": 0.293,
+  "rejection_reasons": {
+    "total duration 17.1 s": 1,
+    "total duration 73.2 s": 1,
+    "total duration 71.8 s": 1,
+    "total duration 64.5 s": 1,
+    "total duration 65.4 s": 1,
+    "total duration 160.0 s": 1,
+    "total duration 68.5 s": 1,
+    "total duration 60.6 s": 1
+  },
+  "common_critic_problems": [
+    [
+      "repetitive content.",
+      2
+    ],
+    [
+      "none, this is a solid hook.",
+      1
+    ],
+    [
+      "none, this is a strong hook.",
+      1
+    ],
+    [
+      "none, very effective.",
+      1
+    ],
+    [
+      "none.",
+      1
+    ],
+    [
+      "the 'caught in the act' trope is very predictable.",
+      1
+    ],
+    [
+      "the pacing is a bit rushed.",
+      1
+    ],
+    [
+      "aisle walk pacing slows down middle",
+      1
+    ],
+    [
+      "ends after resolving the immediate fight beat.",
+      1
+    ],
+    [
+      "very dramatic melodrama cliché, though effective",
+      1
+    ],
+    [
+      "a bit talky before the action starts",
+      1
+    ],
+    [
+      "slightly melodramatic acting.",
+      1
+    ]
+  ],
+  "weakest_reviewed": [
+    {
+      "promo_id": "E17-91e4b3",
+      "quality": 23.8,
+      "main_problem": "Overly melodramatic dialogue.",
+      "confusions": "Who are the men he is protecting her from, and why is she bandaged?"
+    },
+    {
+      "promo_id": "E08-17277a",
+      "quality": 30.0,
+      "main_problem": "too slow and completely resolved",
+      "confusions": "none"
+    },
+    {
+      "promo_id": "E25-02aa94",
+      "quality": 31.2,
+      "main_problem": "The conflict feels predictable.",
+      "confusions": "None."
+    },
+    {
+      "promo_id": "E09-75ac73",
+      "quality": 32.5,
+      "main_problem": "Feels like a random middle chunk of a scene.",
+      "confusions": "Who the characters are since they are introduced with zero context."
+    },
+    {
+      "promo_id": "E02-49b0b1",
+      "quality": 37.5,
+      "main_problem": "Resolves completely with a finished speech, so there is no reason to keep watching",
+      "confusions": "none"
+    },
+    {
+      "promo_id": "E01-b855be",
+      "quality": 38.7,
+      "main_problem": "heavy dialogue with little plot progression",
+      "confusions": "starts mid-argument without clear setup"
+    },
+    {
+      "promo_id": "E21-15aef6",
+      "quality": 38.7,
+      "main_problem": "The dialogue is very exposition-heavy.",
+      "confusions": "None."
+    },
+    {
+      "promo_id": "E29-3702b2",
+      "quality": 38.7,
+      "main_problem": "Repetitive screaming.",
+      "confusions": "Why is she being blamed for saving someone?"
+    }
+  ]
+}

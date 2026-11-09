@@ -1,0 +1,15 @@
+{
+  "base_url": "http://127.0.0.1:8080/v1",
+  "model": "qwen3-4b",
+  "api_key_env": null,
+  "temperature": 0.4,
+  "critic_temperature": 0.2,
+  "requests_per_minute": 0,
+  "critic_workers": 1,
+  "timeout_s": 600,
+  "max_tokens": 3000,
+  "extra_body": {"chat_template_kwargs": {"enable_thinking": false}},
+  "max_candidates_per_episode": 2,
+  "cache_dir": "private/cache-v8-local"
+}
+

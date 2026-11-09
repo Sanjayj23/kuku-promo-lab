@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"proposals\": [\n    {\n      \"start_boundary_id\": \"ep-002:t000013000\",\n      \"end_boundary_id\": \"ep-002:t000036000\",\n      \"event_summary\": \"A technician asks a question about the buyer's plan for the people aboard the station.\",\n      \"hook\": {\n        \"text\": \"The technician's question about the buyer's plan for the people aboard the station.\",\n        \"evidence_ids\": [\"ep-002:b0006\"]\n      },\n      \"cliffhanger\": {\n        \"text\": \"The technician's question about the buyer's plan for the people aboard the station.\",\n        \"evidence_ids\": [\"ep-002:b0006\"]\n      },\n      \"required_context\": [\n        \"The buyer's plan for the people aboard the station.\"\n      ],\n      \"visual_flags\": [\n        \"A technician asking a question about the buyer's plan for the people aboard the station.\"\n      ],\n      \"scores\": {\n        \"hook\": 2,\n        \"cliffhanger\": 2,\n        \"comprehension\": 3,\n        \"emotion\": 2,\n        \"coherence\": 3,\n        \"boundary\": 2\n      }\n    }\n  ],\n  \"no_candidate_reason\": \"\"\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 51.693058,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 1595,
+      "completion_tokens": 296
+    }
+  }
+}

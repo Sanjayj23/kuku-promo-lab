@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\"hook_present\":false,\"cue_quote\":\"\",\"cue_type\": \"none\",\"specificity\":0,\"reason\": \"The dialogue does not contain a specific opening cue with concrete stakes. It is a statement of fact without an immediate threat, accusation, reveal, demand, or\", \"evidence_scope\": \"dialogue_only\", \"uncertain\": false}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 34.296264,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 222,
+      "completion_tokens": 80
+    }
+  }
+}

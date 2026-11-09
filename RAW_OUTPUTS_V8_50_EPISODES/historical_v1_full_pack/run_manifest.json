@@ -1,0 +1,987 @@
+{
+  "schema_version": "1.0",
+  "run_id": "run-20261105T123342-3eb4d03b",
+  "run_status": "complete",
+  "mode": "proposed",
+  "execution": "local",
+  "started_utc": "2026-11-05T12:33:42.388400+00:00",
+  "finished_utc": "2026-11-05T12:51:50.236148+00:00",
+  "elapsed_s": 1087.8477,
+  "pack_hash": "5d66d780f55480372977e13a278e26537adaed4936215a6afa6b0bcc108b4ccf",
+  "input_path": "/kaggle/working/kuku_promo_lab/private/input/source.zip",
+  "config": {
+    "schema_version": "1.0",
+    "min_duration_ms": 20000,
+    "max_duration_ms": 60000,
+    "hook_window_ms": 3000,
+    "max_proposals_per_episode": 1,
+    "max_families": 12,
+    "max_variants": 5,
+    "neighbor_radius_ms": 10000,
+    "top_k": 10,
+    "seed": 20261105,
+    "provider": "local",
+    "endpoint": "http://127.0.0.1:8080/v1",
+    "model": "qwen3-8b",
+    "model_sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785",
+    "runtime_identity": "llama.cpp b12114 b393d73bb0448ad101fe84cc77f3eee465fb947d, official CUDA 12.8 release, Tesla T4, ctx=24576, q8_0 KV, reasoning off, no context shift",
+    "runtime_cache_ram_mib": 0,
+    "runtime_checkpoints": 0,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k_sampling": 20,
+    "max_tokens": 1400,
+    "request_timeout_s": 360,
+    "max_attempts": 222,
+    "repair_attempts": 1,
+    "max_input_chars": 75000,
+    "cache_dir": "/kaggle/working/kuku_promo_lab/private/cache-8b",
+    "manual_dir": "/kaggle/working/kuku_promo_lab/private/manual",
+    "max_base_windows": 48,
+    "max_files": 200,
+    "max_member_bytes": 2097152,
+    "max_total_bytes": 52428800,
+    "max_compression_ratio": 100
+  },
+  "config_hash": "67b82e6063459ff598e4aa40c7d809985fa71614ccd3b1f261be4e7794fd2104",
+  "code_hash": "344b79a67d8052117491f7a6fb2f777f9c1fcff0f0e83c15fb03e2471f1eaee3",
+  "code_files": {
+    "__init__.py": "f6b913b474243123869fa22671572a6d72dd5217c9b3aef803cb8c150a6e5502",
+    "analyst.py": "09fee08bfd4d1c1cb8aacc39273981b8e176dde4fd2dca299f60ea08f31498b9",
+    "baselines.py": "0a00bff98829451d587e4650d1510524bce12e691c8fdc501352b970fb112d22",
+    "cli.py": "ef5cb02ce92a82f7e9f93ff16a04d10289cc2828425dfab4b585b2f4d359fcb9",
+    "context.py": "46cc6681db417b9e16dbcfae413c79de6424ab97ce5201ccc128fd2319e4463b",
+    "evaluate.py": "6a8ee5b6ebde5b040b071a1d53137bda2d1e846da1d9c1ccc52f4b9d048ac97d",
+    "evidence.py": "bb8d766f397abe19278701cc5fa4211804112358b3e154f3414c70ade126e2b0",
+    "export.py": "9e27e157b4c7f496436dc5ef3f6de1360c98e3164e8075adb775e05760345af2",
+    "ingest.py": "80dd7f3d803281ba51934f77573495b650d41390e770b5106a2bbb924b0f57c6",
+    "models.py": "ec3c9126f33eb79da0098bbba9da6ec908f42b372ece9a5e2acf197c6798d244",
+    "parser.py": "68fa567b32037b34c1fa530d509ad6ecf48e2ce380f20a5557f6ce672bfda4c3",
+    "pipeline.py": "9feb75e008192865dcf832896cb1e0b0fdc03fc079906692185dff930d38f386",
+    "projection.py": "44e9debf249e030fa94b26bb7225626d90551ab6fa012837532533893a29d822",
+    "prompts/analyst.md": "0e1daa8e24cc94f30ef4e2ddf8ddcdd6ab09d039ee3b262acb905fbf7d5aad4b",
+    "prompts/doctor.md": "049ff827a2cfb00b74f9df5a40217ecdb6844edb93f8b4e40a10092f07c85c99",
+    "prompts/reviewer.md": "9bd71919b215638fb7774baeda8da5d9ec4a83038aa4027647218a76255eca9c",
+    "ranking.py": "f7a31ef192e424359edea7722a679a5c1997d1a4d8be83a1ae934a706e0d45a5",
+    "recommendation.schema.json": "7174c78f40044e5f9d6009909d5f2951c64f9d7aba9c47e6659db6d04efaf72e",
+    "report.py": "d9d5ee487326e267d1ae000fcda3084251ee83b713b8be4ab9eb519dd918ea39",
+    "reviewer.py": "808091fae8ce53c1ebeca5346b4f324b4ace5d4703478e4d998d0fcb749c8c3b",
+    "schemas.py": "b173f449cd6ebcb239a7edf00ed52e00b336c574cc9826d893f47dd002fd8200",
+    "search.py": "b9b609e8cd7d8425ebf88d591ce8374faad9d5fc61c322f817acd35c3bcf5876",
+    "timeline.py": "055e83211995eb927215928e810e31454ed59a22deea717c3c84696ec94e1234",
+    "ui.py": "6e0c140aa74180dd5d4021849d46163a7b5bc5a72cfe3a1237d6600c40125719",
+    "validation.py": "8fba8404b8525738e836e650a4e5c0882cef95deffae23e171c9eeb4d8bf5be3"
+  },
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+  "dependencies": {
+    "jsonschema": "4.23.0"
+  },
+  "model": {
+    "provider": "local",
+    "model": "qwen3-8b",
+    "model_sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785",
+    "runtime_identity": "llama.cpp b12114 b393d73bb0448ad101fe84cc77f3eee465fb947d, official CUDA 12.8 release, Tesla T4, ctx=24576, q8_0 KV, reasoning off, no context shift",
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k_sampling": 20,
+    "max_tokens": 1400
+  },
+  "inference": {
+    "attempts": 47,
+    "cache_hits": 50,
+    "replays": 0,
+    "usage": {
+      "prompt_tokens": 79814,
+      "completion_tokens": 24218
+    },
+    "request_elapsed_s": 1085.9484,
+    "calls": [
+      {
+        "key": "3fe36e7761b71e03f5687b3ee093e4cda420d5f9df24c34bbb461744d94f1e76",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.893485,
+        "normalizations": 0
+      },
+      {
+        "key": "9936ac04148cc332168e4f9b8d23de135e6d95552a1bb28d28f71da36802d5e7",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 30.984816,
+        "normalizations": 0
+      },
+      {
+        "key": "a7303cd7c57f798dc1c3bc7091c8bdad632eb9e6c92db846152b769880bd3f8c",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 41.697679,
+        "normalizations": 0
+      },
+      {
+        "key": "0f4edaac0cd94b8139c5f672d27f64a386b55b4ce87db0f7083a0081bfd375a0",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 41.960238,
+        "normalizations": 2
+      },
+      {
+        "key": "fe6ab491fc11513b74375a837298084f4bec11a068c0daf12b23c36919988683",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 34.315193,
+        "normalizations": 1
+      },
+      {
+        "key": "91c5407bee5790211f62e410a57ae0f55ad22e790c0a504858d46d2b708c97d4",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 36.99208,
+        "normalizations": 0
+      },
+      {
+        "key": "0513f09458945c8605fad1be5654fcb62c024d2a4264a121cae1dcb192253948",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 26.865185,
+        "normalizations": 0
+      },
+      {
+        "key": "2410db7e2aab52294af559cce203c1ff1dc7a6d602df83ec7ebd2ed2db92b70a",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 25.164059,
+        "normalizations": 0
+      },
+      {
+        "key": "c4de9322d0f1456c95d8d75e990ed85683f6a18a1fc62eada3dff0571a82ea7e",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.123256,
+        "normalizations": 0
+      },
+      {
+        "key": "2fc0f6b8695662dd46587efb891e5acace30da79cccb4ad8bdc4a7a584932050",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 29.80286,
+        "normalizations": 0
+      },
+      {
+        "key": "44885ba9d9b3004728bce259b787a70d09f5d184398f0e019200e2ac8a0b1f5f",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 30.729384,
+        "normalizations": 0
+      },
+      {
+        "key": "d75889dd904b3ad674f44f8a819d9efe12791f8e766fa3cd6f387c661d464507",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 26.272815,
+        "normalizations": 0
+      },
+      {
+        "key": "a8a4b36809c3c2b844a5750047e24a29711c4b08ad3fb2ac8bcc89c8f6289ce2",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 35.953459,
+        "normalizations": 1
+      },
+      {
+        "key": "7cf9815b6f1d65a1ed851fab349df4fd52668015b8ccad46c3a3d830e74685ae",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 26.475645,
+        "normalizations": 0
+      },
+      {
+        "key": "11e801eba340ac3e5df5f6f048020566ffdb21076c53c7ef83a98afb1fd1c43d",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 27.614574,
+        "normalizations": 0
+      },
+      {
+        "key": "a62c9848e7ed007d424fa1e66d1d78a12920f6c174b3f90bed9a12d921fbb2a2",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 29.55387,
+        "normalizations": 0
+      },
+      {
+        "key": "b63a3e1c2840986d8bead9669519d03a148a63227282eb7af906dab29bb53784",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 29.321879,
+        "normalizations": 0
+      },
+      {
+        "key": "33c91510430f99f929b2535ea9cba78e8b2d16d28193040b6b8eaee2ee649944",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 35.814782,
+        "normalizations": 0
+      },
+      {
+        "key": "2fb9c8781fe58d38cf605ee48c1be6e0a8554b5ded5ae0e763ef5dd4f838fbae",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 28.60354,
+        "normalizations": 0
+      },
+      {
+        "key": "a1c547da3082a25e04c34adc6b7705b5f97f38f0e781fbf9c3f86a5f14f55a49",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 34.389949,
+        "normalizations": 0
+      },
+      {
+        "key": "12ea26f5f036477e1b8b4f211d85cbaf9ff3ba5b31b6c400ef6b49977b29b010",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 30.940529,
+        "normalizations": 0
+      },
+      {
+        "key": "dbe9e24a9a7fa723696d2cbc0e9c97df573a69bfd5c0fb2ad66adc2f40884a39",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 33.959155,
+        "normalizations": 0
+      },
+      {
+        "key": "062ea9f1873752d801057fbca9f13a6c1953d5f26566c7272a5465a5ce183a0f",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 30.440293,
+        "normalizations": 0
+      },
+      {
+        "key": "1000ac956db186ad0225be702f168c1cffab11ca90b014d3c8e3eb7fb0a32da6",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 34.089512,
+        "normalizations": 1
+      },
+      {
+        "key": "24610c5de27128767419db93148170bce758a34f64ea0106c55141fe609f0483",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 33.682685,
+        "normalizations": 0
+      },
+      {
+        "key": "05f3d32af3aa5cd6ef3289ec4d7cc3af41593f008509fb699c7096e7d30bb781",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.19907,
+        "normalizations": 1
+      },
+      {
+        "key": "9062d83260f64d6e61336fbe06e1097a586831e1981d2afc281df859de8d5f38",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 37.456827,
+        "normalizations": 0
+      },
+      {
+        "key": "1d06bcde9c3ab419bdd16d0ec84bad04a86a00e7adcd317fdc346d4732591fa1",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 35.1311,
+        "normalizations": 0
+      },
+      {
+        "key": "eba9280e87e482e64c039415fb9956e6baf277b774b0c546f95420918da92a34",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 35.626522,
+        "normalizations": 0
+      },
+      {
+        "key": "018f16c83b69390cbc369231238a4d701920ce216c7b26b6bf92568caf9c458c",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 29.945176,
+        "normalizations": 0
+      },
+      {
+        "key": "6877cec37fdbec4db502f1c5784ec2332d2ee5497f242616abfb94e025464dd9",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.882629,
+        "normalizations": 0
+      },
+      {
+        "key": "335cd971c1ca9ea183a8e94b4094c6931a01d63b0608cbe35a57bc141b30c553",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 43.063636,
+        "normalizations": 0
+      },
+      {
+        "key": "6820c2736d08703f2dc7de56775d89f324ab26be3490d694a4f2d0a176c15a4a",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 33.680017,
+        "normalizations": 0
+      },
+      {
+        "key": "5bf8b4ec0feb0ecfa8034817bdc949fb227bdeaef2fc134571e15d80289fbcce",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 38.860137,
+        "normalizations": 0
+      },
+      {
+        "key": "e6e5c698520c993e36a76582ce390ae957d14a984c8e3bf80372c3159b022636",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.461495,
+        "normalizations": 0
+      },
+      {
+        "key": "a9b284819600c0899a5dc5dd8fedbe3a2d99f8454486aa94bab0abcce78e81d0",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 41.412791,
+        "normalizations": 0
+      },
+      {
+        "key": "f859bf525f1200480bd0802e42497e3acae698411cc38f5e99377013dabe0c22",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 33.306871,
+        "normalizations": 0
+      },
+      {
+        "key": "49ed7fa8852c1c80fcb3a245b1bfb75d025aa944ef34c12a34123612718cae13",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 26.912492,
+        "normalizations": 0
+      },
+      {
+        "key": "2ff224d2e28aca96bbaf8f5575bb477411e6e7cbca74a307e2857b43d3b02342",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 26.978279,
+        "normalizations": 0
+      },
+      {
+        "key": "a6c08956e8d82c46fd8a449862e2ff1d22acc75de6f85d2c0bc0428643bb465d",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 24.879538,
+        "normalizations": 0
+      },
+      {
+        "key": "b507bba57c8b0bbcf281ac9c945a82f1ba4ddd54ba17bb6018a5b196f8dac529",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 24.936601,
+        "normalizations": 0
+      },
+      {
+        "key": "304cd09af8dbbbe3a4c8c0512c13a99862f6797a4fb52d949641a5b99d8435c6",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 25.88009,
+        "normalizations": 0
+      },
+      {
+        "key": "9517f6c079ea70d3bbb5a781ade8f0fe6c4cbcbe2ac6478d2edaa6bdf43eef09",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 33.443094,
+        "normalizations": 0
+      },
+      {
+        "key": "981cb104b10214bdb9204a4e859a3eea56e25df34f9e2c5c029460e3b4fa312c",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 23.218329,
+        "normalizations": 0
+      },
+      {
+        "key": "413dc49ebb469f7ccef20eaf4d981ba7e5a7012302cd753432cb17cbe68b42f8",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.08759,
+        "normalizations": 0
+      },
+      {
+        "key": "d943e02735e428feb72a10c82a8cae857fa8d03d7f5f5ad2bf3c8f1daa6ba20d",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 30.139974,
+        "normalizations": 0
+      },
+      {
+        "key": "2b2a7252a65656e12c81c2821108994c7c0ff205d69bc7fd51b8d7e77a909617",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.530181,
+        "normalizations": 2
+      },
+      {
+        "key": "80eb9f4fa0f1c3380f40ac66629234f65a3dc67b0144d5d05672bd2c98cf2a13",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 23.491946,
+        "normalizations": 0
+      },
+      {
+        "key": "c367719266b52f170ac52504b3544fa14bba762897727ad52a9c06a14f22b71d",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 32.05379,
+        "normalizations": 0
+      },
+      {
+        "key": "3d4b59763edffe8bce48014b96315a276f7dd222d1241478a1f743b791d8023e",
+        "role": "analyst",
+        "origin": "cache",
+        "validated": true,
+        "elapsed_s": 25.423853,
+        "normalizations": 0
+      },
+      {
+        "key": "238026a4429f6085b9f323fed02c13a89fe5603b3025fe4225b4e50463d16e6d",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.429454,
+        "normalizations": 0
+      },
+      {
+        "key": "ce16a9a58aee55fe1114d1949afd669e1bb4d00a6b47a2a5add0c837d5be9163",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 20.903376,
+        "normalizations": 0
+      },
+      {
+        "key": "730d3ab2c44b618b75ef1c16d74e0d9cd9a1e19ea70cba54e6ad79fbc51e8d61",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.984238,
+        "normalizations": 0
+      },
+      {
+        "key": "de707a2b70df472219cf4e5eaffba71687609af5ef2a465bec7cfba3d14111f9",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.068522,
+        "normalizations": 0
+      },
+      {
+        "key": "b38a2ff954fa44f349046a9bffcc6eb1c4a75c690b06f9489af188576bccdb1a",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.272636,
+        "normalizations": 0
+      },
+      {
+        "key": "becda54a3378abf2a24acea7e64eade83010fa44caa8c4315efef177f5f5d7b2",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 24.750478,
+        "normalizations": 0
+      },
+      {
+        "key": "1b064f703932a43756a8caf79211175dec16d83e3d955833f37d9d7844862753",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 24.484723,
+        "normalizations": 0
+      },
+      {
+        "key": "af248724a043149f7a3852ce61b6fbaceb59cacf7afa55d1c21878f13fb06ef6",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 25.598322,
+        "normalizations": 0
+      },
+      {
+        "key": "4a793e080880ea10080d66c2b545f36febf61bf6f3f9a631b98a23a53720daa1",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.466186,
+        "normalizations": 0
+      },
+      {
+        "key": "2ff9e00279ac212b87d8711d9fc0a1728f9e6ea096631db8560fffd81c797b0b",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.501381,
+        "normalizations": 0
+      },
+      {
+        "key": "b2fe3cd95b8edbfb4992072fc9426d61c94a4cc48199e21b8563222517f00842",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 24.103093,
+        "normalizations": 0
+      },
+      {
+        "key": "f905fe5ed6a22c73b314410437d6ed251ce0af6e03335b64411e1fa5dd800630",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.315507,
+        "normalizations": 0
+      },
+      {
+        "key": "99ec4329434235211611ed6aacf2c7af8a41a5c5d86554556326120697f1d135",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.823206,
+        "normalizations": 0
+      },
+      {
+        "key": "5209602b0d8a27e2d1af72c56ea4b23f4997c090fbfe587743fdd2df554652eb",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.598826,
+        "normalizations": 0
+      },
+      {
+        "key": "25555a84539d9dcabb81f03ce21ca540e3cac71c09eb73ab48fca5f2e0420b96",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.73045,
+        "normalizations": 0
+      },
+      {
+        "key": "7b39a7f3d075004a63a2e704d9ba6395808f12b9a3557c1e934712b11a742515",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 28.250986,
+        "normalizations": 0
+      },
+      {
+        "key": "a8a7c70199df3687f427818c7685c55c3538591d112a17ecb26415acd62450d9",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 25.843895,
+        "normalizations": 0
+      },
+      {
+        "key": "ceed3d097992bb903cecb236e4aee0dc07af1b3f50b45bfef11da3a73265ef36",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.684711,
+        "normalizations": 0
+      },
+      {
+        "key": "f2099024fb0d05d94eb4bcabecc9244b7b9c058cb5c26ff3d1793f6070b8b9c1",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.275213,
+        "normalizations": 0
+      },
+      {
+        "key": "cba5a09cb4c63de6f2142fafea3c959b2e69b5de369e0db0407049697ce8bfc0",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.739237,
+        "normalizations": 0
+      },
+      {
+        "key": "634c2e79ca0f729b2d49ff08127896850c411178ffbc3bd8337a339213b4a4a3",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.308807,
+        "normalizations": 0
+      },
+      {
+        "key": "819e59649963b47131bc8e442e0081547e3625120db6f7cfd5b75e470dd682b2",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.730619,
+        "normalizations": 0
+      },
+      {
+        "key": "e549a1c167c771dfb3eb48df3f173182e527dea1de021232ec7ae807d19a4bae",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 24.449856,
+        "normalizations": 0
+      },
+      {
+        "key": "ccf5b2584e259ee9ab1cbbfc9eae3873f1d32f1ff49ded6fb12e2f1624a97822",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.886917,
+        "normalizations": 0
+      },
+      {
+        "key": "c686d5c50ad14d4fa0f34dc6bab713179ec72f519261a63429b11c474eb630ff",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.618583,
+        "normalizations": 0
+      },
+      {
+        "key": "6d2ee38163b1f6c6d934322009a04c44b7d9147853469e74bcd6eb1bf6d35e06",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.794791,
+        "normalizations": 0
+      },
+      {
+        "key": "2d7a200558f72079b6cca821dbd9040438c22ee9957b2de8b287b1d237fd78bb",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.517753,
+        "normalizations": 0
+      },
+      {
+        "key": "70e3b86300970502c1f139ef62e80fac4f9dc4e82875d30b2a78e230fa06bf82",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.424124,
+        "normalizations": 0
+      },
+      {
+        "key": "e31dddbbd4c72e64f57ca6abf916e2e822650695fab94affb2e60932f5e1186d",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.709176,
+        "normalizations": 0
+      },
+      {
+        "key": "8c31e1b8b477bc595a37977470a56625c7dc6325c6c1cfb287b52b9bfd1228f7",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.750889,
+        "normalizations": 0
+      },
+      {
+        "key": "80ea9596426471b575d8aa90b3774b002f158cdf15fcab8c55b482357e1821f0",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 20.969321,
+        "normalizations": 0
+      },
+      {
+        "key": "b9559eb7a0043cfd02c027f3ed80d13ad9fe9998e3fd97084b167b22e220c2b6",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.810828,
+        "normalizations": 0
+      },
+      {
+        "key": "d625f461b11c95a6f5bce388d01e1ddc93a8b0213b66727642de790c764f4c83",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.022418,
+        "normalizations": 0
+      },
+      {
+        "key": "18707349f6532991b607d1c64959f6eadf09ad3c4eca8849cd16a05b4d8e8212",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 21.744877,
+        "normalizations": 0
+      },
+      {
+        "key": "bc53ecd972118887005fbf6d5ec9935f7bd1776a815df6c530fb2b8c9862eb7c",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.359633,
+        "normalizations": 0
+      },
+      {
+        "key": "64b6d248ce309fd39a11685862a730a7e988ba13f27c96329c5a9365a101bb7d",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.894187,
+        "normalizations": 0
+      },
+      {
+        "key": "beceb8f892d5503fbc7d0a54ef231e1aa9ccf391329e3f5eed23cfb387782fc3",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.666753,
+        "normalizations": 0
+      },
+      {
+        "key": "9d0e59e4fa5cc9b62cf783b09bac59efba288d5144fabc1a163d5250c333143c",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.64853,
+        "normalizations": 0
+      },
+      {
+        "key": "2b00fe81f83f5f953105431cb88882ee836fb5a827e15bf6ac2e27c536a62187",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 20.806196,
+        "normalizations": 0
+      },
+      {
+        "key": "92791b4a608be611ef92a1fd609a6b4e74c4a57ef128219d1a357b6449e3e2a7",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.007349,
+        "normalizations": 0
+      },
+      {
+        "key": "1fdb92b9c77f8571e2ac06607872c4eff4d045c6655c74301b88891993f852d4",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 24.810905,
+        "normalizations": 0
+      },
+      {
+        "key": "4c95baf73d3256eb0202bc61ba6eaf853526eaf6d6ec84ce2daf19a7db36b001",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 25.088736,
+        "normalizations": 0
+      },
+      {
+        "key": "64d72dd0dc4513d878efac33cff221590a8249e22aeebe76cd4a74a5cb97bfd3",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.058116,
+        "normalizations": 0
+      },
+      {
+        "key": "ed8e386653a0cd8c84e3d83742709b5070fc97cb4b48cd82d16ec2df126cac52",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 24.51581,
+        "normalizations": 0
+      },
+      {
+        "key": "262d4cc2637dbe40c101d53b29682922ec54aef9e53703af480676a12e88a9a8",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 23.081727,
+        "normalizations": 0
+      },
+      {
+        "key": "ce6e5ad8b86eb05597480460d8c2b41111f45e2ecce8232368a8a654d8c13bb6",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.193205,
+        "normalizations": 0
+      },
+      {
+        "key": "f8b558357892157e5b69407d3915abb5eed47ccca5d22f3e0a3cb226e6500a7f",
+        "role": "reviewer",
+        "origin": "local",
+        "validated": true,
+        "elapsed_s": 22.253882,
+        "normalizations": 0
+      }
+    ]
+  },
+  "statistics": {
+    "files_discovered": 50,
+    "files_parsed": 50,
+    "scenes": 100,
+    "blocks": 3727,
+    "block_types": {
+      "camera": 1754,
+      "action": 372,
+      "dialogue": 1487,
+      "sound_fx": 114
+    },
+    "total_extent_ms": 6162620,
+    "warnings": [
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-003:b0002",
+          "ep-003:b0004"
+        ],
+        "episode_id": "ep-003"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-005:b0036",
+          "ep-005:b0037"
+        ],
+        "episode_id": "ep-005"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-006:b0058",
+          "ep-006:b0060"
+        ],
+        "episode_id": "ep-006"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-018:b0041",
+          "ep-018:b0042"
+        ],
+        "episode_id": "ep-018"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-020:b0022",
+          "ep-020:b0024"
+        ],
+        "episode_id": "ep-020"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-021:b0016",
+          "ep-021:b0018"
+        ],
+        "episode_id": "ep-021"
+      },
+      {
+        "code": "scene_overrun",
+        "block_id": "ep-022:b0023",
+        "scene_id": "scene-001",
+        "episode_id": "ep-022"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-028:b0038",
+          "ep-028:b0039"
+        ],
+        "episode_id": "ep-028"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-028:b0044",
+          "ep-028:b0045"
+        ],
+        "episode_id": "ep-028"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-032:b0068",
+          "ep-032:b0070"
+        ],
+        "episode_id": "ep-032"
+      },
+      {
+        "code": "dialogue_overlap",
+        "block_ids": [
+          "ep-046:b0050",
+          "ep-046:b0052"
+        ],
+        "episode_id": "ep-046"
+      }
+    ],
+    "base_candidates": 50,
+    "families_reviewed": 12,
+    "variants_reviewed": 47,
+    "recommendations": 10,
+    "failures": 0
+  },
+  "context_policy": "Current plus adjacent episode source metadata; no model outline; never sent to restricted reviewer.",
+  "human_evaluation": "pending",
+  "video_verified": false
+}

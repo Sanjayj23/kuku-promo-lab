@@ -1,0 +1,1 @@
+Saved, genuine model responses from a Qwen 8B synthetic-only V1 smoke run. Request keys bind the exact synthetic source, prompt and inference settings. The release replays these responses without connecting to a model. This fixture contains no confidential pack material.

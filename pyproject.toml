@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kuku-promo-lab"
+version = "0.1.0"
+description = "Source-grounded continuous promo search with isolated dialogue review"
+requires-python = ">=3.11"
+dependencies = ["jsonschema==4.23.0"]
+
+[project.scripts]
+kuku = "kuku_promo_lab.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+kuku_promo_lab = ["prompts/*.md", "prompts/v4/*.md", "*.json", "studio/*.html", "studio/*.css", "studio/*.js", "studio/fonts/*"]

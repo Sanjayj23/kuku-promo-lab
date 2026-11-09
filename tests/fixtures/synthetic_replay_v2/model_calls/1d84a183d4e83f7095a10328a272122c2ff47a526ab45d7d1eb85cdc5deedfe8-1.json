@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"Who is the person on the other end of the channel?\",\n  \"actor_voice\": \"voice_3\",\n  \"target_voice\": \"voice_1\",\n  \"ending_evidence_ids\": [\"U008\"],\n  \"ending_quote\": \"Do not open the inner door yet.\",\n  \"status\": \"unknown\",\n  \"answer_quote\": \"\",\n  \"unresolved_consequence\": \"The identity of the person on the other end of the channel remains unclear, and the directive to not open the inner door suggests a critical\",\n  \"context\": \"The final line of dialogue, 'Do not open the inner door yet,' implies a critical decision or warning that may relate to the person on the\u5176\u4ed6\u7aef\",\n  \"entities\": [\n    {\n      \"entity\": \"person on the other end of the channel\",\n      \"source_quote\": \"Do not open the inner door yet.\",\n      \"utterance_id\": \"U008\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U008\"],\n  \"uncertainty_flags\": [],\n  \"uncertainty_reason\": \"The final line does not directly identify the person on the other end of the channel.\"\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 114.5982,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 914,
+      "completion_tokens": 261
+    }
+  }
+}

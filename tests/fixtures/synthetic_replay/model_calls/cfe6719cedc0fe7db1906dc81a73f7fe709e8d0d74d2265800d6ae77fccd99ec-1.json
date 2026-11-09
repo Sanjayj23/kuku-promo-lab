@@ -1,0 +1,6 @@
+{
+  "raw_text": "{\n  \"proposals\": [\n    {\n      \"start_boundary_id\": \"ep-002:t000006000\",\n      \"end_boundary_id\": \"ep-002:t000029000\",\n      \"event_summary\": \"A radio transmission reveals that the station has been sold, and the buyer demands everyone off before dawn, leaving the crew in a dire situation.\",\n      \"hook\": {\n        \"text\": \"Our station has been sold!\",\n        \"evidence_ids\": [\"ep-002:b0002\", \"ep-002:b0003\", \"ep-002:b0004\", \"ep-002:b0005\"]\n      },\n      \"cliffhanger\": {\n        \"text\": \"No rescue ship is on the schedule.\",\n        \"evidence_ids\": [\"ep-002:b0005\"]\n      },\n      \"required_context\": [\"The station's ownership change\", \"The buyer's demands\", \"The crew's situation\"],\n      \"visual_flags\": [\"Transmission static\", \"Tension in dialogue\"],\n      \"scores\": {\n        \"hook\": 3,\n        \"cliffhanger\": 3,\n        \"comprehension\": 3,\n        \"emotion\": 3,\n        \"coherence\": 3,\n        \"boundary\": 3\n      }\n    }\n  ],\n  \"no_candidate_reason\": \"\"\n}",
+  "validated": true,
+  "model": "qwen3-8b",
+  "origin": "local"
+}

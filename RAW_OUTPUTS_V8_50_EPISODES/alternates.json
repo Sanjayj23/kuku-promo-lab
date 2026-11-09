@@ -1,0 +1,346 @@
+[
+  {
+    "promo_id": "E01-ba2e75",
+    "episode": 1,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Because He Is Marrying Me",
+    "hook": "Opens instantly on the sister's cruel smirk announcing she is stealing the groom at the altar.",
+    "hook_line": "L027",
+    "hook_quote": "Because he is marrying me.",
+    "cliffhanger": "Juliana realizes her sister and fiancé conspired behind her back long before the wedding.",
+    "cliffhanger_line": "L052",
+    "cliffhanger_quote": "Long enough to know he was never going to marry you.",
+    "why_it_works": "It plunges the viewer straight into high-stakes altar drama with an instant villain reveal and continuous emotional escalation.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 1,
+        "start_ms": 39000,
+        "end_ms": 79000,
+        "start_line": "L026",
+        "end_line": "L052",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Because He Is Marrying Me",
+      "segments": [
+        {
+          "start_line": "L026",
+          "end_line": "L052"
+        }
+      ],
+      "hook_line": "L027",
+      "hook": "Opens instantly on the sister's cruel smirk announcing she is stealing the groom at the altar.",
+      "hook_quote": "Because he is marrying me.",
+      "cliffhanger_line": "L052",
+      "cliffhanger": "Juliana realizes her sister and fiancé conspired behind her back long before the wedding.",
+      "cliffhanger_quote": "Long enough to know he was never going to marry you.",
+      "why_it_works": "It plunges the viewer straight into high-stakes altar drama with an instant villain reveal and continuous emotional escalation.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "Lady in gold gown announces smugly that the groom is marrying her instead.",
+      "hook": 4,
+      "understood": "Juliana confronts her ex-groom and sister at the altar, discovering they plotted this marriage swap behind her back.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What is Juliana going to do now that her sister admitted to the whole scheme?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "feels like the middle slice of a scene",
+      "blind_label": "C"
+    },
+    "quality": 63.7,
+    "penalty": 0,
+    "score": 63.7,
+    "alternate_reason": "overlaps higher-ranked E01-cdc630 by more than 50%"
+  },
+  {
+    "promo_id": "E07-286cfe",
+    "episode": 7,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "Silent Intimidation",
+    "hook": "Gerald sneers at Juliana for choosing a scarred beggar over comfort, establishing instant conflict.",
+    "hook_line": "L026",
+    "hook_quote": "You chose that scarred beggar over a life of comfort.",
+    "cliffhanger": "The scarred husband silently towers over Gerald, leaving Gerald frozen in total terror.",
+    "cliffhanger_line": "L043",
+    "cliffhanger_quote": "",
+    "why_it_works": "Delivers a satisfying power shift as an arrogant noble is instantly humbled and terrified by a towering silent warrior.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 7,
+        "start_ms": 51500,
+        "end_ms": 88000,
+        "start_line": "L026",
+        "end_line": "L043",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 36500,
+    "problems": [],
+    "flags": [
+      "long_silent_tail"
+    ],
+    "raw": {
+      "title": "Silent Intimidation",
+      "segments": [
+        {
+          "start_line": "L026",
+          "end_line": "L043"
+        }
+      ],
+      "hook_line": "L026",
+      "hook": "Gerald sneers at Juliana for choosing a scarred beggar over comfort, establishing instant conflict.",
+      "hook_quote": "You chose that scarred beggar over a life of comfort.",
+      "cliffhanger_line": "L043",
+      "cliffhanger": "The scarred husband silently towers over Gerald, leaving Gerald frozen in total terror.",
+      "cliffhanger_quote": "",
+      "why_it_works": "Delivers a satisfying power shift as an arrogant noble is instantly humbled and terrified by a towering silent warrior.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Gerald sneering at Juliana for choosing a scarred beggar over comfort.",
+      "hook": 3,
+      "understood": "Gerald taunts Juliana about her poor husband, threatens him, but then the huge husband arrives and stares him down until Gerald is paralyzed with fear.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What will the husband do to Gerald now that Gerald is terrified?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "sluggish initial dialogue setup",
+      "blind_label": "B"
+    },
+    "quality": 67.5,
+    "penalty": 4,
+    "score": 63.5,
+    "alternate_reason": "overlaps higher-ranked E07-9e2b8b by more than 50%"
+  },
+  {
+    "promo_id": "E04-19d55a",
+    "episode": 4,
+    "origin": "proposer",
+    "proposer_rank": 3,
+    "title": "Worthless Bride to Disowned",
+    "hook": "Gerald mocks Juliana publicly, calling her husband a penniless nobody for a discarded bride.",
+    "hook_line": "L007",
+    "hook_quote": "A penniless nobody for a discarded bride.",
+    "cliffhanger": "Juliana stands her ground after marrying him, leaving her mother to scream that she is disowned.",
+    "cliffhanger_line": "L099",
+    "cliffhanger_quote": "You are disowned!",
+    "why_it_works": "Pairs the initial cruel mockery directly with the fallout of Juliana's defiance for maximum dramatic escalation.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 4,
+        "start_ms": 5000,
+        "end_ms": 14200,
+        "start_line": "L006",
+        "end_line": "L012",
+        "adjustments": []
+      },
+      {
+        "episode": 4,
+        "start_ms": 114800,
+        "end_ms": 134800,
+        "start_line": "L086",
+        "end_line": "L099",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 29200,
+    "problems": [],
+    "flags": [
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "Worthless Bride to Disowned",
+      "segments": [
+        {
+          "start_line": "L006",
+          "end_line": "L012"
+        },
+        {
+          "start_line": "L086",
+          "end_line": "L099"
+        }
+      ],
+      "hook_line": "L007",
+      "hook": "Gerald mocks Juliana publicly, calling her husband a penniless nobody for a discarded bride.",
+      "hook_quote": "A penniless nobody for a discarded bride.",
+      "cliffhanger_line": "L099",
+      "cliffhanger": "Juliana stands her ground after marrying him, leaving her mother to scream that she is disowned.",
+      "cliffhanger_quote": "You are disowned!",
+      "why_it_works": "Pairs the initial cruel mockery directly with the fallout of Juliana's defiance for maximum dramatic escalation.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Tight close-up of a guy giving a spiteful insult ('A penniless nobody for a discarded bride') right away.",
+      "hook": 4,
+      "understood": "Juliana married a poor guy instead of Gerald; Gerald and Clarissa mock her, Juliana stands her ground, and her mother disowns her.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Where will Juliana go now that her family disowned her?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Feels like standard soap opera melodrama without showing who her new husband actually is.",
+      "blind_label": "A"
+    },
+    "quality": 63.7,
+    "penalty": 2,
+    "score": 61.7,
+    "alternate_reason": "overlaps higher-ranked E04-9cf3db by more than 50%"
+  },
+  {
+    "promo_id": "E10-19bb67",
+    "episode": 10,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "Your Touch Is My Medicine",
+    "hook": "Starts mid-vulnerability as Juliana gazes tenderly at her husband's scarred chest with profound empathy.",
+    "hook_line": "L034",
+    "hook_quote": "You have suffered terribly.",
+    "cliffhanger": "Alexander pulls her hands over his racing heart and confesses his devotion, leaving Juliana breathless.",
+    "cliffhanger_line": "L059",
+    "cliffhanger_quote": "Your touch is the only medicine that has ever eased my pain.",
+    "why_it_works": "Delivers a classic high-drama romance escalation, shifting seamlessly from healing wounds to an irresistible emotional confession.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 10,
+        "start_ms": 45300,
+        "end_ms": 94000,
+        "start_line": "L034",
+        "end_line": "L060",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 48700,
+    "problems": [],
+    "flags": [
+      "cliffhanger_line_not_at_the_cut",
+      "long_silent_tail"
+    ],
+    "raw": {
+      "title": "Your Touch Is My Medicine",
+      "segments": [
+        {
+          "start_line": "L034",
+          "end_line": "L060"
+        }
+      ],
+      "hook_line": "L034",
+      "hook": "Starts mid-vulnerability as Juliana gazes tenderly at her husband's scarred chest with profound empathy.",
+      "hook_quote": "You have suffered terribly.",
+      "cliffhanger_line": "L059",
+      "cliffhanger": "Alexander pulls her hands over his racing heart and confesses his devotion, leaving Juliana breathless.",
+      "cliffhanger_quote": "Your touch is the only medicine that has ever eased my pain.",
+      "why_it_works": "Delivers a classic high-drama romance escalation, shifting seamlessly from healing wounds to an irresistible emotional confession.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A woman telling a man he has suffered.",
+      "hook": 2,
+      "understood": "A woman is nursing a man and they are flirting while she cleans his wounds.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they act on their feelings?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Dialogue is very cliché romance novel style.",
+      "blind_label": "D"
+    },
+    "quality": 56.2,
+    "penalty": 8,
+    "score": 48.2,
+    "alternate_reason": "overlaps higher-ranked E10-2ea4ca by more than 50%"
+  },
+  {
+    "promo_id": "E03-18333d",
+    "episode": 3,
+    "origin": "proposer",
+    "proposer_rank": 3,
+    "title": "Shocking Chapel Proposal",
+    "hook": "A matriarch screams at a stranger for interfering in family matters in the middle of a cathedral.",
+    "hook_line": "L083",
+    "hook_quote": "You cannot interfere in a family matter!",
+    "cliffhanger": "The stranger kneels before the humiliated bride and asks her to accept his hand while the congregation gasps.",
+    "cliffhanger_line": "L116",
+    "cliffhanger_quote": "Lady Juliana... accept my hand.",
+    "why_it_works": "Focuses heavily on emotional vindication and romantic shock, perfect for viewers who love sudden-marriage tropes.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 3,
+        "start_ms": 96500,
+        "end_ms": 145750,
+        "start_line": "L083",
+        "end_line": "L117",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 49250,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Shocking Chapel Proposal",
+      "segments": [
+        {
+          "start_line": "L083",
+          "end_line": "L117"
+        }
+      ],
+      "hook_line": "L083",
+      "hook": "A matriarch screams at a stranger for interfering in family matters in the middle of a cathedral.",
+      "hook_quote": "You cannot interfere in a family matter!",
+      "cliffhanger_line": "L116",
+      "cliffhanger": "The stranger kneels before the humiliated bride and asks her to accept his hand while the congregation gasps.",
+      "cliffhanger_quote": "Lady Juliana... accept my hand.",
+      "why_it_works": "Focuses heavily on emotional vindication and romantic shock, perfect for viewers who love sudden-marriage tropes.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A matriarch screams about family matters while audio cuts mid-sentence over pews of whispering guests.",
+      "hook": 3,
+      "understood": "A stranger defends a disowned woman to her corrupt family, gives a speech about her worth, and asks her to marry him.",
+      "confusions": "Audio starts mid-sentence at the very beginning.",
+      "standalone": 3,
+      "open_question": "Will she say yes to his proposal?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Awkward mid-sentence opening audio cut.",
+      "blind_label": "D"
+    },
+    "quality": 50.0,
+    "penalty": 2,
+    "score": 48.0,
+    "alternate_reason": "overlaps higher-ranked E03-0d9316 by more than 50%"
+  }
+]

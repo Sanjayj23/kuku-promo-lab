@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"interpretation\": {\n    \"text\": \"U001 seeks help finding a missing partner, U002 asks who to pull in, U003 demands the cable for their daughter, U004 states the daughter isn't on the crew list, U005 mentions someone else on the\u9891\u9053, U0\",\n    \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"]\n  },\n  \"missing_context\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ],\n  \"essential_context_missing\": true,\n  \"unresolved_question\": {\n    \"text\": \"Who is the someone else on this channel?\",\n    \"evidence_ids\": [\"U005\"]\n  },\n  \"criteria\": {\n    \"hook\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\"],\n      \"reason\": \"U001's statement introduces a missing partner, but the context is unclear\"\n    },\n    \"cliffhanger\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U005\"],\n      \"reason\": \"U005 mentions someone else on the channel, suggesting a potential conflict or mystery\"\n    },\n    \"comprehension\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"U001 is seeking help for a missing partner, U002 asks who to pull in, U003 demands the cable for their daughter, and U004 states the daughter isn't on the crew list\"\n    },\n    \"emotion\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U003\"],\n      \"reason\": \"U003's demand for the cable for their daughter suggests personal stakes\"\n    },\n    \"coherence\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue shows a conflict between U001, U002, and U003, with U004 providing a counterpoint\"\n    },\n    \"boundary\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue starts with U001's statement and continues with interactions between the characters\"\n    }\n  },\n  \"uncertainty_flags\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ]\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 153.150034,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 1397,
+      "completion_tokens": 612
+    }
+  }
+}

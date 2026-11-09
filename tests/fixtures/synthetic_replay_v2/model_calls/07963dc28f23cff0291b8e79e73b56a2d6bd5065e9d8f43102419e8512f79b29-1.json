@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"proposals\": [\n    {\n      \"start_boundary_id\": \"ep-001:t000021000\",\n      \"end_boundary_id\": \"ep-001:t000058000\",\n      \"event_summary\": \"The captain and engineer debate who to rescue, with the pilot revealing a critical piece of information.\",\n      \"hook\": {\n        \"text\": \"CAPTAIN (Resolute): \\\"Tell me who has oxygen left.\\\"\",\n        \"evidence_ids\": [\"ep-001:b0007\", \"ep-001:b0008\", \"ep-001:b0009\"]\n      },\n      \"cliffhanger\": {\n        \"text\": \"ENGINEER (Frightened): \\\"Captain, who should I pull in?\\\"\",\n        \"evidence_ids\": [\"ep-001:b0009\"]\n      },\n      \"required_context\": [\n        \"The rescue cable's capacity\",\n        \"The presence of an unknown person on the channel\",\n        \"The captain's decision to prioritize a non-crew member\"\n      ],\n      \"visual_flags\": [\"Warning light flashes\", \"Rescue cable\", \"Inner door\"],\n      \"scores\": {\n        \"hook\": 2,\n        \"cliffhanger\": 2,\n        \"comprehension\": 3,\n        \"emotion\": 3,\n        \"coherence\": 3,\n        \"boundary\": 2\n      }\n    }\n  ],\n  \"no_candidate_reason\": \"\"\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 147.947609,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 3868,
+      "completion_tokens": 339
+    }
+  }
+}

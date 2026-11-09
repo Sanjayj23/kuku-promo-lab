@@ -1,0 +1,1 @@
+Genuine Qwen3-4B synthetic-only responses from fresh local inference on 6 November 2026. The original run made 19 attempts with no cache hits, returned zero suggestions and was partial. This fixture reuses those saved responses under gate 3 without inference. No new gate-3 live inference is claimed. No confidential pack content is included.

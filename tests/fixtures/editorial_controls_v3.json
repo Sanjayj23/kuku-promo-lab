@@ -1,0 +1,113 @@
+[
+  {
+    "id": "specific_threat",
+    "role": "opener",
+    "text": "The oxygen tank will explode.",
+    "expected": "pass"
+  },
+  {
+    "id": "unmoored_reply",
+    "role": "opener",
+    "text": "Absolutely.",
+    "expected": "fail"
+  },
+  {
+    "id": "ordinary_language_stakes",
+    "role": "opener",
+    "text": "Drop the knife or I shoot.",
+    "expected": "pass"
+  },
+  {
+    "id": "explicit_decision",
+    "role": "ending",
+    "lines": [
+      "Will you open the vault?",
+      "Yes, I will open it."
+    ],
+    "expected": "answered"
+  },
+  {
+    "id": "disputed_testimony",
+    "role": "ending",
+    "lines": [
+      "I watched her cut the cable.",
+      "I never touched the cable.",
+      "The judge is about to decide who to believe."
+    ],
+    "expected": "disputed"
+  },
+  {
+    "id": "unclear_participants",
+    "role": "ending",
+    "lines": [
+      "He left it with them.",
+      "What will they do now?"
+    ],
+    "expected": "unknown"
+  },
+  {
+    "id": "pending_choice",
+    "role": "ending",
+    "lines": [
+      "There is one parachute for both of us.",
+      "One of us must jump without it. Which of us goes first?"
+    ],
+    "expected": "unanswered"
+  },
+  {
+    "id": "visual_only",
+    "role": "opener",
+    "text": "",
+    "expected": "visual_hook_unverified"
+  },
+  {
+    "id": "short_no",
+    "role": "opener",
+    "text": "No.",
+    "expected": "fail"
+  },
+  {
+    "id": "short_plea",
+    "role": "opener",
+    "text": "Please...",
+    "expected": "fail"
+  },
+  {
+    "id": "short_assent",
+    "role": "opener",
+    "text": "Okay, fine.",
+    "expected": "fail"
+  },
+  {
+    "id": "entity_trap",
+    "role": "ending",
+    "lines": [
+      "You took my mother's ring from the safe.",
+      "I needed the money.",
+      "Then bring the ring back tonight."
+    ],
+    "proposed_question": "Will she ring the bell before midnight?",
+    "expected": "entity_trap"
+  },
+  {
+    "id": "answer_trap",
+    "role": "ending",
+    "lines": [
+      "Did you sell my mother's ring?",
+      "I sold it this morning.",
+      "Then we are finished."
+    ],
+    "proposed_question": "Did he sell the ring?",
+    "expected": "answer_trap"
+  },
+  {
+    "id": "role_trap",
+    "role": "ending",
+    "lines": [
+      "I will sign the confession tonight.",
+      "If you sign, I lose the farm."
+    ],
+    "proposed_question": "Will voice_2 sign the confession?",
+    "expected": "role_trap"
+  }
+]

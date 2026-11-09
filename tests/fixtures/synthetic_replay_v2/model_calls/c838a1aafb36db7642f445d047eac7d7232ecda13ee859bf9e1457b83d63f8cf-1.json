@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\"hook_present\": true, \"cue_quote\": \"\\\"Tell me who has oxygen left.\\\"\", \"cue_type\": \"command\", \"specificity\": 2, \"reason\": \"The line is a direct command with a concrete stake (oxygen) and identifies a person or object (who has oxygen left).\",\"evidence_scope\": \"dialogue_only\", \"uncertain\": false}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 22.520923,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 222,
+      "completion_tokens": 89
+    }
+  }
+}

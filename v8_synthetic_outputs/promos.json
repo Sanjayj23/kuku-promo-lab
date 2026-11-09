@@ -1,0 +1,136 @@
+[
+  {
+    "promo_id": "E01-05a6f3",
+    "episode": 1,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "One Cable Left",
+    "hook": "An urgent warning about an opening airlock immediately creates high-stakes spatial danger.",
+    "hook_line": "L001",
+    "hook_quote": "The airlock is opening!",
+    "cliffhanger": "The captain orders the single cable given to his daughter, raising the personal stakes before the outcome is revealed.",
+    "cliffhanger_line": "L010",
+    "cliffhanger_quote": "Give the cable to my daughter first.",
+    "why_it_works": "The escalating dilemma from a failing airlock to a single rescue cable creates immediate, life-or-death tension that holds attention.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 1,
+        "start_ms": 0,
+        "end_ms": 37000,
+        "start_line": "L001",
+        "end_line": "L010",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "One Cable Left",
+      "segments": [
+        {
+          "start_line": "L001",
+          "end_line": "L010"
+        }
+      ],
+      "hook_line": "L001",
+      "hook": "An urgent warning about an opening airlock immediately creates high-stakes spatial danger.",
+      "hook_quote": "The airlock is opening!",
+      "cliffhanger_line": "L010",
+      "cliffhanger": "The captain orders the single cable given to his daughter, raising the personal stakes before the outcome is revealed.",
+      "cliffhanger_quote": "Give the cable to my daughter first.",
+      "why_it_works": "The escalating dilemma from a failing airlock to a single rescue cable creates immediate, life-or-death tension that holds attention.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "An engineer shouting that the airlock is opening.",
+      "hook": 4,
+      "understood": "An airlock is opening while crew members are trapped outside, but there is only one rescue cable for two people.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Who is the captain going to save and will they pull the daughter or someone else?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "Relies heavily on text and voice lines",
+      "blind_label": "C"
+    },
+    "quality": 75.0,
+    "penalty": 0,
+    "score": 75.0,
+    "rank": 1,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 4/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E02-51673b",
+    "episode": 2,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Sold Out Into Space",
+    "hook": "An alarmed radio operator drops the devastating news that their space station has just been sold, instantly establishing high stakes for the trapped crew.",
+    "hook_line": "L001",
+    "hook_quote": "Our station has been sold!",
+    "cliffhanger": "The transmission cuts abruptly to static right after the realization that no rescue ship is coming for the thirty people aboard.",
+    "cliffhanger_line": "L007",
+    "cliffhanger_quote": "",
+    "why_it_works": "It starts immediately with a shocking betrayal and escalates tension through a ticking clock until the chilling cut to static.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 2,
+        "start_ms": 0,
+        "end_ms": 40000,
+        "start_line": "L001",
+        "end_line": "L007",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Sold Out Into Space",
+      "segments": [
+        {
+          "start_line": "L001",
+          "end_line": "L007"
+        }
+      ],
+      "hook_line": "L001",
+      "hook": "An alarmed radio operator drops the devastating news that their space station has just been sold, instantly establishing high stakes for the trapped crew.",
+      "hook_quote": "Our station has been sold!",
+      "cliffhanger_line": "L007",
+      "cliffhanger": "The transmission cuts abruptly to static right after the realization that no rescue ship is coming for the thirty people aboard.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It starts immediately with a shocking betrayal and escalates tension through a ticking clock until the chilling cut to static.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A radio operator urgently shouting that their station has been sold.",
+      "hook": 3,
+      "understood": "A station crew is left stranded after a sale, ending in radio static.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "Did they just lose all communication permanently?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Slow pacing",
+      "blind_label": "C"
+    },
+    "quality": 56.2,
+    "penalty": 0,
+    "score": 56.2,
+    "rank": 2,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  }
+]

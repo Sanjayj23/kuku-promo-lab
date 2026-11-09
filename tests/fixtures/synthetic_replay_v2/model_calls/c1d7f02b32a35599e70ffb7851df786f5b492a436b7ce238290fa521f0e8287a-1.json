@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"interpretation\": {\n    \"text\": \"U001 demands everyone leave before dawn, U002 questions who will rescue them, U003 denies a rescue ship, and U004 asks what the buyer's plan is for the people.\",\n    \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"]\n  },\n  \"missing_context\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ],\n  \"essential_context_missing\": true,\n  \"unresolved_question\": {\n    \"text\": \"What is the buyer's plan for the people if no rescue ship is available?\",\n    \"evidence_ids\": [\"U004\"]\n  },\n  \"criteria\": {\n    \"hook\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\"],\n      \"reason\": \"U001's statement about the buyer's demand creates a potential conflict or urgency.\"\n    },\n    \"cliffhanger\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U004\"],\n      \"reason\": \"U004's question about the buyer's plan indicates an unresolved issue.\"\n    },\n    \"comprehension\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue establishes a conflict between the buyer's demand and the lack of a rescue plan.\"\n    },\n    \"emotion\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U002\"],\n      \"reason\": \"U002's question suggests concern or uncertainty about the situation.\"\n    },\n    \"coherence\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue follows a logical progression of questions and statements.\"\n    },\n    \"boundary\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U004\"],\n      \"reason\": \"The dialogue starts with a demand and ends with an unresolved question.\"\n    }\n  },\n  \"uncertainty_flags\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ]\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 105.690438,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 1210,
+      "completion_tokens": 537
+    }
+  }
+}

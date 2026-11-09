@@ -1,0 +1,3712 @@
+[
+  {
+    "promo_id": "E32-e67058",
+    "episode": 32,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "Defying the Branding Iron",
+    "hook": "Catherine snaps entirely, screaming at her prisoner while brandishing a red-hot iron, immediately establishing a high-stakes, life-threatening conflict.",
+    "hook_line": "L091",
+    "hook_quote": "Silence! Silence!",
+    "cliffhanger": "The branding iron is held mere millimeters from Juliana's eye; will she be permanently disfigured or killed?",
+    "cliffhanger_line": "L117",
+    "cliffhanger_quote": "",
+    "why_it_works": "The clip captures the rapid escalation from verbal defiance to physical torture, ending on a heart-stopping visual cliffhanger.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 32,
+        "start_ms": 119500,
+        "end_ms": 154380,
+        "start_line": "L090",
+        "end_line": "L117",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 34880,
+    "problems": [],
+    "flags": [
+      "hook_line_aligned_to_quote",
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "Defying the Branding Iron",
+      "segments": [
+        {
+          "start_line": "L090",
+          "end_line": "L117"
+        }
+      ],
+      "hook_line": "L091",
+      "hook": "Catherine snaps entirely, screaming at her prisoner while brandishing a red-hot iron, immediately establishing a high-stakes, life-threatening conflict.",
+      "hook_quote": "Silence! Silence!",
+      "cliffhanger_line": "L117",
+      "cliffhanger": "The branding iron is held mere millimeters from Juliana's eye; will she be permanently disfigured or killed?",
+      "cliffhanger_quote": "",
+      "why_it_works": "The clip captures the rapid escalation from verbal defiance to physical torture, ending on a heart-stopping visual cliffhanger.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman screaming 'Silence!' while holding a weapon.",
+      "hook": 5,
+      "understood": "A woman is about to brand a prisoner with a hot iron, and the iron stops inches from her eye.",
+      "confusions": "none",
+      "standalone": 5,
+      "open_question": "Does she actually go through with the branding?",
+      "cliffhanger": 5,
+      "tap_to_watch": 5,
+      "main_problem": "None, this is a solid hook.",
+      "blind_label": "J"
+    },
+    "quality": 100.0,
+    "penalty": 0,
+    "score": 100.0,
+    "rank": 1,
+    "why_ranked": "Cold viewer: hook 5/5, cliffhanger 5/5, stands alone 5/5, would tap 5/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E41-2545d3",
+    "episode": 41,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Wedding Explosion",
+    "hook": "Catherine halts her own wedding to publicly humiliate the protagonist, creating immediate tension.",
+    "hook_line": "L003",
+    "hook_quote": "Wait.",
+    "cliffhanger": "Juliana sees her savior emerge from the smoke, leaving the viewer wondering if she will be rescued.",
+    "cliffhanger_line": "L053",
+    "cliffhanger_quote": "",
+    "why_it_works": "The contrast between the calm wedding setting and the explosive, violent interruption creates a high-stakes hook.",
+    "setup_needed": "None",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 41,
+        "start_ms": 1800,
+        "end_ms": 13000,
+        "start_line": "L003",
+        "end_line": "L007",
+        "adjustments": []
+      },
+      {
+        "episode": 41,
+        "start_ms": 81000,
+        "end_ms": 96090,
+        "start_line": "L047",
+        "end_line": "L053",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 26290,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Wedding Explosion",
+      "segments": [
+        {
+          "start_line": "L003",
+          "end_line": "L007"
+        },
+        {
+          "start_line": "L047",
+          "end_line": "L053"
+        }
+      ],
+      "hook_line": "L003",
+      "hook": "Catherine halts her own wedding to publicly humiliate the protagonist, creating immediate tension.",
+      "hook_quote": "Wait.",
+      "cliffhanger_line": "L053",
+      "cliffhanger": "Juliana sees her savior emerge from the smoke, leaving the viewer wondering if she will be rescued.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The contrast between the calm wedding setting and the explosive, violent interruption creates a high-stakes hook.",
+      "setup_needed": "None",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman says 'Wait.'",
+      "hook": 5,
+      "understood": "A woman is about to gloat before a massive explosion destroys the church.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Who is the person emerging from the smoke?",
+      "cliffhanger": 5,
+      "tap_to_watch": 5,
+      "main_problem": "None, this is a strong hook.",
+      "blind_label": "O"
+    },
+    "quality": 100.0,
+    "penalty": 0,
+    "score": 100.0,
+    "rank": 2,
+    "why_ranked": "Cold viewer: hook 5/5, cliffhanger 5/5, stands alone 5/5, would tap 5/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E39-7110f5",
+    "episode": 39,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Duke Reclaims His Throne",
+    "hook": "Alexander stares at his scarred, unkempt reflection, immediately signaling a major transformation is about to occur.",
+    "hook_line": "L031",
+    "hook_quote": "",
+    "cliffhanger": "Alexander vows to bring his wife home, leaving the viewer anticipating the confrontation at the wedding.",
+    "cliffhanger_line": "L058",
+    "cliffhanger_quote": "And I am bringing my wife home.",
+    "why_it_works": "The transformation from a rugged exile to a noble Duke is highly satisfying and builds massive anticipation.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 39,
+        "start_ms": 50000,
+        "end_ms": 66900,
+        "start_line": "L031",
+        "end_line": "L042",
+        "adjustments": []
+      },
+      {
+        "episode": 39,
+        "start_ms": 85500,
+        "end_ms": 98410,
+        "start_line": "L054",
+        "end_line": "L059",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 29810,
+    "problems": [],
+    "flags": [
+      "cliffhanger_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "The Duke Reclaims His Throne",
+      "segments": [
+        {
+          "start_line": "L031",
+          "end_line": "L042"
+        },
+        {
+          "start_line": "L054",
+          "end_line": "L059"
+        }
+      ],
+      "hook_line": "L031",
+      "hook": "Alexander stares at his scarred, unkempt reflection, immediately signaling a major transformation is about to occur.",
+      "hook_quote": "",
+      "cliffhanger_line": "L058",
+      "cliffhanger": "Alexander vows to bring his wife home, leaving the viewer anticipating the confrontation at the wedding.",
+      "cliffhanger_quote": "And I am bringing my wife home.",
+      "why_it_works": "The transformation from a rugged exile to a noble Duke is highly satisfying and builds massive anticipation.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A man with a beard stares at his reflection in a cracked mirror.",
+      "hook": 4,
+      "understood": "A man named Alexander is shedding his disguise to return home and save his wife.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Can he make it in time to save her?",
+      "cliffhanger": 5,
+      "tap_to_watch": 5,
+      "main_problem": "None, very effective.",
+      "blind_label": "D"
+    },
+    "quality": 92.5,
+    "penalty": 0,
+    "score": 92.5,
+    "rank": 3,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 5/5, stands alone 5/5, would tap 5/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E38-3067c8",
+    "episode": 38,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Final Toll",
+    "hook": "Juliana's eyes snap open in terror as the wedding bells toll, signaling her impending death.",
+    "hook_line": "L043",
+    "hook_quote": "",
+    "cliffhanger": "The scene cuts to black on a high-tension sting, leaving the viewer in suspense as the wedding begins.",
+    "cliffhanger_line": "L057",
+    "cliffhanger_quote": "",
+    "why_it_works": "The sound of the bells acts as a ticking clock, creating immediate, visceral dread.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 38,
+        "start_ms": 64500,
+        "end_ms": 87910,
+        "start_line": "L043",
+        "end_line": "L057",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 23410,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Final Toll",
+      "segments": [
+        {
+          "start_line": "L043",
+          "end_line": "L057"
+        }
+      ],
+      "hook_line": "L043",
+      "hook": "Juliana's eyes snap open in terror as the wedding bells toll, signaling her impending death.",
+      "hook_quote": "",
+      "cliffhanger_line": "L057",
+      "cliffhanger": "The scene cuts to black on a high-tension sting, leaving the viewer in suspense as the wedding begins.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The sound of the bells acts as a ticking clock, creating immediate, visceral dread.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A woman's eyes snap open to the sound of bells.",
+      "hook": 4,
+      "understood": "Juliana realizes her execution is imminent because the wedding has begun.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Is this the end for her?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "None.",
+      "blind_label": "J"
+    },
+    "quality": 88.8,
+    "penalty": 0,
+    "score": 88.8,
+    "rank": 4,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 5/5, stands alone 5/5, would tap 4/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E50-2e5702",
+    "episode": 50,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Caught In The Act",
+    "hook": "Catherine and the priest are shown in bed, immediately establishing a scandalous, forbidden affair that could ruin them both.",
+    "hook_line": "L004",
+    "hook_quote": "A man in your collar isn't supposed to have that much left in him, Thomas.",
+    "cliffhanger": "Agnes witnesses the secret affair, leaving the viewer to wonder if she will expose them or be silenced.",
+    "cliffhanger_line": "L040",
+    "cliffhanger_quote": "",
+    "why_it_works": "The 'caught in the act' trope is a powerful cliffhanger that promises immediate consequences for the villains.",
+    "setup_needed": "none",
+    "spoiler_risk": "high",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 50,
+        "start_ms": 1800,
+        "end_ms": 15800,
+        "start_line": "L004",
+        "end_line": "L009",
+        "adjustments": []
+      },
+      {
+        "episode": 50,
+        "start_ms": 70500,
+        "end_ms": 80000,
+        "start_line": "L033",
+        "end_line": "L040",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 23500,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Caught In The Act",
+      "segments": [
+        {
+          "start_line": "L004",
+          "end_line": "L009"
+        },
+        {
+          "start_line": "L033",
+          "end_line": "L040"
+        }
+      ],
+      "hook_line": "L004",
+      "hook": "Catherine and the priest are shown in bed, immediately establishing a scandalous, forbidden affair that could ruin them both.",
+      "hook_quote": "A man in your collar isn't supposed to have that much left in him, Thomas.",
+      "cliffhanger_line": "L040",
+      "cliffhanger": "Agnes witnesses the secret affair, leaving the viewer to wonder if she will expose them or be silenced.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The 'caught in the act' trope is a powerful cliffhanger that promises immediate consequences for the villains.",
+      "setup_needed": "none",
+      "spoiler_risk": "high",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman is talking to a man in bed about his collar.",
+      "hook": 4,
+      "understood": "A woman is having an affair with a priest, and a maid just caught them in the act.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Will the maid tell anyone what she saw?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "The 'caught in the act' trope is very predictable.",
+      "blind_label": "L"
+    },
+    "quality": 88.8,
+    "penalty": 6,
+    "score": 82.8,
+    "rank": 5,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 5/5, stands alone 5/5, would tap 4/5. reveals a major twist, so post later.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E23-cd0b35",
+    "episode": 23,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Poison Revealed",
+    "hook": "Juliana bluntly accuses someone of poisoning the Duchess, immediately raising the stakes of the mystery.",
+    "hook_line": "L040",
+    "hook_quote": "Someone is poisoning her.",
+    "cliffhanger": "The door is opening while Juliana is caught red-handed with the antidote, creating a perfect 'trapped' cliffhanger.",
+    "cliffhanger_line": "L067",
+    "cliffhanger_quote": "",
+    "why_it_works": "It delivers the 'reveal' (poison) and the 'threat' (intruder) in one tight, high-tension package.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 23,
+        "start_ms": 79000,
+        "end_ms": 131500,
+        "start_line": "L040",
+        "end_line": "L067",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 52500,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Poison Revealed",
+      "segments": [
+        {
+          "start_line": "L040",
+          "end_line": "L067"
+        }
+      ],
+      "hook_line": "L040",
+      "hook": "Juliana bluntly accuses someone of poisoning the Duchess, immediately raising the stakes of the mystery.",
+      "hook_quote": "Someone is poisoning her.",
+      "cliffhanger_line": "L067",
+      "cliffhanger": "The door is opening while Juliana is caught red-handed with the antidote, creating a perfect 'trapped' cliffhanger.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It delivers the 'reveal' (poison) and the 'threat' (intruder) in one tight, high-tension package.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "Juliana declares that someone is poisoning the Duchess.",
+      "hook": 4,
+      "understood": "Juliana is a secret healer trying to save a poisoned Duchess while someone approaches the door.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who is coming through the door and will they catch her?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "The pacing is a bit rushed.",
+      "blind_label": "C"
+    },
+    "quality": 82.5,
+    "penalty": 0,
+    "score": 82.5,
+    "rank": 6,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 5/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E01-cdc630",
+    "episode": 1,
+    "origin": "proposer",
+    "proposer_rank": 3,
+    "title": "You Should Turn Around",
+    "hook": "A cold matriarch stops the bride halfway down the aisle with an ominous warning.",
+    "hook_line": "L008",
+    "hook_quote": "You should turn around, Juliana.",
+    "cliffhanger": "The groom calmly breaks off the marriage with zero empathy right at the altar.",
+    "cliffhanger_line": "L041",
+    "cliffhanger_quote": "I changed my mind.",
+    "why_it_works": "Captures the full horror of stepping down the aisle into an unexpected ambush, cutting at the groom's coldest line.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 1,
+        "start_ms": 11000,
+        "end_ms": 63000,
+        "start_line": "L007",
+        "end_line": "L041",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 52000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "You Should Turn Around",
+      "segments": [
+        {
+          "start_line": "L007",
+          "end_line": "L041"
+        }
+      ],
+      "hook_line": "L008",
+      "hook": "A cold matriarch stops the bride halfway down the aisle with an ominous warning.",
+      "hook_quote": "You should turn around, Juliana.",
+      "cliffhanger_line": "L041",
+      "cliffhanger": "The groom calmly breaks off the marriage with zero empathy right at the altar.",
+      "cliffhanger_quote": "I changed my mind.",
+      "why_it_works": "Captures the full horror of stepping down the aisle into an unexpected ambush, cutting at the groom's coldest line.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Matriarch steps in front of Juliana on her wedding aisle telling her to turn around.",
+      "hook": 4,
+      "understood": "Juliana is walking down the aisle to get married, but a matriarch stops her and she finds her groom Gerald standing at the altar holding hands with another woman.",
+      "confusions": "none",
+      "standalone": 5,
+      "open_question": "How will Juliana respond after Gerald callously says he changed his mind?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "aisle walk pacing slows down middle",
+      "blind_label": "A"
+    },
+    "quality": 81.2,
+    "penalty": 0,
+    "score": 81.2,
+    "rank": 7,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 4/5, stands alone 5/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E03-858302",
+    "episode": 3,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "Guards Drag Bride Until Stranger Intervenes",
+    "hook": "A matriarch shouts for guards to drag out a bride, triggering an immediate physical scuffle.",
+    "hook_line": "L047",
+    "hook_quote": "Guards! Remove her!",
+    "cliffhanger": "After KOing a guard, the menacing stranger warns the rest of the chapel not to touch the bride again.",
+    "cliffhanger_line": "L081",
+    "cliffhanger_quote": "Good. Then don't touch her again.",
+    "why_it_works": "A fast-paced, high-tension physical altercation that establishes clear villains, an underdog bride, and an instantly badass hero.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 3,
+        "start_ms": 58300,
+        "end_ms": 96500,
+        "start_line": "L047",
+        "end_line": "L081",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38200,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Guards Drag Bride Until Stranger Intervenes",
+      "segments": [
+        {
+          "start_line": "L047",
+          "end_line": "L081"
+        }
+      ],
+      "hook_line": "L047",
+      "hook": "A matriarch shouts for guards to drag out a bride, triggering an immediate physical scuffle.",
+      "hook_quote": "Guards! Remove her!",
+      "cliffhanger_line": "L081",
+      "cliffhanger": "After KOing a guard, the menacing stranger warns the rest of the chapel not to touch the bride again.",
+      "cliffhanger_quote": "Good. Then don't touch her again.",
+      "why_it_works": "A fast-paced, high-tension physical altercation that establishes clear villains, an underdog bride, and an instantly badass hero.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A matriarch screams 'Guards! Remove her!' as red-uniformed guards grab a woman and drag her backwards screaming.",
+      "hook": 5,
+      "understood": "Guards drag a screaming woman out of a cathedral until a hero steps up, drops a guard with one punch, and threatens the others.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What will the cowardly groom and remaining guards do next?",
+      "cliffhanger": 3,
+      "tap_to_watch": 4,
+      "main_problem": "Ends after resolving the immediate fight beat.",
+      "blind_label": "C"
+    },
+    "quality": 75.0,
+    "penalty": 0,
+    "score": 75.0,
+    "rank": 8,
+    "why_ranked": "Cold viewer: hook 5/5, cliffhanger 3/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E02-c11a9d",
+    "episode": 2,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "Cold Hearted Altar Betrayal",
+    "hook": "The groom delivers an immediate bombshell at the altar: 'I cannot marry you, Juliana.'",
+    "hook_line": "L002",
+    "hook_quote": "I cannot marry you, Juliana.",
+    "cliffhanger": "Gerald mercilessly declares he should have chosen the sister all along while Juliana stands heartbroken.",
+    "cliffhanger_line": "L021",
+    "cliffhanger_quote": "She is what I should have chosen from the beginning.",
+    "why_it_works": "Hits the viewer within the first second with extreme romance drama and rapidly escalates the groom's cruel insults.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 2,
+        "start_ms": 0,
+        "end_ms": 30600,
+        "start_line": "L001",
+        "end_line": "L021",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 30600,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Cold Hearted Altar Betrayal",
+      "segments": [
+        {
+          "start_line": "L001",
+          "end_line": "L021"
+        }
+      ],
+      "hook_line": "L002",
+      "hook": "The groom delivers an immediate bombshell at the altar: 'I cannot marry you, Juliana.'",
+      "hook_quote": "I cannot marry you, Juliana.",
+      "cliffhanger_line": "L021",
+      "cliffhanger": "Gerald mercilessly declares he should have chosen the sister all along while Juliana stands heartbroken.",
+      "cliffhanger_quote": "She is what I should have chosen from the beginning.",
+      "why_it_works": "Hits the viewer within the first second with extreme romance drama and rapidly escalates the groom's cruel insults.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Groom standing at the altar flatly telling Juliana 'I cannot marry you'.",
+      "hook": 4,
+      "understood": "Gerald breaks off his wedding to Juliana right at the altar, calling her plain and beneath him while choosing Clarissa instead.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What is Juliana going to do now that she's been publicly humiliated at the altar?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "Very dramatic melodrama cliché, though effective",
+      "blind_label": "D"
+    },
+    "quality": 75.0,
+    "penalty": 0,
+    "score": 75.0,
+    "rank": 9,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 4/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E07-9e2b8b",
+    "episode": 7,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Where Is That Beggar Husband",
+    "hook": "Gerald arrogantly mocks Juliana's humble life and penniless new husband within the first second.",
+    "hook_line": "L011",
+    "hook_quote": "A fitting home for a woman who threw away everything for a penniless soldier.",
+    "cliffhanger": "Gerald boastfully demands to know where her beggar husband is right as a dark, imposing figure emerges from the mist.",
+    "cliffhanger_line": "L035",
+    "cliffhanger_quote": "Where is that beggar husband?",
+    "why_it_works": "Builds high-stakes emotional tension through Juliana's sharp defiance before cutting right as the threat is answered by the hero's arrival.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 7,
+        "start_ms": 24500,
+        "end_ms": 74000,
+        "start_line": "L010",
+        "end_line": "L035",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 49500,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Where Is That Beggar Husband",
+      "segments": [
+        {
+          "start_line": "L010",
+          "end_line": "L035"
+        }
+      ],
+      "hook_line": "L011",
+      "hook": "Gerald arrogantly mocks Juliana's humble life and penniless new husband within the first second.",
+      "hook_quote": "A fitting home for a woman who threw away everything for a penniless soldier.",
+      "cliffhanger_line": "L035",
+      "cliffhanger": "Gerald boastfully demands to know where her beggar husband is right as a dark, imposing figure emerges from the mist.",
+      "cliffhanger_quote": "Where is that beggar husband?",
+      "why_it_works": "Builds high-stakes emotional tension through Juliana's sharp defiance before cutting right as the threat is answered by the hero's arrival.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "Gerald mocking Juliana's humble home and calling her husband a penniless soldier.",
+      "hook": 3,
+      "understood": "Rich snobs harass Juliana about her poor lifestyle, but she defends her choices before Gerald threatens her husband just as a towering figure emerges from the fog.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "How will the husband deal with Gerald when he steps out of the fog?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "a bit talky before the action starts",
+      "blind_label": "C"
+    },
+    "quality": 75.0,
+    "penalty": 0,
+    "score": 75.0,
+    "rank": 10,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 5/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E26-9958a9",
+    "episode": 26,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "The Duchess Recognizes Her",
+    "hook": "A close-up reveals a distinctive signet ring on a maid's hand, immediately signaling a secret identity and a hidden connection to the nobility.",
+    "hook_line": "L034",
+    "hook_quote": "",
+    "cliffhanger": "The Duchess desperately clutches the ring, leaving the viewer wondering what secret past connects the maid to the noble family.",
+    "cliffhanger_line": "L051",
+    "cliffhanger_quote": "",
+    "why_it_works": "It builds tension from a visual reveal to a high-stakes emotional confrontation, perfectly setting up a mystery that demands to be solved.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 26,
+        "start_ms": 86500,
+        "end_ms": 120880,
+        "start_line": "L034",
+        "end_line": "L051",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 34380,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "The Duchess Recognizes Her",
+      "segments": [
+        {
+          "start_line": "L034",
+          "end_line": "L051"
+        }
+      ],
+      "hook_line": "L034",
+      "hook": "A close-up reveals a distinctive signet ring on a maid's hand, immediately signaling a secret identity and a hidden connection to the nobility.",
+      "hook_quote": "",
+      "cliffhanger_line": "L051",
+      "cliffhanger": "The Duchess desperately clutches the ring, leaving the viewer wondering what secret past connects the maid to the noble family.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It builds tension from a visual reveal to a high-stakes emotional confrontation, perfectly setting up a mystery that demands to be solved.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A close-up of a hand with a ring on it.",
+      "hook": 3,
+      "understood": "A maid shows a ring to a sick Duchess, who reacts with extreme shock and recognition.",
+      "confusions": "What is the significance of the ring?",
+      "standalone": 4,
+      "open_question": "What is the secret connection between the maid and the Duchess?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "Slightly melodramatic acting.",
+      "blind_label": "E"
+    },
+    "quality": 75.0,
+    "penalty": 0,
+    "score": 75.0,
+    "rank": 11,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 5/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E44-434311",
+    "episode": 44,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "The Cold Rejection",
+    "hook": "Catherine reaches out to touch Alexander's face, pleading for his love, which immediately sets up a high-stakes emotional confrontation.",
+    "hook_line": "L029",
+    "hook_quote": "I never stopped loving you.",
+    "cliffhanger": "Catherine is left in shock as she realizes Alexander has completely rejected her for the woman she tried to destroy.",
+    "cliffhanger_line": "L054",
+    "cliffhanger_quote": "Her?!",
+    "why_it_works": "It captures the dramatic shift from a desperate plea for affection to a brutal, public rejection that leaves the antagonist reeling.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 44,
+        "start_ms": 38900,
+        "end_ms": 70500,
+        "start_line": "L029",
+        "end_line": "L054",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 31600,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "The Cold Rejection",
+      "segments": [
+        {
+          "start_line": "L029",
+          "end_line": "L054"
+        }
+      ],
+      "hook_line": "L029",
+      "hook": "Catherine reaches out to touch Alexander's face, pleading for his love, which immediately sets up a high-stakes emotional confrontation.",
+      "hook_quote": "I never stopped loving you.",
+      "cliffhanger_line": "L054",
+      "cliffhanger": "Catherine is left in shock as she realizes Alexander has completely rejected her for the woman she tried to destroy.",
+      "cliffhanger_quote": "Her?!",
+      "why_it_works": "It captures the dramatic shift from a desperate plea for affection to a brutal, public rejection that leaves the antagonist reeling.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman whispers 'I never stopped loving you.'",
+      "hook": 3,
+      "understood": "A man is rejecting a woman's advances and choosing a prisoner instead.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Why is the prisoner so important to him?",
+      "cliffhanger": 5,
+      "tap_to_watch": 4,
+      "main_problem": "Repetitive content.",
+      "blind_label": "K"
+    },
+    "quality": 75.0,
+    "penalty": 0,
+    "score": 75.0,
+    "rank": 12,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 5/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E33-474339",
+    "episode": 33,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "Forced to Betray Her Savior",
+    "hook": "The Lord looms over the maid, issuing a chilling ultimatum that her brother's fate rests on her betrayal.",
+    "hook_line": "L037",
+    "hook_quote": "Think carefully.",
+    "cliffhanger": "The Lord dismisses the maid's agony, forcing her to face the trial where she must lie to save her brother.",
+    "cliffhanger_line": "L097",
+    "cliffhanger_quote": "Save your tears for the trial.",
+    "why_it_works": "It establishes the high stakes and the villain's cruelty immediately, creating an emotional conflict that hooks the audience.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 33,
+        "start_ms": 59000,
+        "end_ms": 73200,
+        "start_line": "L037",
+        "end_line": "L043",
+        "adjustments": []
+      },
+      {
+        "episode": 33,
+        "start_ms": 152200,
+        "end_ms": 164500,
+        "start_line": "L091",
+        "end_line": "L097",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 26500,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "Forced to Betray Her Savior",
+      "segments": [
+        {
+          "start_line": "L037",
+          "end_line": "L043"
+        },
+        {
+          "start_line": "L091",
+          "end_line": "L097"
+        }
+      ],
+      "hook_line": "L037",
+      "hook": "The Lord looms over the maid, issuing a chilling ultimatum that her brother's fate rests on her betrayal.",
+      "hook_quote": "Think carefully.",
+      "cliffhanger_line": "L097",
+      "cliffhanger": "The Lord dismisses the maid's agony, forcing her to face the trial where she must lie to save her brother.",
+      "cliffhanger_quote": "Save your tears for the trial.",
+      "why_it_works": "It establishes the high stakes and the villain's cruelty immediately, creating an emotional conflict that hooks the audience.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man telling someone to think carefully.",
+      "hook": 3,
+      "understood": "A lord is blackmailing a maid by threatening her young brother to force her to testify against Lady Juliana.",
+      "confusions": "none",
+      "standalone": 5,
+      "open_question": "Will the maid betray Juliana to save her brother?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "Very trope-heavy villainy.",
+      "blind_label": "G"
+    },
+    "quality": 73.8,
+    "penalty": 0,
+    "score": 73.8,
+    "rank": 13,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 5/5, would tap 4/5. safe to post early (low spoiler risk).",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E06-851f16",
+    "episode": 6,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "No One Here to Humiliate Me",
+    "hook": "A bride in a rain-soaked gown marches into the dark woods, declaring no one at this house will be waiting to humiliate her.",
+    "hook_line": "L029",
+    "hook_quote": "At least no one there will be waiting to humiliate me.",
+    "cliffhanger": "Juliana aggressively scrubs the dusty table as her voice breaks, confessing she can't stop or she'll crumble over everything she lost.",
+    "cliffhanger_line": "L063",
+    "cliffhanger_quote": "If I stop now, I will think about everything I lost.",
+    "why_it_works": "It hooks immediately with a defiant declaration against humiliation and escalates to a heartbreaking moment of emotional vulnerability in her rustic new reality.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 6,
+        "start_ms": 30150,
+        "end_ms": 73200,
+        "start_line": "L029",
+        "end_line": "L063",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43050,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "No One Here to Humiliate Me",
+      "segments": [
+        {
+          "start_line": "L029",
+          "end_line": "L063"
+        }
+      ],
+      "hook_line": "L029",
+      "hook": "A bride in a rain-soaked gown marches into the dark woods, declaring no one at this house will be waiting to humiliate her.",
+      "hook_quote": "At least no one there will be waiting to humiliate me.",
+      "cliffhanger_line": "L063",
+      "cliffhanger": "Juliana aggressively scrubs the dusty table as her voice breaks, confessing she can't stop or she'll crumble over everything she lost.",
+      "cliffhanger_quote": "If I stop now, I will think about everything I lost.",
+      "why_it_works": "It hooks immediately with a defiant declaration against humiliation and escalates to a heartbreaking moment of emotional vulnerability in her rustic new reality.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A woman defiantly stating no one will humiliate her while a solemn bearded man watches.",
+      "hook": 3,
+      "understood": "A bride and a mysterious man seek shelter in a rundown cottage after fleeing a humiliating situation.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What tragic event happened at her wedding or home?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "starts mid-sentence at the very beginning",
+      "blind_label": "A"
+    },
+    "quality": 67.5,
+    "penalty": 0,
+    "score": 67.5,
+    "rank": 14,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E10-2ea4ca",
+    "episode": 10,
+    "origin": "proposer",
+    "proposer_rank": 3,
+    "title": "From Danger to Devotion",
+    "hook": "The sudden crash of the door as Alexander staggers in bleeding creates instant scrolling hook impact.",
+    "hook_line": "L003",
+    "hook_quote": "",
+    "cliffhanger": "Alexander grips her hands to his chest with a deep emotional plea right at the cut.",
+    "cliffhanger_line": "L059",
+    "cliffhanger_quote": "Your touch is the only medicine that has ever eased my pain.",
+    "why_it_works": "Connects the high-adrenaline shock of his arrival directly to the romantic climax, cutting out mid-scene setup for maximum fast-paced payoff.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 10,
+        "start_ms": 2100,
+        "end_ms": 17800,
+        "start_line": "L003",
+        "end_line": "L017",
+        "adjustments": []
+      },
+      {
+        "episode": 10,
+        "start_ms": 63900,
+        "end_ms": 94000,
+        "start_line": "L048",
+        "end_line": "L060",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 45800,
+    "problems": [],
+    "flags": [
+      "cliffhanger_line_not_at_the_cut",
+      "long_silent_tail"
+    ],
+    "raw": {
+      "title": "From Danger to Devotion",
+      "segments": [
+        {
+          "start_line": "L003",
+          "end_line": "L017"
+        },
+        {
+          "start_line": "L048",
+          "end_line": "L060"
+        }
+      ],
+      "hook_line": "L003",
+      "hook": "The sudden crash of the door as Alexander staggers in bleeding creates instant scrolling hook impact.",
+      "hook_quote": "",
+      "cliffhanger_line": "L059",
+      "cliffhanger": "Alexander grips her hands to his chest with a deep emotional plea right at the cut.",
+      "cliffhanger_quote": "Your touch is the only medicine that has ever eased my pain.",
+      "why_it_works": "Connects the high-adrenaline shock of his arrival directly to the romantic climax, cutting out mid-scene setup for maximum fast-paced payoff.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A loud door slam and a guy walking in bleeding.",
+      "hook": 4,
+      "understood": "A woman is cleaning a man's wounds, and there is clear romantic tension between them.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they kiss?",
+      "cliffhanger": 4,
+      "tap_to_watch": 4,
+      "main_problem": "A bit cheesy/melodramatic.",
+      "blind_label": "B"
+    },
+    "quality": 75.0,
+    "penalty": 8,
+    "score": 67.0,
+    "rank": 15,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 4/5, stands alone 4/5, would tap 4/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "post_first"
+  },
+  {
+    "promo_id": "E04-9cf3db",
+    "episode": 4,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "You Are Disowned",
+    "hook": "Gerald bursts out in enraged disbelief, shouting that Juliana threw her life away for a nobody.",
+    "hook_line": "L087",
+    "hook_quote": "You have thrown yourself away!",
+    "cliffhanger": "Juliana's mother viciously disowns her in front of the entire cathedral.",
+    "cliffhanger_line": "L099",
+    "cliffhanger_quote": "You are disowned!",
+    "why_it_works": "It delivers immediate explosive conflict, followed by Juliana's triumphant clapback and a devastating public disowning.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 4,
+        "start_ms": 114800,
+        "end_ms": 134800,
+        "start_line": "L086",
+        "end_line": "L099",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 20000,
+    "problems": [],
+    "flags": [
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "You Are Disowned",
+      "segments": [
+        {
+          "start_line": "L086",
+          "end_line": "L099"
+        }
+      ],
+      "hook_line": "L087",
+      "hook": "Gerald bursts out in enraged disbelief, shouting that Juliana threw her life away for a nobody.",
+      "hook_quote": "You have thrown yourself away!",
+      "cliffhanger_line": "L099",
+      "cliffhanger": "Juliana's mother viciously disowns her in front of the entire cathedral.",
+      "cliffhanger_quote": "You are disowned!",
+      "why_it_works": "It delivers immediate explosive conflict, followed by Juliana's triumphant clapback and a devastating public disowning.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A furious guy lunging forward shouting 'You have thrown yourself away!' instantly at frame zero.",
+      "hook": 5,
+      "understood": "Gerald berates Juliana for marrying a nobody, she delivers a brutal verbal clapback, and Lady Ashcroft disowns her on the spot.",
+      "confusions": "We don't get to see who the husband standing behind her is or why they just got married.",
+      "standalone": 3,
+      "open_question": "What is the fallout after Lady Ashcroft disowns Juliana?",
+      "cliffhanger": 3,
+      "tap_to_watch": 4,
+      "main_problem": "Starts mid-screaming match with zero setup about the marriage that triggered it.",
+      "blind_label": "E"
+    },
+    "quality": 68.8,
+    "penalty": 2,
+    "score": 66.8,
+    "rank": 16,
+    "why_ranked": "Cold viewer: hook 5/5, cliffhanger 3/5, stands alone 3/5, would tap 4/5. early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E06-52f90b",
+    "episode": 6,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "Everything I Lost Today",
+    "hook": "Juliana furiously wipes down a worn table while holding back tears, admitting that stopping will force her to face everything she lost.",
+    "hook_line": "L063",
+    "hook_quote": "If I stop now, I will think about everything I lost.",
+    "cliffhanger": "Sitting by the fire after losing her family and home, Juliana stares into the flames and whispers 'And yet...', cutting right before revealing her true feelings about her new husband.",
+    "cliffhanger_line": "L092",
+    "cliffhanger_quote": "And yet...",
+    "why_it_works": "Transitions smoothly from intense grief into cozy, intimate reflection, cutting right on an intriguing unfinished sentence.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 6,
+        "start_ms": 70100,
+        "end_ms": 106000,
+        "start_line": "L063",
+        "end_line": "L092",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 35900,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Everything I Lost Today",
+      "segments": [
+        {
+          "start_line": "L063",
+          "end_line": "L092"
+        }
+      ],
+      "hook_line": "L063",
+      "hook": "Juliana furiously wipes down a worn table while holding back tears, admitting that stopping will force her to face everything she lost.",
+      "hook_quote": "If I stop now, I will think about everything I lost.",
+      "cliffhanger_line": "L092",
+      "cliffhanger": "Sitting by the fire after losing her family and home, Juliana stares into the flames and whispers 'And yet...', cutting right before revealing her true feelings about her new husband.",
+      "cliffhanger_quote": "And yet...",
+      "why_it_works": "Transitions smoothly from intense grief into cozy, intimate reflection, cutting right on an intriguing unfinished sentence.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A woman scrubbing a table while tearfully talking about losing everything.",
+      "hook": 3,
+      "understood": "A woman grieving her lost family and home finds quiet warmth in a cozy cabin with a helpful man.",
+      "confusions": "Who the man is to her",
+      "standalone": 3,
+      "open_question": "What was she going to say after 'And yet...'?",
+      "cliffhanger": 5,
+      "tap_to_watch": 3,
+      "main_problem": "starts mid-scene without initial context",
+      "blind_label": "B"
+    },
+    "quality": 65.0,
+    "penalty": 0,
+    "score": 65.0,
+    "rank": 17,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 5/5, stands alone 3/5, would tap 3/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E05-6025ed",
+    "episode": 5,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "Dead to the Family",
+    "hook": "Lord Ashcroft coldly revokes his daughter's dowry and inheritance, disowning her right outside the cathedral.",
+    "hook_line": "L014",
+    "hook_quote": "Your dowry is revoked.",
+    "cliffhanger": "Gerald cruelly declares that her late mother's legacy belongs in the dirt right as Juliana drops to her knees in tears.",
+    "cliffhanger_line": "L037",
+    "cliffhanger_quote": "Perhaps that is where it belongs.",
+    "why_it_works": "It delivers high family drama and public disownment immediately, escalating to the physical destruction of her last connection to her mother.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 5,
+        "start_ms": 21000,
+        "end_ms": 64600,
+        "start_line": "L014",
+        "end_line": "L037",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43600,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Dead to the Family",
+      "segments": [
+        {
+          "start_line": "L014",
+          "end_line": "L037"
+        }
+      ],
+      "hook_line": "L014",
+      "hook": "Lord Ashcroft coldly revokes his daughter's dowry and inheritance, disowning her right outside the cathedral.",
+      "hook_quote": "Your dowry is revoked.",
+      "cliffhanger_line": "L037",
+      "cliffhanger": "Gerald cruelly declares that her late mother's legacy belongs in the dirt right as Juliana drops to her knees in tears.",
+      "cliffhanger_quote": "Perhaps that is where it belongs.",
+      "why_it_works": "It delivers high family drama and public disownment immediately, escalating to the physical destruction of her last connection to her mother.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A man telling a woman she is dead to the family.",
+      "hook": 4,
+      "understood": "A woman is being disowned by her father and bullied by her stepmother.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What is in the book that makes it so important?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Very cliché dialogue.",
+      "blind_label": "C"
+    },
+    "quality": 63.7,
+    "penalty": 0,
+    "score": 63.7,
+    "rank": 18,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E16-37b7a9",
+    "episode": 16,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Soldier Unmasks The Betrayer",
+    "hook": "The thug's aggressive demand 'Move aside, soldier' immediately establishes a confrontation and the power dynamic between the threat and the protector.",
+    "hook_line": "L004",
+    "hook_quote": "Move aside, soldier.",
+    "cliffhanger": "The thug screams the name of the man who paid for the violence, leaving the viewer to wonder why Juliana's own fiancé is trying to destroy her.",
+    "cliffhanger_line": "L044",
+    "cliffhanger_quote": "Harrington! Gerald Harrington paid us!",
+    "why_it_works": "It moves from high-stakes physical action to a shocking emotional betrayal in one continuous, escalating sequence.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 16,
+        "start_ms": 2100,
+        "end_ms": 52800,
+        "start_line": "L004",
+        "end_line": "L044",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 50700,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Soldier Unmasks The Betrayer",
+      "segments": [
+        {
+          "start_line": "L004",
+          "end_line": "L044"
+        }
+      ],
+      "hook_line": "L004",
+      "hook": "The thug's aggressive demand 'Move aside, soldier' immediately establishes a confrontation and the power dynamic between the threat and the protector.",
+      "hook_quote": "Move aside, soldier.",
+      "cliffhanger_line": "L044",
+      "cliffhanger": "The thug screams the name of the man who paid for the violence, leaving the viewer to wonder why Juliana's own fiancé is trying to destroy her.",
+      "cliffhanger_quote": "Harrington! Gerald Harrington paid us!",
+      "why_it_works": "It moves from high-stakes physical action to a shocking emotional betrayal in one continuous, escalating sequence.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A thug telling a man to move aside.",
+      "hook": 4,
+      "understood": "A man is protecting a woman from three thugs and easily defeats them.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Who sent the thugs?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The fight choreography is a bit stiff.",
+      "blind_label": "M"
+    },
+    "quality": 63.7,
+    "penalty": 0,
+    "score": 63.7,
+    "rank": 19,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E11-821b6b",
+    "episode": 11,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "The Planted Evidence",
+    "hook": "Gerald immediately accuses the hero of theft, creating instant conflict.",
+    "hook_line": "L016",
+    "hook_quote": "Your husband stole my gold pocket watch!",
+    "cliffhanger": "The stolen watch is revealed, leaving the viewer wondering if Alexander will be arrested.",
+    "cliffhanger_line": "L085",
+    "cliffhanger_quote": "",
+    "why_it_works": "It cuts straight to the accusation and the inevitable reveal of the planted evidence, creating a high-stakes moment of betrayal and legal peril.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 11,
+        "start_ms": 16800,
+        "end_ms": 37100,
+        "start_line": "L016",
+        "end_line": "L032",
+        "adjustments": []
+      },
+      {
+        "episode": 11,
+        "start_ms": 89800,
+        "end_ms": 112750,
+        "start_line": "L075",
+        "end_line": "L085",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 43250,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "The Planted Evidence",
+      "segments": [
+        {
+          "start_line": "L016",
+          "end_line": "L032"
+        },
+        {
+          "start_line": "L075",
+          "end_line": "L085"
+        }
+      ],
+      "hook_line": "L016",
+      "hook": "Gerald immediately accuses the hero of theft, creating instant conflict.",
+      "hook_quote": "Your husband stole my gold pocket watch!",
+      "cliffhanger_line": "L085",
+      "cliffhanger": "The stolen watch is revealed, leaving the viewer wondering if Alexander will be arrested.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It cuts straight to the accusation and the inevitable reveal of the planted evidence, creating a high-stakes moment of betrayal and legal peril.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man accusing another of stealing a watch.",
+      "hook": 3,
+      "understood": "A man is framing another for theft by planting a watch in his coat.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will they be arrested?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Very predictable plot.",
+      "blind_label": "N"
+    },
+    "quality": 63.7,
+    "penalty": 0,
+    "score": 63.7,
+    "rank": 20,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E27-823996",
+    "episode": 27,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Framed for Poisoning",
+    "hook": "Lady Catherine shrieks in feigned horror, instantly turning the tables on Juliana and framing her for a crime she is trying to prevent.",
+    "hook_line": "L079",
+    "hook_quote": "You hear that?!",
+    "cliffhanger": "Juliana is dragged away in terror, realizing the trap has snapped shut and she is powerless to save the Duchess.",
+    "cliffhanger_line": "L095",
+    "cliffhanger_quote": "",
+    "why_it_works": "The rapid escalation from accusation to arrest creates immediate sympathy for the underdog and hatred for the villains.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 27,
+        "start_ms": 122800,
+        "end_ms": 150500,
+        "start_line": "L078",
+        "end_line": "L095",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 27700,
+    "problems": [],
+    "flags": [
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "Framed for Poisoning",
+      "segments": [
+        {
+          "start_line": "L078",
+          "end_line": "L095"
+        }
+      ],
+      "hook_line": "L079",
+      "hook": "Lady Catherine shrieks in feigned horror, instantly turning the tables on Juliana and framing her for a crime she is trying to prevent.",
+      "hook_quote": "You hear that?!",
+      "cliffhanger_line": "L095",
+      "cliffhanger": "Juliana is dragged away in terror, realizing the trap has snapped shut and she is powerless to save the Duchess.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The rapid escalation from accusation to arrest creates immediate sympathy for the underdog and hatred for the villains.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman shrieking at a guard.",
+      "hook": 3,
+      "understood": "Catherine is framing a maid for poisoning a Duchess by twisting her words.",
+      "confusions": "Why is the nobleman so easily convinced?",
+      "standalone": 4,
+      "open_question": "Will the maid be saved from the guards?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Predictable villainy.",
+      "blind_label": "F"
+    },
+    "quality": 63.7,
+    "penalty": 0,
+    "score": 63.7,
+    "rank": 21,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E43-eba410",
+    "episode": 43,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "The Treason Exposed",
+    "hook": "Rupert's hysterical denial of the truth creates an immediate sense of chaos and high-stakes confrontation.",
+    "hook_line": "L002",
+    "hook_quote": "You're lying!",
+    "cliffhanger": "Lord Sterling is cornered by the law, leaving the viewer to wonder if he will finally face justice.",
+    "cliffhanger_line": "L087",
+    "cliffhanger_quote": "",
+    "why_it_works": "It highlights the villain's rapid descent from power to panic, ending on a high-tension capture moment.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 43,
+        "start_ms": 600,
+        "end_ms": 16200,
+        "start_line": "L002",
+        "end_line": "L012",
+        "adjustments": []
+      },
+      {
+        "episode": 43,
+        "start_ms": 99800,
+        "end_ms": 114960,
+        "start_line": "L077",
+        "end_line": "L087",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 30760,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "The Treason Exposed",
+      "segments": [
+        {
+          "start_line": "L002",
+          "end_line": "L012"
+        },
+        {
+          "start_line": "L077",
+          "end_line": "L087"
+        }
+      ],
+      "hook_line": "L002",
+      "hook": "Rupert's hysterical denial of the truth creates an immediate sense of chaos and high-stakes confrontation.",
+      "hook_quote": "You're lying!",
+      "cliffhanger_line": "L087",
+      "cliffhanger": "Lord Sterling is cornered by the law, leaving the viewer to wonder if he will finally face justice.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It highlights the villain's rapid descent from power to panic, ending on a high-tension capture moment.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man screams 'You're lying!'",
+      "hook": 3,
+      "understood": "A man is being accused of being an imposter, but the guards refuse to arrest him.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What will happen to the Lord who is trying to escape?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "The transition to the escape scene is a bit jarring.",
+      "blind_label": "G"
+    },
+    "quality": 63.7,
+    "penalty": 0,
+    "score": 63.7,
+    "rank": 22,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E28-758f67",
+    "episode": 28,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Identity Revealed",
+    "hook": "Catherine finds the herbarium, immediately shifting the power dynamic as she discovers the secret identity of the 'maid'.",
+    "hook_line": "L065",
+    "hook_quote": "",
+    "cliffhanger": "Juliana is dragged into the dark, her secret exposed and her fate sealed, leaving the viewer desperate to see if she survives.",
+    "cliffhanger_line": "L096",
+    "cliffhanger_quote": "",
+    "why_it_works": "The reveal of her true identity combined with the threat of the gallows creates a perfect 'all is lost' moment.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 28,
+        "start_ms": 86500,
+        "end_ms": 138500,
+        "start_line": "L065",
+        "end_line": "L096",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 52000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Identity Revealed",
+      "segments": [
+        {
+          "start_line": "L065",
+          "end_line": "L096"
+        }
+      ],
+      "hook_line": "L065",
+      "hook": "Catherine finds the herbarium, immediately shifting the power dynamic as she discovers the secret identity of the 'maid'.",
+      "hook_quote": "",
+      "cliffhanger_line": "L096",
+      "cliffhanger": "Juliana is dragged into the dark, her secret exposed and her fate sealed, leaving the viewer desperate to see if she survives.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The reveal of her true identity combined with the threat of the gallows creates a perfect 'all is lost' moment.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A woman walking toward a book on the floor.",
+      "hook": 2,
+      "understood": "Catherine discovers Juliana's true identity through a book and plans to have her hanged.",
+      "confusions": "None.",
+      "standalone": 5,
+      "open_question": "Will Juliana survive the execution?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Too long.",
+      "blind_label": "M"
+    },
+    "quality": 62.5,
+    "penalty": 0,
+    "score": 62.5,
+    "rank": 23,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 4/5, stands alone 5/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E03-0d9316",
+    "episode": 3,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Stranger Demands Rescue and Proposes",
+    "hook": "A thunderous voice orders guards to unhand a bride being dragged away, instantly stopping viewers with high-stakes action.",
+    "hook_line": "L059",
+    "hook_quote": "Take your hands off her.",
+    "cliffhanger": "A rugged stranger drops to one knee before an abandoned bride and asks for her hand in marriage.",
+    "cliffhanger_line": "L116",
+    "cliffhanger_quote": "Lady Juliana... accept my hand.",
+    "why_it_works": "It pairs an explosive action fight rescue with an incredibly high-concept romantic proposal cliffhanger that leaves viewers desperate to know if she accepts.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 3,
+        "start_ms": 69900,
+        "end_ms": 85500,
+        "start_line": "L059",
+        "end_line": "L072",
+        "adjustments": []
+      },
+      {
+        "episode": 3,
+        "start_ms": 119800,
+        "end_ms": 145750,
+        "start_line": "L101",
+        "end_line": "L117",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 41550,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Stranger Demands Rescue and Proposes",
+      "segments": [
+        {
+          "start_line": "L059",
+          "end_line": "L072"
+        },
+        {
+          "start_line": "L101",
+          "end_line": "L117"
+        }
+      ],
+      "hook_line": "L059",
+      "hook": "A thunderous voice orders guards to unhand a bride being dragged away, instantly stopping viewers with high-stakes action.",
+      "hook_quote": "Take your hands off her.",
+      "cliffhanger_line": "L116",
+      "cliffhanger": "A rugged stranger drops to one knee before an abandoned bride and asks for her hand in marriage.",
+      "cliffhanger_quote": "Lady Juliana... accept my hand.",
+      "why_it_works": "It pairs an explosive action fight rescue with an incredibly high-concept romantic proposal cliffhanger that leaves viewers desperate to know if she accepts.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A bearded man commands 'Take your hands off her' walking down a church aisle as a matriarch yells back.",
+      "hook": 4,
+      "understood": "A stranger interrupts a church confrontation, knocks out an aggressive guard, and suddenly offers a marriage proposal to a heartbroken woman.",
+      "confusions": "Why a complete stranger is offering her a wedding ring on the spot.",
+      "standalone": 4,
+      "open_question": "Will Juliana accept the strange man's unexpected marriage proposal?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Overly melodramatic and cheesy proposal turn.",
+      "blind_label": "A"
+    },
+    "quality": 63.7,
+    "penalty": 2,
+    "score": 61.7,
+    "rank": 24,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E13-c63e9b",
+    "episode": 13,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "The Price of Freedom",
+    "hook": "A macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand immediately establishes the stakes and the brutality.",
+    "hook_line": "L045",
+    "hook_quote": "",
+    "cliffhanger": "Juliana finally finds the ring, but her hand is bloodied and trapped, leaving the viewer wondering if she will survive the ordeal.",
+    "cliffhanger_line": "L075",
+    "cliffhanger_quote": "",
+    "why_it_works": "It focuses on the visceral physical conflict and the immediate, high-stakes goal, creating instant tension for a new viewer.",
+    "setup_needed": "None",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 13,
+        "start_ms": 67500,
+        "end_ms": 118880,
+        "start_line": "L045",
+        "end_line": "L075",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 51380,
+    "problems": [],
+    "flags": [
+      "long_silent_tail",
+      "no_speech_or_action_in_first_3s",
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "The Price of Freedom",
+      "segments": [
+        {
+          "start_line": "L045",
+          "end_line": "L075"
+        }
+      ],
+      "hook_line": "L045",
+      "hook": "A macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand immediately establishes the stakes and the brutality.",
+      "hook_quote": "",
+      "cliffhanger_line": "L075",
+      "cliffhanger": "Juliana finally finds the ring, but her hand is bloodied and trapped, leaving the viewer wondering if she will survive the ordeal.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It focuses on the visceral physical conflict and the immediate, high-stakes goal, creating instant tension for a new viewer.",
+      "setup_needed": "None",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A needle stabbing into a hand with a gross sound effect.",
+      "hook": 4,
+      "understood": "A woman is suffering through thorns to find a ring while her husband watches in agony.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will she make it out?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Excessive gore/pain focus.",
+      "blind_label": "M"
+    },
+    "quality": 71.2,
+    "penalty": 12,
+    "score": 59.2,
+    "rank": 25,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 4/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E10-3b59b1",
+    "episode": 10,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Bleeding Return and Scar Reveal",
+    "hook": "A cottage door suddenly bangs open as a scarred man stands panting in the doorway, clutching his blood-soaked chest.",
+    "hook_line": "L003",
+    "hook_quote": "",
+    "cliffhanger": "Juliana gasps in shock as she sees the horrific extent of his battle scars and fresh bleeding wounds.",
+    "cliffhanger_line": "L030",
+    "cliffhanger_quote": "Dear God.",
+    "why_it_works": "Establishes immediate life-or-death urgency and physical drama as Juliana takes charge of her wounded husband.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 10,
+        "start_ms": 2100,
+        "end_ms": 39200,
+        "start_line": "L003",
+        "end_line": "L030",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37100,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Bleeding Return and Scar Reveal",
+      "segments": [
+        {
+          "start_line": "L003",
+          "end_line": "L030"
+        }
+      ],
+      "hook_line": "L003",
+      "hook": "A cottage door suddenly bangs open as a scarred man stands panting in the doorway, clutching his blood-soaked chest.",
+      "hook_quote": "",
+      "cliffhanger_line": "L030",
+      "cliffhanger": "Juliana gasps in shock as she sees the horrific extent of his battle scars and fresh bleeding wounds.",
+      "cliffhanger_quote": "Dear God.",
+      "why_it_works": "Establishes immediate life-or-death urgency and physical drama as Juliana takes charge of her wounded husband.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A loud door slam and a guy walking in bleeding.",
+      "hook": 4,
+      "understood": "A woman is tending to a man who has been injured in a fight or accident.",
+      "confusions": "Who they are to each other and why he is so secretive about his wounds.",
+      "standalone": 3,
+      "open_question": "What happened to him and why is he so scarred?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Generic historical romance tropes.",
+      "blind_label": "A"
+    },
+    "quality": 57.5,
+    "penalty": 0,
+    "score": 57.5,
+    "rank": 26,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 3/5, stands alone 3/5, would tap 3/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E05-d2e741",
+    "episode": 5,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Choose Your Next Words",
+    "hook": "Juliana desperately pleads for her mother's heirloom right before her stepmother violently snatches it and throws it into the wet mud.",
+    "hook_line": "L028",
+    "hook_quote": "It belonged to my mother! It is all I have left of her.",
+    "cliffhanger": "Juliana's mysterious new husband gazes up at Gerald with a deadly, quiet intensity and warns him to choose his next words carefully after he mocks her.",
+    "cliffhanger_line": "L058",
+    "cliffhanger_quote": "Choose your next words carefully.",
+    "why_it_works": "It packs emotional cruelty, physical humiliation, tender support, and a thrilling dangerous warning into a single high-tension arc.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 5,
+        "start_ms": 49000,
+        "end_ms": 101500,
+        "start_line": "L028",
+        "end_line": "L058",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 52500,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Choose Your Next Words",
+      "segments": [
+        {
+          "start_line": "L028",
+          "end_line": "L058"
+        }
+      ],
+      "hook_line": "L028",
+      "hook": "Juliana desperately pleads for her mother's heirloom right before her stepmother violently snatches it and throws it into the wet mud.",
+      "hook_quote": "It belonged to my mother! It is all I have left of her.",
+      "cliffhanger_line": "L058",
+      "cliffhanger": "Juliana's mysterious new husband gazes up at Gerald with a deadly, quiet intensity and warns him to choose his next words carefully after he mocks her.",
+      "cliffhanger_quote": "Choose your next words carefully.",
+      "why_it_works": "It packs emotional cruelty, physical humiliation, tender support, and a thrilling dangerous warning into a single high-tension arc.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A woman crying about her mother's book while a mean lady grabs it.",
+      "hook": 3,
+      "understood": "A woman is being bullied by her family and a man steps in to defend her.",
+      "confusions": "Who is the bearded man? Why is she wearing a wedding dress in the rain?",
+      "standalone": 3,
+      "open_question": "Will the bearded man actually fight the guy on the stairs?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Overly dramatic soap opera acting.",
+      "blind_label": "A"
+    },
+    "quality": 57.5,
+    "penalty": 0,
+    "score": 57.5,
+    "rank": 27,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 3/5, would tap 3/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E09-e35347",
+    "episode": 9,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "A Desperate Mother's Plea",
+    "hook": "A sobbing mother bursts in begging to save her feverish child, creating immediate life-or-death emotional urgency.",
+    "hook_line": "L009",
+    "hook_quote": "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!",
+    "cliffhanger": "Juliana administers the herbal brew, but the boy remains unmoving as the mother cries out in panic, leaving his survival unresolved.",
+    "cliffhanger_line": "L042",
+    "cliffhanger_quote": "Why isn't it working?",
+    "why_it_works": "It delivers strong emotional stakes and medical suspense that cuts at the moment of highest anxiety.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 9,
+        "start_ms": 6300,
+        "end_ms": 54000,
+        "start_line": "L009",
+        "end_line": "L042",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 47700,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "A Desperate Mother's Plea",
+      "segments": [
+        {
+          "start_line": "L009",
+          "end_line": "L042"
+        }
+      ],
+      "hook_line": "L009",
+      "hook": "A sobbing mother bursts in begging to save her feverish child, creating immediate life-or-death emotional urgency.",
+      "hook_quote": "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!",
+      "cliffhanger_line": "L042",
+      "cliffhanger": "Juliana administers the herbal brew, but the boy remains unmoving as the mother cries out in panic, leaving his survival unresolved.",
+      "cliffhanger_quote": "Why isn't it working?",
+      "why_it_works": "It delivers strong emotional stakes and medical suspense that cuts at the moment of highest anxiety.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A frantic, weeping peasant woman begging for help because her boy has a fever.",
+      "hook": 3,
+      "understood": "A mother brings her feverish child to a healer named Juliana who attempts to cure him with natural remedies.",
+      "confusions": "None really, it's a straightforward medical drama scene.",
+      "standalone": 4,
+      "open_question": "Will the boy survive despite the mother's panic?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit too long and melodramatic.",
+      "blind_label": "D"
+    },
+    "quality": 56.2,
+    "penalty": 0,
+    "score": 56.2,
+    "rank": 28,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E42-590aa7",
+    "episode": 42,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Duke Returns",
+    "hook": "A nobleman is confronted by a mysterious, powerful figure who claims his rightful place, sparking immediate conflict.",
+    "hook_line": "L003",
+    "hook_quote": "Who are you?",
+    "cliffhanger": "Alexander vows to settle the score, leaving the viewer anticipating the inevitable confrontation.",
+    "cliffhanger_line": "L037",
+    "cliffhanger_quote": "And now, Rupert... we settle what you stole.",
+    "why_it_works": "The 'return from the dead' trope combined with the immediate shift in power dynamics is highly engaging.",
+    "setup_needed": "None",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 42,
+        "start_ms": 11200,
+        "end_ms": 17900,
+        "start_line": "L003",
+        "end_line": "L008",
+        "adjustments": []
+      },
+      {
+        "episode": 42,
+        "start_ms": 64200,
+        "end_ms": 77800,
+        "start_line": "L034",
+        "end_line": "L037",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 20300,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Duke Returns",
+      "segments": [
+        {
+          "start_line": "L003",
+          "end_line": "L008"
+        },
+        {
+          "start_line": "L034",
+          "end_line": "L037"
+        }
+      ],
+      "hook_line": "L003",
+      "hook": "A nobleman is confronted by a mysterious, powerful figure who claims his rightful place, sparking immediate conflict.",
+      "hook_quote": "Who are you?",
+      "cliffhanger_line": "L037",
+      "cliffhanger": "Alexander vows to settle the score, leaving the viewer anticipating the inevitable confrontation.",
+      "cliffhanger_quote": "And now, Rupert... we settle what you stole.",
+      "why_it_works": "The 'return from the dead' trope combined with the immediate shift in power dynamics is highly engaging.",
+      "setup_needed": "None",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man asks 'Who are you?'",
+      "hook": 3,
+      "understood": "A man has returned to reclaim his title and save a woman.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "What is the revenge he is planning?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "Short and lacks depth.",
+      "blind_label": "N"
+    },
+    "quality": 56.2,
+    "penalty": 0,
+    "score": 56.2,
+    "rank": 29,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E47-e69de7",
+    "episode": 47,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "From Duchess To Maid",
+    "hook": "Lady Ashbourne confronts a mud-caked, weeping Catherine, instantly showing the reversal of power and the antagonist's total defeat.",
+    "hook_line": "L027",
+    "hook_quote": "You dare show your face in Ashbourne courtyard?",
+    "cliffhanger": "Catherine is forced to prostrate herself on the floor in total submission, leaving the viewer to wonder if her defeat is genuine.",
+    "cliffhanger_line": "L069",
+    "cliffhanger_quote": "I accept, Your Grace.",
+    "why_it_works": "The ultimate humiliation of a villain is a classic hook, and the visual of her scrubbing floors provides a satisfying payoff.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 47,
+        "start_ms": 56800,
+        "end_ms": 67000,
+        "start_line": "L026",
+        "end_line": "L031",
+        "adjustments": []
+      },
+      {
+        "episode": 47,
+        "start_ms": 88000,
+        "end_ms": 134000,
+        "start_line": "L046",
+        "end_line": "L070",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 56200,
+    "problems": [],
+    "flags": [
+      "cliffhanger_line_aligned_to_quote",
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "From Duchess To Maid",
+      "segments": [
+        {
+          "start_line": "L026",
+          "end_line": "L031"
+        },
+        {
+          "start_line": "L046",
+          "end_line": "L070"
+        }
+      ],
+      "hook_line": "L027",
+      "hook": "Lady Ashbourne confronts a mud-caked, weeping Catherine, instantly showing the reversal of power and the antagonist's total defeat.",
+      "hook_quote": "You dare show your face in Ashbourne courtyard?",
+      "cliffhanger_line": "L069",
+      "cliffhanger": "Catherine is forced to prostrate herself on the floor in total submission, leaving the viewer to wonder if her defeat is genuine.",
+      "cliffhanger_quote": "I accept, Your Grace.",
+      "why_it_works": "The ultimate humiliation of a villain is a classic hook, and the visual of her scrubbing floors provides a satisfying payoff.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman with a cane is yelling at a woman kneeling in the mud.",
+      "hook": 3,
+      "understood": "A disgraced woman named Catherine is begging for mercy from a powerful woman, and is being forced to become a servant to stay.",
+      "confusions": "Who is Juliana and why does she have the authority to override the older woman?",
+      "standalone": 4,
+      "open_question": "Will Catherine actually go through with being a servant, or will she plot revenge?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit melodramatic and slow-paced.",
+      "blind_label": "A"
+    },
+    "quality": 56.2,
+    "penalty": 0,
+    "score": 56.2,
+    "rank": 30,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E34-897461",
+    "episode": 34,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "Trial of the Witch",
+    "hook": "The Judge immediately charges the protagonist with witchcraft and poisoning, setting the stakes of a death sentence.",
+    "hook_line": "L002",
+    "hook_quote": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+    "cliffhanger": "The Judge raises his hand to deliver the final sentence; will she be condemned to death?",
+    "cliffhanger_line": "L116",
+    "cliffhanger_quote": "",
+    "why_it_works": "The immediate accusation combined with the impending final judgment creates a high-stakes courtroom drama that forces the viewer to wonder about the protagonist's fate.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 34,
+        "start_ms": 0,
+        "end_ms": 15500,
+        "start_line": "L001",
+        "end_line": "L008",
+        "adjustments": []
+      },
+      {
+        "episode": 34,
+        "start_ms": 177800,
+        "end_ms": 190000,
+        "start_line": "L111",
+        "end_line": "L116",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 27700,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "Trial of the Witch",
+      "segments": [
+        {
+          "start_line": "L001",
+          "end_line": "L008"
+        },
+        {
+          "start_line": "L111",
+          "end_line": "L116"
+        }
+      ],
+      "hook_line": "L002",
+      "hook": "The Judge immediately charges the protagonist with witchcraft and poisoning, setting the stakes of a death sentence.",
+      "hook_quote": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+      "cliffhanger_line": "L116",
+      "cliffhanger": "The Judge raises his hand to deliver the final sentence; will she be condemned to death?",
+      "cliffhanger_quote": "",
+      "why_it_works": "The immediate accusation combined with the impending final judgment creates a high-stakes courtroom drama that forces the viewer to wonder about the protagonist's fate.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A wide shot of a courtroom with a woman in a prisoner's dock.",
+      "hook": 2,
+      "understood": "A woman named Lady Juliana is on trial for witchcraft and is being confronted with a book of spells.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "What is the final sentence the judge is about to pronounce?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "A bit generic courtroom drama.",
+      "blind_label": "B"
+    },
+    "quality": 56.2,
+    "penalty": 0,
+    "score": 56.2,
+    "rank": 31,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 4/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E37-b1c96e",
+    "episode": 37,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Execution Invitation",
+    "hook": "Rupert chillingly declares that no one will question what happened to the woman who tried to stop them, immediately establishing the villain's ruthlessness.",
+    "hook_line": "L012",
+    "hook_quote": "And no one will question what happened to the woman who tried to stop us.",
+    "cliffhanger": "Juliana grips the dungeon wall, declaring they cannot take who she is, leaving the viewer questioning if her spirit will break before the execution.",
+    "cliffhanger_line": "L063",
+    "cliffhanger_quote": "They cannot take who I am!",
+    "why_it_works": "It contrasts the villains' arrogance with the heroine's indomitable spirit, creating high tension.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 37,
+        "start_ms": 18800,
+        "end_ms": 46800,
+        "start_line": "L011",
+        "end_line": "L026",
+        "adjustments": []
+      },
+      {
+        "episode": 37,
+        "start_ms": 88000,
+        "end_ms": 116500,
+        "start_line": "L049",
+        "end_line": "L063",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 56500,
+    "problems": [],
+    "flags": [
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "Execution Invitation",
+      "segments": [
+        {
+          "start_line": "L011",
+          "end_line": "L026"
+        },
+        {
+          "start_line": "L049",
+          "end_line": "L063"
+        }
+      ],
+      "hook_line": "L012",
+      "hook": "Rupert chillingly declares that no one will question what happened to the woman who tried to stop them, immediately establishing the villain's ruthlessness.",
+      "hook_quote": "And no one will question what happened to the woman who tried to stop us.",
+      "cliffhanger_line": "L063",
+      "cliffhanger": "Juliana grips the dungeon wall, declaring they cannot take who she is, leaving the viewer questioning if her spirit will break before the execution.",
+      "cliffhanger_quote": "They cannot take who I am!",
+      "why_it_works": "It contrasts the villains' arrogance with the heroine's indomitable spirit, creating high tension.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man leans in with a sinister look.",
+      "hook": 2,
+      "understood": "Villains are planning a wedding and an execution, while the victim suffers in a dungeon.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will she be rescued?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Very long clip.",
+      "blind_label": "I"
+    },
+    "quality": 56.2,
+    "penalty": 0,
+    "score": 56.2,
+    "rank": 32,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 4/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E19-8f7a70",
+    "episode": 19,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "The Duke's Secret War",
+    "hook": "The immediate reveal that the hero's estate and family have been seized by enemies creates instant tension and a clear goal.",
+    "hook_line": "L031",
+    "hook_quote": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff.",
+    "cliffhanger": "The hero's vow of vengeance leaves the audience waiting to see how he will reclaim his stolen life.",
+    "cliffhanger_line": "L050",
+    "cliffhanger_quote": "Then Ashburg will remember who it belongs to.",
+    "why_it_works": "It establishes the hero's motivation and the high stakes of his mission, transforming the story into a compelling revenge drama.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 19,
+        "start_ms": 49500,
+        "end_ms": 89500,
+        "start_line": "L031",
+        "end_line": "L050",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40000,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "The Duke's Secret War",
+      "segments": [
+        {
+          "start_line": "L031",
+          "end_line": "L050"
+        }
+      ],
+      "hook_line": "L031",
+      "hook": "The immediate reveal that the hero's estate and family have been seized by enemies creates instant tension and a clear goal.",
+      "hook_quote": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff.",
+      "cliffhanger_line": "L050",
+      "cliffhanger": "The hero's vow of vengeance leaves the audience waiting to see how he will reclaim his stolen life.",
+      "cliffhanger_quote": "Then Ashburg will remember who it belongs to.",
+      "why_it_works": "It establishes the hero's motivation and the high stakes of his mission, transforming the story into a compelling revenge drama.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "An informant telling a man that Lord Sterling's influence has grown.",
+      "hook": 3,
+      "understood": "A man is gathering information to reclaim his estate from usurpers who think he is dead.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "When will he make his move?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "A bit too much exposition.",
+      "blind_label": "G"
+    },
+    "quality": 56.2,
+    "penalty": 2,
+    "score": 54.2,
+    "rank": 33,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E04-e38da0",
+    "episode": 4,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "It Is a Vow",
+    "hook": "Juliana fiercely rejects pity, declaring she will not become anyone's charity.",
+    "hook_line": "L042",
+    "hook_quote": "I will not become anyone's charity.",
+    "cliffhanger": "The priest completes the unexpected marriage pronouncement.",
+    "cliffhanger_line": "L084",
+    "cliffhanger_quote": "...husband and wife!",
+    "why_it_works": "Shows the emotional transition from Juliana's defensive pride to her solemn acceptance and sudden altar marriage.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 4,
+        "start_ms": 56800,
+        "end_ms": 114800,
+        "start_line": "L042",
+        "end_line": "L084",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 58000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "It Is a Vow",
+      "segments": [
+        {
+          "start_line": "L042",
+          "end_line": "L084"
+        }
+      ],
+      "hook_line": "L042",
+      "hook": "Juliana fiercely rejects pity, declaring she will not become anyone's charity.",
+      "hook_quote": "I will not become anyone's charity.",
+      "cliffhanger_line": "L084",
+      "cliffhanger": "The priest completes the unexpected marriage pronouncement.",
+      "cliffhanger_quote": "...husband and wife!",
+      "why_it_works": "Shows the emotional transition from Juliana's defensive pride to her solemn acceptance and sudden altar marriage.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Juliana fiercely stating 'I will not become anyone's charity' right off the bat.",
+      "hook": 4,
+      "understood": "Juliana is offered a vow by a mysterious bearded man, accepts his proposal, and completes the wedding ceremony despite family disapproval.",
+      "confusions": "none",
+      "standalone": 5,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 3,
+      "main_problem": "Ends right as they are declared husband and wife, completely cutting out the dramatic fallout or conflict.",
+      "blind_label": "D"
+    },
+    "quality": 55.0,
+    "penalty": 2,
+    "score": 53.0,
+    "rank": 34,
+    "why_ranked": "Cold viewer: hook 4/5, cliffhanger 1/5, stands alone 5/5, would tap 3/5. early-episode setup matches where a new viewer starts.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E45-c43560",
+    "episode": 45,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Invalid Marriage",
+    "hook": "A powerful authority figure interrupts a triumphant moment, creating immediate tension.",
+    "hook_line": "L060",
+    "hook_quote": "No one will bow yet!",
+    "cliffhanger": "Catherine smiles as the marriage is invalidated, leaving the viewer to wonder if the couple will be separated.",
+    "cliffhanger_line": "L074",
+    "cliffhanger_quote": "",
+    "why_it_works": "The sudden reversal of fortune from a high point to a devastating legal blow is a classic drama hook.",
+    "setup_needed": "None",
+    "spoiler_risk": "medium",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 45,
+        "start_ms": 88400,
+        "end_ms": 101200,
+        "start_line": "L060",
+        "end_line": "L064",
+        "adjustments": []
+      },
+      {
+        "episode": 45,
+        "start_ms": 109000,
+        "end_ms": 121750,
+        "start_line": "L070",
+        "end_line": "L074",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 25550,
+    "problems": [],
+    "flags": [
+      "long_silent_tail"
+    ],
+    "raw": {
+      "title": "The Invalid Marriage",
+      "segments": [
+        {
+          "start_line": "L060",
+          "end_line": "L064"
+        },
+        {
+          "start_line": "L070",
+          "end_line": "L074"
+        }
+      ],
+      "hook_line": "L060",
+      "hook": "A powerful authority figure interrupts a triumphant moment, creating immediate tension.",
+      "hook_quote": "No one will bow yet!",
+      "cliffhanger_line": "L074",
+      "cliffhanger": "Catherine smiles as the marriage is invalidated, leaving the viewer to wonder if the couple will be separated.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The sudden reversal of fortune from a high point to a devastating legal blow is a classic drama hook.",
+      "setup_needed": "None",
+      "spoiler_risk": "medium",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man in robes shouts 'No one will bow yet!'",
+      "hook": 3,
+      "understood": "A priest is interrupting a wedding, claiming the groom isn't legally married to the bride.",
+      "confusions": "Who are the people in the pews and why is the woman under the veil smiling?",
+      "standalone": 3,
+      "open_question": "Why is the woman under the veil happy about the marriage being called off?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "Lack of context for the characters' motivations.",
+      "blind_label": "A"
+    },
+    "quality": 57.5,
+    "penalty": 6,
+    "score": 51.5,
+    "rank": 35,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 4/5, stands alone 3/5, would tap 3/5.",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E24-69a2cd",
+    "episode": 24,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "The Maid's Secret",
+    "hook": "The noblewoman forces Juliana to clean the filth, establishing the humiliation she must endure.",
+    "hook_line": "L041",
+    "hook_quote": "Clean it.",
+    "cliffhanger": "Juliana vows to return, leaving the viewer anticipating her next move against her tormentor.",
+    "cliffhanger_line": "L069",
+    "cliffhanger_quote": "I will return. You cannot stop the healer.",
+    "why_it_works": "It highlights the underdog's resilience and the secret power she holds (the antidote) despite her current status.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 24,
+        "start_ms": 53600,
+        "end_ms": 92000,
+        "start_line": "L041",
+        "end_line": "L069",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38400,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Maid's Secret",
+      "segments": [
+        {
+          "start_line": "L041",
+          "end_line": "L069"
+        }
+      ],
+      "hook_line": "L041",
+      "hook": "The noblewoman forces Juliana to clean the filth, establishing the humiliation she must endure.",
+      "hook_quote": "Clean it.",
+      "cliffhanger_line": "L069",
+      "cliffhanger": "Juliana vows to return, leaving the viewer anticipating her next move against her tormentor.",
+      "cliffhanger_quote": "I will return. You cannot stop the healer.",
+      "why_it_works": "It highlights the underdog's resilience and the secret power she holds (the antidote) despite her current status.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A harsh noblewoman demands a servant clean a filthy hearth.",
+      "hook": 3,
+      "understood": "A noblewoman is bullying a servant named Juliana, who is secretly a healer hiding a book and vial.",
+      "confusions": "Why Juliana is hiding her identity and why she is so determined to stay.",
+      "standalone": 3,
+      "open_question": "Will Juliana be able to use her secret medicine without being caught?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The dialogue feels a bit melodramatic and cliché.",
+      "blind_label": "A"
+    },
+    "quality": 50.0,
+    "penalty": 0,
+    "score": 50.0,
+    "rank": 36,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 3/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "good"
+  },
+  {
+    "promo_id": "E24-01e5d1",
+    "episode": 24,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Whipped for Mercy",
+    "hook": "The noblewoman demands to know who Juliana is, immediately creating a power imbalance and threat.",
+    "hook_line": "L006",
+    "hook_quote": "Who are you?",
+    "cliffhanger": "Juliana is forced to submit after being whipped, leaving the viewer wanting to see her take revenge.",
+    "cliffhanger_line": "L034",
+    "cliffhanger_quote": "Yes, my lady.",
+    "why_it_works": "The visceral cruelty of the whip strike is a classic, effective hook for microdrama audiences.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 24,
+        "start_ms": 6800,
+        "end_ms": 45500,
+        "start_line": "L006",
+        "end_line": "L034",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 38700,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Whipped for Mercy",
+      "segments": [
+        {
+          "start_line": "L006",
+          "end_line": "L034"
+        }
+      ],
+      "hook_line": "L006",
+      "hook": "The noblewoman demands to know who Juliana is, immediately creating a power imbalance and threat.",
+      "hook_quote": "Who are you?",
+      "cliffhanger_line": "L034",
+      "cliffhanger": "Juliana is forced to submit after being whipped, leaving the viewer wanting to see her take revenge.",
+      "cliffhanger_quote": "Yes, my lady.",
+      "why_it_works": "The visceral cruelty of the whip strike is a classic, effective hook for microdrama audiences.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A noblewoman aggressively questions a new maid.",
+      "hook": 2,
+      "understood": "A maid is trying to help a sick Duchess, but a cruel noblewoman is preventing it and physically abusing the maid.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will the maid be able to help the Duchess despite the noblewoman's interference?",
+      "cliffhanger": 3,
+      "tap_to_watch": 3,
+      "main_problem": "The villain is a bit one-dimensional in her cruelty.",
+      "blind_label": "B"
+    },
+    "quality": 48.7,
+    "penalty": 0,
+    "score": 48.7,
+    "rank": 37,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 3/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E49-946438",
+    "episode": 49,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Treason In The Shadows",
+    "hook": "A clandestine meeting between a disgraced bride and a priest in a dark, abandoned hallway immediately signals a forbidden conspiracy.",
+    "hook_line": "L005",
+    "hook_quote": "You took your time.",
+    "cliffhanger": "The two conspirators share an intimate, illicit touch, leaving the viewer questioning the true depth of their relationship.",
+    "cliffhanger_line": "L063",
+    "cliffhanger_quote": "",
+    "why_it_works": "The combination of political treason and forbidden romance is a high-performing trope for this genre.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 49,
+        "start_ms": 5400,
+        "end_ms": 19800,
+        "start_line": "L005",
+        "end_line": "L010",
+        "adjustments": []
+      },
+      {
+        "episode": 49,
+        "start_ms": 104200,
+        "end_ms": 144750,
+        "start_line": "L046",
+        "end_line": "L063",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 54950,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Treason In The Shadows",
+      "segments": [
+        {
+          "start_line": "L005",
+          "end_line": "L010"
+        },
+        {
+          "start_line": "L046",
+          "end_line": "L063"
+        }
+      ],
+      "hook_line": "L005",
+      "hook": "A clandestine meeting between a disgraced bride and a priest in a dark, abandoned hallway immediately signals a forbidden conspiracy.",
+      "hook_quote": "You took your time.",
+      "cliffhanger_line": "L063",
+      "cliffhanger": "The two conspirators share an intimate, illicit touch, leaving the viewer questioning the true depth of their relationship.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The combination of political treason and forbidden romance is a high-performing trope for this genre.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A woman is talking to a hooded priest in a dark room.",
+      "hook": 2,
+      "understood": "Catherine is conspiring with a priest against a Duke.",
+      "confusions": "What is the nature of their relationship? It seems romantic but also transactional.",
+      "standalone": 3,
+      "open_question": "Will the priest get caught?",
+      "cliffhanger": 4,
+      "tap_to_watch": 3,
+      "main_problem": "The dialogue is a bit too 'period drama cliché'.",
+      "blind_label": "D"
+    },
+    "quality": 50.0,
+    "penalty": 2,
+    "score": 48.0,
+    "rank": 38,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 4/5, stands alone 3/5, would tap 3/5.",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E12-e723cb",
+    "episode": 12,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Sadistic Ultimatum",
+    "hook": "Clarissa whispers a cruel, life-or-death threat directly into Juliana's ear.",
+    "hook_line": "L045",
+    "hook_quote": "Fail, or refuse, and your husband hangs from the gallows.",
+    "cliffhanger": "Juliana agrees to the impossible task, leaving the viewer to wonder if she will survive the thorns.",
+    "cliffhanger_line": "L054",
+    "cliffhanger_quote": "Tell me where the garden is.",
+    "why_it_works": "It presents a high-stakes, visceral choice that forces the protagonist into a dangerous situation.",
+    "setup_needed": "None",
+    "spoiler_risk": "low",
+    "self_score": 10,
+    "segments": [
+      {
+        "episode": 12,
+        "start_ms": 65200,
+        "end_ms": 87210,
+        "start_line": "L044",
+        "end_line": "L055",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 22010,
+    "problems": [],
+    "flags": [
+      "cliffhanger_line_aligned_to_quote",
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "The Sadistic Ultimatum",
+      "segments": [
+        {
+          "start_line": "L044",
+          "end_line": "L055"
+        }
+      ],
+      "hook_line": "L045",
+      "hook": "Clarissa whispers a cruel, life-or-death threat directly into Juliana's ear.",
+      "hook_quote": "Fail, or refuse, and your husband hangs from the gallows.",
+      "cliffhanger_line": "L054",
+      "cliffhanger": "Juliana agrees to the impossible task, leaving the viewer to wonder if she will survive the thorns.",
+      "cliffhanger_quote": "Tell me where the garden is.",
+      "why_it_works": "It presents a high-stakes, visceral choice that forces the protagonist into a dangerous situation.",
+      "setup_needed": "None",
+      "spoiler_risk": "low",
+      "self_score": 10
+    },
+    "critic": {
+      "first_3s": "A woman whispering a threat about a husband hanging.",
+      "hook": 3,
+      "understood": "A woman is being blackmailed; if she doesn't do a task, her husband will be executed.",
+      "confusions": "What the task is and why they are being targeted.",
+      "standalone": 3,
+      "open_question": "What is the task she is agreeing to?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Melodramatic acting.",
+      "blind_label": "D"
+    },
+    "quality": 46.2,
+    "penalty": 0,
+    "score": 46.2,
+    "rank": 39,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E15-03f792",
+    "episode": 15,
+    "origin": "repaired",
+    "proposer_rank": 1,
+    "title": "Defending The Garden",
+    "hook": "The immediate threat of a club smashing down on the protagonist's garden and her desperate scream create instant, high-stakes tension.",
+    "hook_line": "L042",
+    "hook_quote": "",
+    "cliffhanger": "The scene cuts on a tense musical swell just as the hero is challenged to a fight, leaving the viewer waiting for the first blow.",
+    "cliffhanger_line": "L055",
+    "cliffhanger_quote": "",
+    "why_it_works": "It establishes the threat, the victim's vulnerability, and the hero's arrival to save the day in a tight, fast-paced sequence.",
+    "setup_needed": "None",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 15,
+        "start_ms": 60000,
+        "end_ms": 86000,
+        "start_line": "L042",
+        "end_line": "L055",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 26000,
+    "problems": [],
+    "flags": [
+      "repaired_after_rule_check"
+    ],
+    "raw": {
+      "title": "Defending The Garden",
+      "segments": [
+        {
+          "start_line": "L042",
+          "end_line": "L055"
+        }
+      ],
+      "hook_line": "L042",
+      "hook": "The immediate threat of a club smashing down on the protagonist's garden and her desperate scream create instant, high-stakes tension.",
+      "hook_quote": "",
+      "cliffhanger_line": "L055",
+      "cliffhanger": "The scene cuts on a tense musical swell just as the hero is challenged to a fight, leaving the viewer waiting for the first blow.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It establishes the threat, the victim's vulnerability, and the hero's arrival to save the day in a tight, fast-paced sequence.",
+      "setup_needed": "None",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man with a club is about to hit something, then stops when he hears footsteps.",
+      "hook": 3,
+      "understood": "A woman is being threatened by thugs, and a man named Alexander arrives to defend her.",
+      "confusions": "Why the thugs are attacking her and who Alexander is to her.",
+      "standalone": 3,
+      "open_question": "Will Alexander win the fight against the three thugs?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Generic action trope.",
+      "blind_label": "A"
+    },
+    "quality": 46.2,
+    "penalty": 0,
+    "score": 46.2,
+    "rank": 40,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 3/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E35-710a88",
+    "episode": 35,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Dead Son Returns",
+    "hook": "A mother finds her son, whom she buried years ago, alive in a hidden cabin, creating an immediate emotional mystery.",
+    "hook_line": "L017",
+    "hook_quote": "",
+    "cliffhanger": "The mother realizes the man who was supposed to be dead is standing right in front of her.",
+    "cliffhanger_line": "L027",
+    "cliffhanger_quote": "I buried you.",
+    "why_it_works": "The emotional weight of a 'resurrection' combined with the mystery of his survival is a classic, high-performing trope.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 35,
+        "start_ms": 30800,
+        "end_ms": 55500,
+        "start_line": "L017",
+        "end_line": "L027",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 24700,
+    "problems": [],
+    "flags": [
+      "no_speech_or_action_in_first_3s"
+    ],
+    "raw": {
+      "title": "The Dead Son Returns",
+      "segments": [
+        {
+          "start_line": "L017",
+          "end_line": "L027"
+        }
+      ],
+      "hook_line": "L017",
+      "hook": "A mother finds her son, whom she buried years ago, alive in a hidden cabin, creating an immediate emotional mystery.",
+      "hook_quote": "",
+      "cliffhanger_line": "L027",
+      "cliffhanger": "The mother realizes the man who was supposed to be dead is standing right in front of her.",
+      "cliffhanger_quote": "I buried you.",
+      "why_it_works": "The emotional weight of a 'resurrection' combined with the mystery of his survival is a classic, high-performing trope.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A woman with a lantern enters a room and sees a man.",
+      "hook": 3,
+      "understood": "A mother is shocked to find her son, whom she thought was dead, alive.",
+      "confusions": "none",
+      "standalone": 5,
+      "open_question": "How did he survive and why did she think he was dead?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "Lacks context for why this matters beyond the immediate reunion.",
+      "blind_label": "C"
+    },
+    "quality": 51.2,
+    "penalty": 8,
+    "score": 43.2,
+    "rank": 41,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 2/5, stands alone 5/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E20-0b93e6",
+    "episode": 20,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Villains Plot The Throne",
+    "hook": "The immediate, arrogant taunting between the two villains establishes them as detestable, high-status antagonists.",
+    "hook_line": "L003",
+    "hook_quote": "Two lumps of sugar, Rupert?",
+    "cliffhanger": "Rupert's promise that the peasants will learn their place when Catherine becomes Duchess creates a clear 'us vs. them' conflict.",
+    "cliffhanger_line": "L034",
+    "cliffhanger_quote": "They will learn their place when you wear the ducal crown.",
+    "why_it_works": "It perfectly showcases the villains' cruelty, making the audience root for Juliana and Alexander to take them down.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 20,
+        "start_ms": 2900,
+        "end_ms": 56500,
+        "start_line": "L003",
+        "end_line": "L034",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 53600,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Villains Plot The Throne",
+      "segments": [
+        {
+          "start_line": "L003",
+          "end_line": "L034"
+        }
+      ],
+      "hook_line": "L003",
+      "hook": "The immediate, arrogant taunting between the two villains establishes them as detestable, high-status antagonists.",
+      "hook_quote": "Two lumps of sugar, Rupert?",
+      "cliffhanger_line": "L034",
+      "cliffhanger": "Rupert's promise that the peasants will learn their place when Catherine becomes Duchess creates a clear 'us vs. them' conflict.",
+      "cliffhanger_quote": "They will learn their place when you wear the ducal crown.",
+      "why_it_works": "It perfectly showcases the villains' cruelty, making the audience root for Juliana and Alexander to take them down.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A woman asks a man about sugar in his tea, implying he has recently gained power.",
+      "hook": 2,
+      "understood": "Two people are plotting to take over an estate by ensuring the death of a cousin and an old woman.",
+      "confusions": "None.",
+      "standalone": 4,
+      "open_question": "Will their plan to kill the cousin and the Dowager succeed?",
+      "cliffhanger": 2,
+      "tap_to_watch": 3,
+      "main_problem": "A bit cliché with the 'evil schemers' trope.",
+      "blind_label": "B"
+    },
+    "quality": 41.2,
+    "penalty": 0,
+    "score": 41.2,
+    "rank": 42,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 2/5, stands alone 4/5, would tap 3/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E01-b855be",
+    "episode": 1,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "You Have Nothing to Offer",
+    "hook": "Starts with a sharp, commanding yell shutting down the bride's desperate pleas.",
+    "hook_line": "L064",
+    "hook_quote": "Enough!",
+    "cliffhanger": "The groom delivers the ultimate insult by placing the cruel sister above Juliana in front of everyone.",
+    "cliffhanger_line": "L089",
+    "cliffhanger_quote": "...when Clarissa is the true jewel of the county.",
+    "why_it_works": "Focuses on the brutal family rejection and the groom's callous insult, leaving the viewer desperate for revenge.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 1,
+        "start_ms": 90900,
+        "end_ms": 131300,
+        "start_line": "L064",
+        "end_line": "L089",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40400,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "You Have Nothing to Offer",
+      "segments": [
+        {
+          "start_line": "L064",
+          "end_line": "L089"
+        }
+      ],
+      "hook_line": "L064",
+      "hook": "Starts with a sharp, commanding yell shutting down the bride's desperate pleas.",
+      "hook_quote": "Enough!",
+      "cliffhanger_line": "L089",
+      "cliffhanger": "The groom delivers the ultimate insult by placing the cruel sister above Juliana in front of everyone.",
+      "cliffhanger_quote": "...when Clarissa is the true jewel of the county.",
+      "why_it_works": "Focuses on the brutal family rejection and the groom's callous insult, leaving the viewer desperate for revenge.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Matriarch sternly shouts 'Enough!' to cut off dialogue.",
+      "hook": 3,
+      "understood": "Juliana is berated by her family and her former groom, who turns his back on her to choose Clarissa.",
+      "confusions": "starts mid-argument without clear setup",
+      "standalone": 3,
+      "open_question": "Where does Juliana go from here after being totally disowned?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "heavy dialogue with little plot progression",
+      "blind_label": "E"
+    },
+    "quality": 38.7,
+    "penalty": 0,
+    "score": 38.7,
+    "rank": 43,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 2/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E21-15aef6",
+    "episode": 21,
+    "origin": "proposer",
+    "proposer_rank": 2,
+    "title": "The Duchess is Dying",
+    "hook": "Prudence reveals the wealthy elite's indifference to the dying, immediately framing the class conflict.",
+    "hook_line": "L064",
+    "hook_quote": "At the grand manor, they ignore us. They only care about their own luxury.",
+    "cliffhanger": "Juliana realizes the Duchess is dying, leaving the viewer wondering if she will infiltrate the manor.",
+    "cliffhanger_line": "L076",
+    "cliffhanger_quote": "",
+    "why_it_works": "It pivots from a village crisis to a grand conspiracy, hooking the viewer on the mystery of the Duchess's illness.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 21,
+        "start_ms": 91000,
+        "end_ms": 114000,
+        "start_line": "L064",
+        "end_line": "L076",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 23000,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Duchess is Dying",
+      "segments": [
+        {
+          "start_line": "L064",
+          "end_line": "L076"
+        }
+      ],
+      "hook_line": "L064",
+      "hook": "Prudence reveals the wealthy elite's indifference to the dying, immediately framing the class conflict.",
+      "hook_quote": "At the grand manor, they ignore us. They only care about their own luxury.",
+      "cliffhanger_line": "L076",
+      "cliffhanger": "Juliana realizes the Duchess is dying, leaving the viewer wondering if she will infiltrate the manor.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It pivots from a village crisis to a grand conspiracy, hooking the viewer on the mystery of the Duchess's illness.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "Prudence complains about the wealthy ignoring the poor.",
+      "hook": 2,
+      "understood": "Prudence tells Juliana that the Duchess is dying of a mysterious illness.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Can Juliana save the Duchess?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "The dialogue is very exposition-heavy.",
+      "blind_label": "I"
+    },
+    "quality": 38.7,
+    "penalty": 0,
+    "score": 38.7,
+    "rank": 44,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 3/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E29-3702b2",
+    "episode": 29,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Thrown in the Dungeon",
+    "hook": "The heavy iron door slams shut, sealing Juliana in total darkness and isolation, immediately establishing the stakes of her imprisonment.",
+    "hook_line": "L052",
+    "hook_quote": "",
+    "cliffhanger": "Juliana stands alone in the dark dungeon, her resolve hardening, leaving the viewer wondering how she will ever escape.",
+    "cliffhanger_line": "L074",
+    "cliffhanger_quote": "",
+    "why_it_works": "The transition from total despair to steely resolve provides a compelling character arc in a short window.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 29,
+        "start_ms": 83000,
+        "end_ms": 116690,
+        "start_line": "L052",
+        "end_line": "L074",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 33690,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Thrown in the Dungeon",
+      "segments": [
+        {
+          "start_line": "L052",
+          "end_line": "L074"
+        }
+      ],
+      "hook_line": "L052",
+      "hook": "The heavy iron door slams shut, sealing Juliana in total darkness and isolation, immediately establishing the stakes of her imprisonment.",
+      "hook_quote": "",
+      "cliffhanger_line": "L074",
+      "cliffhanger": "Juliana stands alone in the dark dungeon, her resolve hardening, leaving the viewer wondering how she will ever escape.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The transition from total despair to steely resolve provides a compelling character arc in a short window.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A woman being shoved into a dark cell.",
+      "hook": 2,
+      "understood": "Juliana is imprisoned and desperate to prove she saved a Duchess.",
+      "confusions": "Why is she being blamed for saving someone?",
+      "standalone": 3,
+      "open_question": "Will anyone believe her?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive screaming.",
+      "blind_label": "C"
+    },
+    "quality": 38.7,
+    "penalty": 0,
+    "score": 38.7,
+    "rank": 45,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 3/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E40-627bb1",
+    "episode": 40,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Wedding of the Wicked",
+    "hook": "The elder nobleman smiles with deadly intent, declaring the 'witch' will be dead by sunset, instantly raising the stakes.",
+    "hook_line": "L038",
+    "hook_quote": "And its witch will be dead.",
+    "cliffhanger": "The villains exchange triumphant smiles, completely unaware of the impending doom, creating dramatic irony.",
+    "cliffhanger_line": "L051",
+    "cliffhanger_quote": "",
+    "why_it_works": "The contrast between the villains' smugness and the audience's knowledge of Alexander's arrival creates extreme tension.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 40,
+        "start_ms": 74500,
+        "end_ms": 110080,
+        "start_line": "L037",
+        "end_line": "L051",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 35580,
+    "problems": [],
+    "flags": [
+      "hook_line_aligned_to_quote"
+    ],
+    "raw": {
+      "title": "Wedding of the Wicked",
+      "segments": [
+        {
+          "start_line": "L037",
+          "end_line": "L051"
+        }
+      ],
+      "hook_line": "L038",
+      "hook": "The elder nobleman smiles with deadly intent, declaring the 'witch' will be dead by sunset, instantly raising the stakes.",
+      "hook_quote": "And its witch will be dead.",
+      "cliffhanger_line": "L051",
+      "cliffhanger": "The villains exchange triumphant smiles, completely unaware of the impending doom, creating dramatic irony.",
+      "cliffhanger_quote": "",
+      "why_it_works": "The contrast between the villains' smugness and the audience's knowledge of Alexander's arrival creates extreme tension.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man smiles sinisterly.",
+      "hook": 2,
+      "understood": "Villains are getting married and celebrating their victory.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will they be stopped?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Repetitive content.",
+      "blind_label": "M"
+    },
+    "quality": 38.7,
+    "penalty": 0,
+    "score": 38.7,
+    "rank": 46,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 3/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E48-636f3d",
+    "episode": 48,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Secret Counter-Plot",
+    "hook": "Catherine drops her submissive facade, revealing her true, venomous intent to ruin the protagonists, immediately creating tension.",
+    "hook_line": "L003",
+    "hook_quote": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+    "cliffhanger": "Catherine stares out into the night with cold ambition, leaving the viewer to fear what her next move will be.",
+    "cliffhanger_line": "L043",
+    "cliffhanger_quote": "",
+    "why_it_works": "It highlights the duality of the villain, showing the audience she is far from defeated and actively planning revenge.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 48,
+        "start_ms": 2400,
+        "end_ms": 26700,
+        "start_line": "L003",
+        "end_line": "L014",
+        "adjustments": []
+      },
+      {
+        "episode": 48,
+        "start_ms": 66900,
+        "end_ms": 80000,
+        "start_line": "L038",
+        "end_line": "L043",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 37400,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Secret Counter-Plot",
+      "segments": [
+        {
+          "start_line": "L003",
+          "end_line": "L014"
+        },
+        {
+          "start_line": "L038",
+          "end_line": "L043"
+        }
+      ],
+      "hook_line": "L003",
+      "hook": "Catherine drops her submissive facade, revealing her true, venomous intent to ruin the protagonists, immediately creating tension.",
+      "hook_quote": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+      "cliffhanger_line": "L043",
+      "cliffhanger": "Catherine stares out into the night with cold ambition, leaving the viewer to fear what her next move will be.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It highlights the duality of the villain, showing the audience she is far from defeated and actively planning revenge.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A woman is talking about a healer's crown and the gutter.",
+      "hook": 2,
+      "understood": "Catherine is plotting to ruin someone's status.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "What is the ten-day plan?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "The villainy feels a bit one-dimensional.",
+      "blind_label": "I"
+    },
+    "quality": 38.7,
+    "penalty": 0,
+    "score": 38.7,
+    "rank": 47,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 3/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E02-49b0b1",
+    "episode": 2,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Bride Reclaims Her Dignity",
+    "hook": "The groom callously tells his abandoned bride at the altar to leave quietly with dignity, instantly creating anger and curiosity for her response.",
+    "hook_line": "L052",
+    "hook_quote": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+    "cliffhanger": "Juliana delivers a fiery, triumphant proclamation that she will not be ashamed, leaving the entire chapel stunned.",
+    "cliffhanger_line": "L073",
+    "cliffhanger_quote": "...but I will not leave it believing I was the one who should be ashamed.",
+    "why_it_works": "It transforms a humiliating altar rejection into an empowering mic-drop moment that makes scrollers cheer for the underdog heroine.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 2,
+        "start_ms": 69300,
+        "end_ms": 110000,
+        "start_line": "L051",
+        "end_line": "L073",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 40700,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Bride Reclaims Her Dignity",
+      "segments": [
+        {
+          "start_line": "L051",
+          "end_line": "L073"
+        }
+      ],
+      "hook_line": "L052",
+      "hook": "The groom callously tells his abandoned bride at the altar to leave quietly with dignity, instantly creating anger and curiosity for her response.",
+      "hook_quote": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+      "cliffhanger_line": "L073",
+      "cliffhanger": "Juliana delivers a fiery, triumphant proclamation that she will not be ashamed, leaving the entire chapel stunned.",
+      "cliffhanger_quote": "...but I will not leave it believing I was the one who should be ashamed.",
+      "why_it_works": "It transforms a humiliating altar rejection into an empowering mic-drop moment that makes scrollers cheer for the underdog heroine.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "Groom telling Juliana to go home quietly from the altar to keep some dignity.",
+      "hook": 3,
+      "understood": "Juliana was dumped at the altar for a richer woman, but instead of leaving quietly, she delivers a regal public speech calling out Gerald's lack of honor.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Resolves completely with a finished speech, so there is no reason to keep watching",
+      "blind_label": "B"
+    },
+    "quality": 37.5,
+    "penalty": 0,
+    "score": 37.5,
+    "rank": 48,
+    "why_ranked": "Cold viewer: hook 3/5, cliffhanger 1/5, stands alone 4/5, would tap 2/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E25-02aa94",
+    "episode": 25,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Alexander's Fury",
+    "hook": "Alexander confronts Juliana, immediately creating a sense of intimacy and concern.",
+    "hook_line": "L004",
+    "hook_quote": "Juliana.",
+    "cliffhanger": "Juliana reveals who hurt her, setting up an inevitable confrontation between Alexander and Catherine.",
+    "cliffhanger_line": "L024",
+    "cliffhanger_quote": "Lady Catherine.",
+    "why_it_works": "It focuses on the emotional bond between the leads and the immediate threat to Juliana's safety.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 25,
+        "start_ms": 5100,
+        "end_ms": 38500,
+        "start_line": "L004",
+        "end_line": "L024",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 33400,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Alexander's Fury",
+      "segments": [
+        {
+          "start_line": "L004",
+          "end_line": "L024"
+        }
+      ],
+      "hook_line": "L004",
+      "hook": "Alexander confronts Juliana, immediately creating a sense of intimacy and concern.",
+      "hook_quote": "Juliana.",
+      "cliffhanger_line": "L024",
+      "cliffhanger": "Juliana reveals who hurt her, setting up an inevitable confrontation between Alexander and Catherine.",
+      "cliffhanger_quote": "Lady Catherine.",
+      "why_it_works": "It focuses on the emotional bond between the leads and the immediate threat to Juliana's safety.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "Alexander calls out to Juliana.",
+      "hook": 2,
+      "understood": "Alexander discovers Juliana has been physically abused by Lady Catherine.",
+      "confusions": "None.",
+      "standalone": 3,
+      "open_question": "Will Alexander seek revenge?",
+      "cliffhanger": 2,
+      "tap_to_watch": 2,
+      "main_problem": "The conflict feels predictable.",
+      "blind_label": "J"
+    },
+    "quality": 31.2,
+    "penalty": 0,
+    "score": 31.2,
+    "rank": 49,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 2/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E09-75ac73",
+    "episode": 9,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "The Scarred Duke Mystery",
+    "hook": "A groom reports a rumor that a local war veteran resembles the late Duke, instantly pulling new viewers into a high-stakes identity conspiracy.",
+    "hook_line": "L075",
+    "hook_quote": "About a war veteran. Some say he resembles the late Duke.",
+    "cliffhanger": "The Blond Nobleman stares into the fire in creeping dread after whispering 'Impossible', leaving viewers desperate to know the truth behind the husband's past.",
+    "cliffhanger_line": "L089",
+    "cliffhanger_quote": "",
+    "why_it_works": "It exposes the show's core hidden-identity plot with dramatic escalation and psychological tension.",
+    "setup_needed": "none",
+    "spoiler_risk": "medium",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 9,
+        "start_ms": 92100,
+        "end_ms": 115500,
+        "start_line": "L075",
+        "end_line": "L089",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 23400,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "The Scarred Duke Mystery",
+      "segments": [
+        {
+          "start_line": "L075",
+          "end_line": "L089"
+        }
+      ],
+      "hook_line": "L075",
+      "hook": "A groom reports a rumor that a local war veteran resembles the late Duke, instantly pulling new viewers into a high-stakes identity conspiracy.",
+      "hook_quote": "About a war veteran. Some say he resembles the late Duke.",
+      "cliffhanger_line": "L089",
+      "cliffhanger": "The Blond Nobleman stares into the fire in creeping dread after whispering 'Impossible', leaving viewers desperate to know the truth behind the husband's past.",
+      "cliffhanger_quote": "",
+      "why_it_works": "It exposes the show's core hidden-identity plot with dramatic escalation and psychological tension.",
+      "setup_needed": "none",
+      "spoiler_risk": "medium",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A guy talking about a rumor regarding a war veteran resembling the late Duke.",
+      "hook": 2,
+      "understood": "A noble is panicking over a rumor that a veteran with a specific scar might be the late Duke.",
+      "confusions": "Who the characters are since they are introduced with zero context.",
+      "standalone": 2,
+      "open_question": "How will the nobleman deal with this threat?",
+      "cliffhanger": 3,
+      "tap_to_watch": 2,
+      "main_problem": "Feels like a random middle chunk of a scene.",
+      "blind_label": "C"
+    },
+    "quality": 32.5,
+    "penalty": 2,
+    "score": 30.5,
+    "rank": 50,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 3/5, stands alone 2/5, would tap 2/5. early-episode setup matches where a new viewer starts.",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E08-17277a",
+    "episode": 8,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "Scarred Soldier's Touch",
+    "hook": "Juliana reaches affectionately for her scarred husband's face, only for him to suddenly catch her wrist in midair.",
+    "hook_line": "L026",
+    "hook_quote": "I could trim them for you.",
+    "cliffhanger": "Juliana gazes at her scarred husband by the hearth fire and realizes her entire perspective on her lost noble status has shifted.",
+    "cliffhanger_line": "L062",
+    "cliffhanger_quote": "Perhaps I was wrong.",
+    "why_it_works": "It opens with a tense physical wrist grab that immediately sparks romance chemistry, before deepening into an emotional conversation about war scars and redemption.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 8,
+    "segments": [
+      {
+        "episode": 8,
+        "start_ms": 28100,
+        "end_ms": 78000,
+        "start_line": "L025",
+        "end_line": "L063",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 49900,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "Scarred Soldier's Touch",
+      "segments": [
+        {
+          "start_line": "L025",
+          "end_line": "L063"
+        }
+      ],
+      "hook_line": "L026",
+      "hook": "Juliana reaches affectionately for her scarred husband's face, only for him to suddenly catch her wrist in midair.",
+      "hook_quote": "I could trim them for you.",
+      "cliffhanger_line": "L062",
+      "cliffhanger": "Juliana gazes at her scarred husband by the hearth fire and realizes her entire perspective on her lost noble status has shifted.",
+      "cliffhanger_quote": "Perhaps I was wrong.",
+      "why_it_works": "It opens with a tense physical wrist grab that immediately sparks romance chemistry, before deepening into an emotional conversation about war scars and redemption.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 8
+    },
+    "critic": {
+      "first_3s": "A woman stands up and tenderly reaches out to touch a man's face, offering to trim his hair or beard.",
+      "hook": 2,
+      "understood": "A fallen wealthy woman and a scarred ex-soldier are sharing an intimate, cozy night by the fire, slowly falling for each other.",
+      "confusions": "none",
+      "standalone": 4,
+      "open_question": "none - it resolves",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "too slow and completely resolved",
+      "blind_label": "A"
+    },
+    "quality": 30.0,
+    "penalty": 0,
+    "score": 30.0,
+    "rank": 51,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 1/5, stands alone 4/5, would tap 2/5. safe to post early (low spoiler risk); early-episode setup matches where a new viewer starts.",
+    "tier": "weak"
+  },
+  {
+    "promo_id": "E17-91e4b3",
+    "episode": 17,
+    "origin": "proposer",
+    "proposer_rank": 1,
+    "title": "A Vow of Protection",
+    "hook": "The blunt, stoic question 'For what?' immediately highlights Alexander's humble nature versus Juliana's deep gratitude, drawing the viewer into their developing relationship.",
+    "hook_line": "L013",
+    "hook_quote": "For what?",
+    "cliffhanger": "The playful, intimate banter about arguing makes the viewer want to see if their relationship will blossom or be torn apart by their circumstances.",
+    "cliffhanger_line": "L037",
+    "cliffhanger_quote": "You make it very difficult to argue with you.",
+    "why_it_works": "It provides a necessary emotional breather and establishes the romantic stakes that make the later conflicts more painful.",
+    "setup_needed": "none",
+    "spoiler_risk": "low",
+    "self_score": 9,
+    "segments": [
+      {
+        "episode": 17,
+        "start_ms": 16800,
+        "end_ms": 51500,
+        "start_line": "L013",
+        "end_line": "L037",
+        "adjustments": []
+      }
+    ],
+    "duration_ms": 34700,
+    "problems": [],
+    "flags": [],
+    "raw": {
+      "title": "A Vow of Protection",
+      "segments": [
+        {
+          "start_line": "L013",
+          "end_line": "L037"
+        }
+      ],
+      "hook_line": "L013",
+      "hook": "The blunt, stoic question 'For what?' immediately highlights Alexander's humble nature versus Juliana's deep gratitude, drawing the viewer into their developing relationship.",
+      "hook_quote": "For what?",
+      "cliffhanger_line": "L037",
+      "cliffhanger": "The playful, intimate banter about arguing makes the viewer want to see if their relationship will blossom or be torn apart by their circumstances.",
+      "cliffhanger_quote": "You make it very difficult to argue with you.",
+      "why_it_works": "It provides a necessary emotional breather and establishes the romantic stakes that make the later conflicts more painful.",
+      "setup_needed": "none",
+      "spoiler_risk": "low",
+      "self_score": 9
+    },
+    "critic": {
+      "first_3s": "A man asks 'For what?' followed by a woman looking at him with tears in her eyes.",
+      "hook": 2,
+      "understood": "A man is protecting a woman from some men, and they seem to have a romantic, protective bond.",
+      "confusions": "Who are the men he is protecting her from, and why is she bandaged?",
+      "standalone": 3,
+      "open_question": "Will he actually be able to keep his promise to protect her?",
+      "cliffhanger": 1,
+      "tap_to_watch": 2,
+      "main_problem": "Overly melodramatic dialogue.",
+      "blind_label": "A"
+    },
+    "quality": 23.8,
+    "penalty": 0,
+    "score": 23.8,
+    "rank": 52,
+    "why_ranked": "Cold viewer: hook 2/5, cliffhanger 1/5, stands alone 3/5, would tap 2/5. safe to post early (low spoiler risk).",
+    "tier": "weak"
+  }
+]

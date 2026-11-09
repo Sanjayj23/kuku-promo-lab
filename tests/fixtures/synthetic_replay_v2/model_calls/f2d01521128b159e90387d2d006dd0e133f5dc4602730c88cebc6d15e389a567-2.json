@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"What is the buyer's plan for the thirty people aboard if they cannot be evacuated before dawn?\",\n  \"actor_voice\": \"voice_1\",\n  \"target_voice\": \"voice_2\",\n  \"ending_evidence_ids\": [\"U002\", \"U005\"],\n  \"ending_quote\": \"No rescue ship is on the schedule.\",\n  \"status\": \"disputed\",\n  \"answer_quote\": \"The buyer wants everyone off before dawn.\",\n  \"unresolved_consequence\": \"The exact plan for the thirty people aboard remains unclear, as the dialogue does not explicitly state the buyer's alternative plan if the\u4e09\u5341\",\n  \"context\": \"The buyer's plan for the thirty people aboard is not explicitly stated, but it is implied that the buyer wants everyone off before dawn, and\",\"entities\": [\n    {\n      \"entity\": \"buyer's plan\",\n      \"source_quote\": \"The buyer wants everyone off before dawn.\",\n      \"utterance_id\": \"U002\"\n    },\n    {\n      \"entity\": \"rescue ship schedule\",\n      \"source_quote\": \"No rescue ship is on the schedule.\",\n      \"utterance_id\": \"U004\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U002\", \"U004\", \"U005\"],\n  \"uncertainty_flags\": [],\n  \"uncertainty_reason\": \"The exact plan for the thirty people aboard remains unclear, as the dialogue does not explicitly state the buyer's alternative plan if the\u4e09\u5341\"\n}",
+  "validated": false,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 47.802294,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 758,
+      "completion_tokens": 334
+    }
+  }
+}

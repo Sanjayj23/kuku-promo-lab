@@ -1,0 +1,6 @@
+{
+  "raw_text": "{\n  \"proposals\": [\n    {\n      \"start_boundary_id\": \"ep-001:t000021000\",\n      \"end_boundary_id\": \"ep-001:t000058000\",\n      \"event_summary\": \"The captain must decide who to save during an orbital rescue, as the rescue cable can only hold one person.\",\n      \"hook\": {\n        \"text\": \"\\\"Tell me who has oxygen left.\\\"\",\n        \"evidence_ids\": [\"ep-001:b0007\"]\n      },\n      \"cliffhanger\": {\n        \"text\": \"\\\"Do not open the inner door yet.\\\"\",\n        \"evidence_ids\": [\"ep-001:b0014\"]\n      },\n      \"required_context\": [\n        \"The rescue cable can only hold one person.\",\n        \"The captain's daughter is not on the crew list.\",\n        \"A transmission reveals someone else on the channel.\"\n      ],\n      \"visual_flags\": [\n        \"A warning light flashes.\"\n      ],\n      \"scores\": {\n        \"hook\": 3,\n        \"cliffhanger\": 3,\n        \"comprehension\": 3,\n        \"emotion\": 3,\n        \"coherence\": 4,\n        \"boundary\": 4\n      }\n    }\n  ],\n  \"no_candidate_reason\": \"\"\n}",
+  "validated": true,
+  "model": "qwen3-8b",
+  "origin": "local"
+}

@@ -1,0 +1,97 @@
+{
+  "episodes": {
+    "value": "50 / 50",
+    "source": "original V2 run_manifest.json statistics.files_parsed/files_discovered"
+  },
+  "blocks": {
+    "value": "3,727",
+    "source": "original V2 run_manifest.json statistics.blocks"
+  },
+  "intervals": {
+    "value": 157,
+    "source": "private/audit/validation-v3.json all_artifact_intervals_checked"
+  },
+  "v1_cold_minutes": {
+    "value": 47.7,
+    "source": "private/cloud-final/private/runs/kaggle-full-01/run_manifest.json elapsed_s / 60 rounded"
+  },
+  "v1_warm_minutes": {
+    "value": 18.1,
+    "source": "original V1 run_manifest.json elapsed_s / 60 rounded"
+  },
+  "v2_minutes": {
+    "value": 50.8,
+    "source": "original V2 run_manifest.json elapsed_s / 60 rounded"
+  },
+  "runtime_lines": {
+    "value": "V1 cold 47.7 min on T4 under the earlier rubric; warm 18.1 min with 50 cached analyses. V2 partial 50.8 min on M1; 97 historical responses, 93 fresh attempts, 13 cache hits. Concurrent synthetic job adds contention.",
+    "source": "original V1/V2 manifests inference and elapsed_s; first cold GPU manifest elapsed_s"
+  },
+  "before": {
+    "value": "2 suggestions | A 4 / B 17 / Excluded 26",
+    "source": "private/audit/regate_comparison.json before, recommendations_before"
+  },
+  "after": {
+    "value": "0 suggestions | A 0 / B 16 / Excluded 31",
+    "source": "private/audit/regate_comparison.json after, recommendations_after"
+  },
+  "families": {
+    "value": "Families deeply reviewed: 12 of 50. Regated using saved responses, with zero new inference.",
+    "source": "original V2 statistics.families_reviewed, files_discovered; regate manifest inference.attempts"
+  },
+  "test_line": {
+    "value": "57 public tests passed; 1 private-pack test skipped. All 58 pass with the private pack supplied. Source validation passes all 157 interval records.",
+    "source": "private/audit/p1-9-tests.log and private/audit/private-tests.log; validation-v3.json"
+  },
+  "blind_line": {
+    "value": "Seven differing blind pairs and one identical control compare the same analyst event: analyst cut versus searched cut. This isolates boundary search. Human ratings remain pending.",
+    "source": "private/evaluation/full-02-corrected/metrics.json; human_ratings.csv blank"
+  },
+  "limitations": {
+    "value": "Lexical flags route synonyms and uncertain claims to review; they do not establish semantic truth. The 13 original ending-check failures persist. Local model unavailable: no live controls or fresh gate-3 inference. Bounded search can miss stronger cuts. Local servers are configurable.",
+    "source": "private/audit/regate_comparison.json; doctor-live-network.log; source search.py and models.py"
+  },
+  "ai_tools_line": {
+    "value": "AI tools: Codex for implementation and QA; Qwen3-8B/4B via llama.cpp for saved editorial judgments. Public examples are synthetic.",
+    "source": "docs/tools_used.md; original run manifests"
+  },
+  "author_line": {
+    "value": "",
+    "source": "USER: candidate name/contact pending"
+  },
+  "links": {
+    "value": [],
+    "source": "USER: verified artifact URLs pending"
+  },
+  "figure": {
+    "value": {
+      "max_seconds": 36.0,
+      "rows": [
+        {
+          "label": "base",
+          "start": 6.0,
+          "end": 29.0,
+          "first": "\"We still have thirty people aboard.\"",
+          "last": "\"No rescue ship is on the schedule.\""
+        },
+        {
+          "label": "previous_start",
+          "start": 0.0,
+          "end": 29.0,
+          "first": "\"Our station has been sold!\"",
+          "last": "\"No rescue ship is on the schedule.\""
+        },
+        {
+          "label": "next_end",
+          "start": 6.0,
+          "end": 36.0,
+          "first": "\"We still have thirty people aboard.\"",
+          "last": "\"What did the buyer plan for the people?\""
+        }
+      ],
+      "decision": "Preferred over 2 nearby cuts. Deciding factors: weighted_score (2).",
+      "caption": "Saved synthetic model responses. The combined 0-36s cut is outside the current search (single-edge moves)."
+    },
+    "source": "private/runs/synthetic-v1-v3-check/candidate_families.jsonl family-8eafb187844c9ee9; zero-call replay from bundled V1 synthetic fixture"
+  }
+}

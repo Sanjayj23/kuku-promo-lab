@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"interpretation\": {\n    \"text\": \"U001 and U002 are in a crisis situation involving a crew member who has stopped responding, with U002 demanding oxygen and U001 insisting on prioritizing a daughter not on the crew list.\",\n    \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"]\n  },\n  \"missing_context\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ],\n  \"essential_context_missing\": true,\n  \"unresolved_question\": {\n    \"text\": \"Who is the daughter mentioned by U002, and why is she not on the crew list?\",\n    \"evidence_ids\": [\"U005\"]\n  },\n  \"criteria\": {\n    \"hook\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\"],\n      \"reason\": \"U001's statement 'Two of us are out here!' is a clear opener but lacks specific details about the situation.\"\n    },\n    \"cliffhanger\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U005\", \"U006\"],\n      \"reason\": \"U002's demand for oxygen and U006's response about the daughter not being on the crew list create a conflict and unresolved question.\"\n    },\n    \"comprehension\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue establishes a crisis involving a missing crew member and a conflict over priorities, but the exact nature of the situation is unclear.\"\n    },\n    \"emotion\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U005\"],\n      \"reason\": \"U002's concern for a daughter suggests personal stakes, but the emotional context is not fully clear.\"\n    },\n    \"coherence\": {\n      \"score\": 2,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue shows a conflict between two characters with different priorities, but the full context of the situation is missing.\"\n    },\n    \"boundary\": {\n      \"score\": 1,\n      \"evidence_ids\": [\"U001\", \"U002\", \"U003\", \"U004\"],\n      \"reason\": \"The dialogue starts with a clear statement but lacks the full context to understand the situation fully.\"\n    }\n  },\n  \"uncertainty_flags\": [\n    \"essential_context_missing\",\n    \"essential_context_missing\",\n    \"essential_context_missing\"\n  ]\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 161.218837,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 1524,
+      "completion_tokens": 613
+    }
+  }
+}

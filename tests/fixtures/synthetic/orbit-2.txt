@@ -1,0 +1,40 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: A transmission reveals a new threat.
+CONTINUITY NOTES: Original authored fixture; not real footage.
+
+--- SCRIPT START ---
+SCENE 01
+Scene heading: INT. RADIO ROOM
+Scene start: 00:00.00
+Scene end: 00:40.00
+Actions and dialogue:
+
+**RADIO OPERATOR (Alarmed):**
+Start: (00:00.00) | End: (00:02.00)
+"Our station has been sold!"
+
+**TECHNICIAN (Worried):**
+Start: (00:06.00) | End: (00:09.00)
+"We still have thirty people aboard."
+
+**RADIO OPERATOR (Firm):**
+Start: (00:13.00) | End: (00:16.00)
+"The buyer wants everyone off before dawn."
+
+**TECHNICIAN (Determined):**
+Start: (00:20.00) | End: (00:22.00)
+"Then who is coming to get us?"
+
+**RADIO OPERATOR (Quiet):**
+Start: (00:26.00) | End: (00:29.00)
+"No rescue ship is on the schedule."
+
+**TECHNICIAN (Uneasy):**
+Start: (00:33.00) | End: (00:36.00)
+"What did the buyer plan for the people?"
+
+**SOUND FX:**
+Start: (00:37.00) | End: (00:40.00)
+Static replaces the transmission.
+
+--- SCRIPT END ---

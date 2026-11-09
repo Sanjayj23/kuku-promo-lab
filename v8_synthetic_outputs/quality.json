@@ -1,0 +1,78 @@
+{
+  "candidates_valid": 2,
+  "candidates_rejected_after_repair": 0,
+  "repaired_after_rule_check": 0,
+  "rule_checks_on_ranked": "every ranked promo passed: 20-60 s, hook line starts in first 3 s, cliffhanger line inside the cut, exact quotes, no half-cut speech",
+  "flags_on_ranked": {},
+  "tiers": {
+    "post_first": 1,
+    "good": 1
+  },
+  "blind_critic_means": {
+    "tool_best_per_episode": {
+      "n": 2,
+      "hook": 3.5,
+      "cliffhanger": 3.5,
+      "standalone": 4.0,
+      "tap_to_watch": 3.5,
+      "quality_0_100": 65.6
+    },
+    "tool_all": {
+      "n": 2,
+      "hook": 3.5,
+      "cliffhanger": 3.5,
+      "standalone": 4.0,
+      "tap_to_watch": 3.5,
+      "quality_0_100": 65.6
+    },
+    "baseline_ending": {
+      "n": 2,
+      "hook": 3.0,
+      "cliffhanger": 2.0,
+      "standalone": 3.5,
+      "tap_to_watch": 2.5,
+      "quality_0_100": 43.8
+    },
+    "baseline_random": {
+      "n": 2,
+      "hook": 3.0,
+      "cliffhanger": 3.0,
+      "standalone": 3.5,
+      "tap_to_watch": 3.0,
+      "quality_0_100": 53.1
+    }
+  },
+  "tool_best_vs_episode_ending_baseline": {
+    "tool_wins": 2
+  },
+  "tool_best_vs_random_window_baseline": {
+    "tool_wins": 1,
+    "ties": 1
+  },
+  "proposer_self_score_vs_critic_spearman": null,
+  "rejection_reasons": {},
+  "common_critic_problems": [
+    [
+      "relies heavily on text and voice lines",
+      1
+    ],
+    [
+      "slow pacing",
+      1
+    ]
+  ],
+  "weakest_reviewed": [
+    {
+      "promo_id": "E02-51673b",
+      "quality": 56.2,
+      "main_problem": "Slow pacing",
+      "confusions": "none"
+    },
+    {
+      "promo_id": "E01-05a6f3",
+      "quality": 75.0,
+      "main_problem": "Relies heavily on text and voice lines",
+      "confusions": "none"
+    }
+  ]
+}

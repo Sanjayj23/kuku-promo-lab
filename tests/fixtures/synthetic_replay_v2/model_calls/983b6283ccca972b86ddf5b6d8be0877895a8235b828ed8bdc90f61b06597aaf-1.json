@@ -1,0 +1,14 @@
+{
+  "raw_text": "{\n  \"question\": \"Who is the daughter mentioned by U002, and why is she not on the crew list?\",\n  \"actor_voice\": \"voice_2\",\n  \"target_voice\": \"voice_3\",\n  \"ending_evidence_ids\": [\"U005\", \"U006\"],\n  \"ending_quote\": \"Your daughter is not on the crew list.\",\n  \"status\": \"disputed\",\n  \"answer_quote\": \"Your daughter is not on the crew list.\",\n  \"unresolved_consequence\": \"The identity of the daughter and the reason for her absence from the crew list remain unclear.\",\n  \"context\": \"U002 mentions 'my daughter' and requests that the cable be given to her first. U003 responds that the daughter is not on the crew list, butU\",\n  \"entities\": [\n    {\n      \"entity\": \"daughter\",\n      \"source_quote\": \"Give the cable to my daughter first.\",\n      \"utterance_id\": \"U005\"\n    },\n    {\n      \"entity\": \"crew list\",\n      \"source_quote\": \"Your daughter is not on the crew list.\",\n      \"utterance_id\": \"U006\"\n    }\n  ],\n  \"supporting_evidence_ids\": [\"U005\", \"U006\"],\n  \"uncertainty_flags\": [\n    \"uncertain_roles\"\n  ],\n  \"uncertainty_reason\": \"The identity of the daughter and the reason for her absence from the crew list are not definitively established.\"\n}",
+  "validated": true,
+  "model": "qwen3-4b",
+  "origin": "local",
+  "finish_reason": "stop",
+  "elapsed_s": 116.878146,
+  "usage": {
+    "tokens": {
+      "prompt_tokens": 988,
+      "completion_tokens": 332
+    }
+  }
+}
